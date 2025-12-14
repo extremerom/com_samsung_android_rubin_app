@@ -424,9 +424,9 @@
 
     invoke-virtual {p0}, Ljava/lang/Throwable;->printStackTrace()V
 
-    const/4 p0, 0x0
+    const/4 v0, 0x0
 
-    return p0
+    return v0
 .end method
 
 .method public static declared-synchronized h(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V
