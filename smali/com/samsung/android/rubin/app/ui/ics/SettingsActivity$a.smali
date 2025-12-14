@@ -127,10 +127,6 @@
     goto :goto_0
 
     :cond_0
-    # Always show preferences - removed visibility hiding
-    # iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->b1:Landroidx/preference/DropDownPreference;
-
-    # invoke-virtual {p1, p2}, Landroidx/preference/Preference;->D(Z)V
 
     :goto_0
     iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->b1:Landroidx/preference/DropDownPreference;

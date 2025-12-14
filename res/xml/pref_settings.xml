@@ -3,8 +3,8 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <androidx.preference.DropDownPreference android:entries="@array/upload_data_using_list" android:title="@string/upload_data_using" android:key="key_upload_data_using" android:entryValues="@array/upload_data_using_list" />
     <androidx.preference.PreferenceCategory android:title="Developer Options">
-        <androidx.preference.SwitchPreference android:title="Debug Mode" android:key="key_debug_mode" android:defaultValue="true" android:summary="Enable debug mode for additional logging" />
-        <androidx.preference.SwitchPreference android:title="Developer Mode" android:key="key_developer_mode" android:defaultValue="true" android:summary="Enable developer features" />
+        <androidx.preference.SwitchPreference android:title="Debug Logging" android:key="key_debug_logging" android:defaultValue="true" android:summary="Enable verbose debug logging" />
+        <androidx.preference.SwitchPreference android:title="Developer Features" android:key="key_developer_features" android:defaultValue="true" android:summary="Show all developer options" />
         <androidx.preference.Preference android:title="Debug Tools" android:key="key_debug_tools" android:summary="Access debug and diagnostic tools" />
         <androidx.preference.Preference android:title="Export Databases" android:key="key_export_databases" android:summary="Export internal databases for analysis" />
         <androidx.preference.Preference android:title="Import Databases" android:key="key_import_databases" android:summary="Import databases from external storage" />

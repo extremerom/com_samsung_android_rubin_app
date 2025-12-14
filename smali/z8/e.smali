@@ -260,7 +260,9 @@
 
     const/4 v3, 0x1
 
-    # Force debug mode enabled - set v4 to 0 (v2 = false, which enables debug logging)
+    # Force debug mode enabled by setting Lz8/e;->e:Z to false
+    # In this app's logic, e:Z=false means NOT user release mode, which enables debug features
+    # v2 contains 0 (false), so moving it to v4 sets debug mode ON
     move v4, v2
 
     :goto_0
