@@ -19,7 +19,7 @@
 
 # virtual methods
 .method public final onReceive(Landroid/content/Context;Landroid/content/Intent;)V
-    .locals 1
+    .locals 3
 
     new-instance p0, Landroid/os/HandlerThread;
 
