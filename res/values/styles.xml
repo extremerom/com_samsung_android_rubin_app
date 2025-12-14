@@ -2777,7 +2777,6 @@
         <item name="android:navigationBarColor">?roundedCornerColor</item>
         <item name="android:windowLightStatusBar">@bool/is_light_theme</item>
         <item name="android:windowLightNavigationBar">@bool/is_light_theme</item>
-        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
     </style>
     <style name="RubinAppTheme.Permissions" parent="@style/Theme.AppCompat.DayNight.NoActionBar">
         <item name="android:windowDisablePreview">true</item>
