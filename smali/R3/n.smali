@@ -245,9 +245,12 @@
 
     sget-object v1, LE7/a;->a:Ljava/util/HashMap;
 
+    :try_start_0
     invoke-static {v0}, Landroid/accounts/AccountManager;->get(Landroid/content/Context;)Landroid/accounts/AccountManager;
 
     move-result-object v0
+
+    if-eqz v0, :cond_2
 
     const-string v1, "com.osp.app.signin"
 
@@ -255,15 +258,32 @@
 
     move-result-object v0
 
+    if-eqz v0, :cond_2
+
     array-length v1, v0
 
     if-lez v1, :cond_2
 
     aget-object v0, v0, p2
 
+    if-eqz v0, :cond_2
+
     iget-object v0, v0, Landroid/accounts/Account;->name:Ljava/lang/String;
+    :try_end_0
+    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
 
     goto :goto_0
+
+    :catch_0
+    move-exception v0
+
+    const-string v1, "Error getting Samsung account"
+
+    new-array v2, p2, [Ljava/lang/Object;
+
+    invoke-static {v1, v2}, Lz8/e;->e(Ljava/lang/String;[Ljava/lang/Object;)V
+
+    invoke-virtual {v0}, Ljava/lang/Throwable;->printStackTrace()V
 
     :cond_2
     const-string v0, "Samsung account Information doesn\'t exist"
