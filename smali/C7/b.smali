@@ -974,11 +974,11 @@
 
     invoke-static {v1, v3}, Lq6/o;->b(Ljava/lang/String;[Ljava/lang/Object;)V
 
-    if-eqz p0, :cond_10_skip_getclass
+    if-eqz p0, :cond_10a
 
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
-    :cond_10_skip_getclass
+    :cond_10a
     const-class v3, LC7/f;
 
     monitor-enter v3
