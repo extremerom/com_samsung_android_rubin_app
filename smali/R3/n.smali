@@ -36,6 +36,12 @@
 
 .field public final o1:LI5/g;
 
+.field public p1:Landroidx/preference/PreferenceCategory;
+
+.field public q1:Landroidx/preference/Preference;
+
+.field public r1:Landroidx/preference/Preference;
+
 
 # direct methods
 .method public constructor <init>()V
@@ -210,6 +216,32 @@
     check-cast p1, Lcom/samsung/android/rubin/app/ui/preference/AdSwitchPreference;
 
     iput-object p1, p0, LR3/n;->n1:Lcom/samsung/android/rubin/app/ui/preference/AdSwitchPreference;
+
+    const-string p1, "key_category_debug"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    check-cast p1, Landroidx/preference/PreferenceCategory;
+
+    iput-object p1, p0, LR3/n;->p1:Landroidx/preference/PreferenceCategory;
+
+    const-string p1, "key_debug_menu"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, LR3/n;->q1:Landroidx/preference/Preference;
+
+    const-string p1, "key_qa_provider"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, LR3/n;->r1:Landroidx/preference/Preference;
 
     iget-object p1, p0, LR3/n;->c1:Lh4/a;
 
@@ -446,6 +478,14 @@
     iget-object p1, p0, LR3/n;->n1:Lcom/samsung/android/rubin/app/ui/preference/AdSwitchPreference;
 
     iput-object p0, p1, Landroidx/preference/Preference;->e:Landroidx/preference/l;
+
+    iget-object p1, p0, LR3/n;->q1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
+
+    iget-object p1, p0, LR3/n;->r1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
 
     return-void
 .end method
@@ -868,6 +908,59 @@
 
     :cond_a
     :goto_3
+    iget-object p1, p0, LR3/n;->q1:Landroidx/preference/Preference;
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_debug_menu"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_b
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "Debug Menu Unlocked!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    goto :goto_4
+
+    :cond_b
+    iget-object p1, p0, LR3/n;->r1:Landroidx/preference/Preference;
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_qa_provider"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_c
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "QA Provider Access Enabled!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    :cond_c
+    :goto_4
     return v1
 
     nop

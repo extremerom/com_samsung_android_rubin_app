@@ -23,6 +23,16 @@
 
 .field public c1:Landroidx/preference/Preference;
 
+.field public d1:Landroidx/preference/PreferenceCategory;
+
+.field public e1:Landroidx/preference/Preference;
+
+.field public f1:Landroidx/preference/Preference;
+
+.field public g1:Landroidx/preference/Preference;
+
+.field public h1:Landroidx/preference/Preference;
+
 
 # direct methods
 .method public constructor <init>()V
@@ -140,6 +150,56 @@
 
     iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
 
+    const-string p1, "key_category_debug"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    check-cast p1, Landroidx/preference/PreferenceCategory;
+
+    iput-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->d1:Landroidx/preference/PreferenceCategory;
+
+    const-string p1, "key_developer_options"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->e1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
+
+    const-string p1, "key_qa_provider"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->f1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
+
+    const-string p1, "key_export_databases"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->g1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
+
+    const-string p1, "key_view_logs"
+
+    invoke-virtual {p0, p1}, Landroidx/preference/t;->g0(Ljava/lang/CharSequence;)Landroidx/preference/Preference;
+
+    move-result-object p1
+
+    iput-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->h1:Landroidx/preference/Preference;
+
+    iput-object p0, p1, Landroidx/preference/Preference;->f:Landroidx/preference/m;
+
     return-void
 .end method
 
@@ -178,7 +238,7 @@
 
     if-nez p1, :cond_0
 
-    goto :goto_0
+    goto :goto_1
 
     :cond_0
     const-string p1, "160"
@@ -199,6 +259,123 @@
 
     invoke-virtual {p0, p1}, Landroidx/fragment/app/x;->e0(Landroid/content/Intent;)V
 
+    goto :goto_0
+
+    :goto_1
+    iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->e1:Landroidx/preference/Preference;
+
+    if-eqz p1, :cond_1
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_developer_options"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_1
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "Developer Options Unlocked!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    goto :goto_0
+
+    :cond_1
+    iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->f1:Landroidx/preference/Preference;
+
+    if-eqz p1, :cond_2
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_qa_provider"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_2
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "QA Provider Access Enabled!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    goto :goto_0
+
+    :cond_2
+    iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->g1:Landroidx/preference/Preference;
+
+    if-eqz p1, :cond_3
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_export_databases"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_3
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "Database Export Started!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    goto :goto_0
+
+    :cond_3
+    iget-object p1, p0, Lcom/samsung/android/rubin/app/ui/ics/SettingsActivity$a;->h1:Landroidx/preference/Preference;
+
+    if-eqz p1, :cond_4
+
+    iget-object p1, p1, Landroidx/preference/Preference;->l:Ljava/lang/String;
+
+    const-string v0, "key_view_logs"
+
+    invoke-virtual {p1, v0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_4
+
+    invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
+
+    move-result-object p1
+
+    const-string v0, "Debug Logs Access Enabled!"
+
+    invoke-static {p1, v0, v1}, Landroid/widget/Toast;->makeText(Landroid/content/Context;Ljava/lang/CharSequence;I)Landroid/widget/Toast;
+
+    move-result-object p1
+
+    invoke-virtual {p1}, Landroid/widget/Toast;->show()V
+
+    :cond_4
     :goto_0
     return v1
 .end method

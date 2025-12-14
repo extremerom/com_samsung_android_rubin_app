@@ -688,4 +688,10 @@ Your data will be collected and processed in accordance with the Customization S
     <string name="write_contextmanager_permission_label">Write context manager data</string>
     <string name="write_personamanager_permission_description">This app can provide information about your personal preferences.</string>
     <string name="write_personamanager_permission_label">Write preference manager data</string>
+    <string name="title_debug_menu">Debug Options</string>
+    <string name="title_developer_options">Developer Options</string>
+    <string name="debug_category_title">Debug &amp; Developer</string>
+    <string name="debug_qa_provider">QA Provider Access</string>
+    <string name="debug_export_databases">Export Databases</string>
+    <string name="debug_view_logs">View Debug Logs</string>
 </resources>
