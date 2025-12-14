@@ -378,31 +378,55 @@
 .end method
 
 .method public static g(Landroid/content/Context;)Z
-    .locals 1
+    .locals 2
 
+    const/4 v0, 0x0
+
+    :try_start_0
     invoke-static {p0}, Landroid/accounts/AccountManager;->get(Landroid/content/Context;)Landroid/accounts/AccountManager;
 
     move-result-object p0
 
-    const-string v0, "com.osp.app.signin"
+    if-nez p0, :cond_0
 
-    invoke-virtual {p0, v0}, Landroid/accounts/AccountManager;->getAccountsByType(Ljava/lang/String;)[Landroid/accounts/Account;
+    return v0
+
+    :cond_0
+    const-string v1, "com.osp.app.signin"
+
+    invoke-virtual {p0, v1}, Landroid/accounts/AccountManager;->getAccountsByType(Ljava/lang/String;)[Landroid/accounts/Account;
 
     move-result-object p0
 
+    if-eqz p0, :cond_1
+
     array-length p0, p0
 
-    if-lez p0, :cond_0
+    if-lez p0, :cond_1
 
     const/4 p0, 0x1
 
-    goto :goto_0
-
-    :cond_0
-    const/4 p0, 0x0
-
-    :goto_0
     return p0
+
+    :cond_1
+    return v0
+    :try_end_0
+    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
+
+    :catch_0
+    move-exception p0
+
+    const-string v1, "Error checking Samsung account"
+
+    filled-new-array {v1}, [Ljava/lang/Object;
+
+    move-result-object v1
+
+    invoke-static {v1}, Lz8/e;->e([Ljava/lang/Object;)V
+
+    invoke-virtual {p0}, Ljava/lang/Throwable;->printStackTrace()V
+
+    return v0
 .end method
 
 .method public static declared-synchronized h(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V

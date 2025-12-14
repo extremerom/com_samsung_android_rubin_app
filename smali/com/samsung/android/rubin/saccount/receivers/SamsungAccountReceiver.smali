@@ -59,17 +59,25 @@
 
     invoke-virtual {v0}, Landroid/os/HandlerThread;->getLooper()Landroid/os/Looper;
 
-    move-result-object v0
+    move-result-object v2
 
-    invoke-direct {v1, v0}, Landroid/os/Handler;-><init>(Landroid/os/Looper;)V
+    invoke-direct {v1, v2}, Landroid/os/Handler;-><init>(Landroid/os/Looper;)V
 
-    new-instance v0, LC7/b;
+    new-instance v2, LC7/b;
 
-    const/4 v2, 0x0
+    const/4 v3, 0x0
 
-    invoke-direct {v0, p2, p1, p0, v2}, LC7/b;-><init>(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;I)V
+    invoke-direct {v2, p2, p1, p0, v3}, LC7/b;-><init>(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;I)V
 
-    invoke-virtual {v1, v0}, Landroid/os/Handler;->post(Ljava/lang/Runnable;)Z
+    invoke-virtual {v1, v2}, Landroid/os/Handler;->post(Ljava/lang/Runnable;)Z
+
+    new-instance p0, LC7/g;
+
+    invoke-direct {p0, v0}, LC7/g;-><init>(Landroid/os/HandlerThread;)V
+
+    const-wide/16 p1, 0x1388
+
+    invoke-virtual {v1, p0, p1, p2}, Landroid/os/Handler;->postDelayed(Ljava/lang/Runnable;J)Z
 
     return-void
 .end method
