@@ -168,7 +168,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
-                <category android:name="android.intent.category.BROWSABLER" />
+                <category android:name="android.intent.category.BROWSABLE" />
                 <data android:scheme="rubin" />
                 <data android:host="main" />
             </intent-filter>
