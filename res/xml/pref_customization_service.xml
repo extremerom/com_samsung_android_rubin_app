@@ -18,6 +18,10 @@
         <androidx.preference.Preference android:title="@string/title_download_personal_data" android:key="key_download" />
         <androidx.preference.Preference android:title="@string/title_erase_personal_data" android:key="key_erase" />
     </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/debug_category_title" android:key="key_category_debug">
+        <androidx.preference.Preference android:title="@string/title_debug_menu" android:key="key_debug_menu" android:summary="Access debug and developer features" />
+        <androidx.preference.Preference android:title="@string/debug_qa_provider" android:key="key_qa_provider" android:summary="QA testing and debugging" />
+    </androidx.preference.PreferenceCategory>
     <androidx.preference.PreferenceCategory android:key="key_category_ad">
         <com.samsung.android.rubin.app.ui.preference.AdSwitchPreference android:title="@string/info_ads" android:key="key_ad_switch" android:summary="" />
     </androidx.preference.PreferenceCategory>
