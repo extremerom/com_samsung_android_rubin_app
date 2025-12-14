@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+dist/
+*.apk
+
+# Temporary files
+*.orig
+*.tmp
+.DS_Store
