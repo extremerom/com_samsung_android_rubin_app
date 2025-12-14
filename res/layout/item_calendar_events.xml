@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView android:id="@id/calendar_events_icon" app:tint="@color/winset_inferences_detail_icon" style="@style/Winset.Inferences.Detail.Events.Item.Icon" />
+    <TextView android:id="@id/calendar_events_name" style="@style/Winset.Inferences.Detail.Events.Item.Name" />
+    <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="1.0" />
+    <TextView android:id="@id/calendar_events_count" style="@style/Winset.Inferences.Detail.Events.Item.Count" />
+</LinearLayout>

@@ -1,0 +1,16 @@
+.class Landroidx/viewpager2/adapter/FragmentStateAdapter$1;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Landroidx/lifecycle/q;
+
+
+# virtual methods
+.method public final a(Landroidx/lifecycle/s;Landroidx/lifecycle/m;)V
+    .locals 0
+
+    const/4 p0, 0x0
+
+    throw p0
+.end method

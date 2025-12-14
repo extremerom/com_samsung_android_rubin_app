@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Trebuie să aveți cel puțin %d an pentru a utiliza Serviciul de personalizare.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Trebuie să aveți cel puțin %d ani pentru a utiliza Serviciul de personalizare.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Trebuie să aveți cel puțin %d ani pentru a utiliza Serviciul de personalizare.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tip de eveniment în calendar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d tipuri de evenimente în calendar</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d tipuri de evenimente în calendar</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Domiciliu și %d alt loc vizitat frecvent identificate</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Domiciliu și %d alte locuri vizitate frecvent identificate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Domiciliu și %d alte locuri vizitate frecvent identificate</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d loc vizitat frecvent identificat</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d locuri vizitate frecvent identificate</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d locuri vizitate frecvent identificate</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="few">%d notificări noi</item>
+        <item quantity="other">%d de notificări noi</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza datelor antrenamentelor, a utilizării aplicațiilor și a conexiunilor dispozitivelor în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza datelor antrenamentelor, a utilizării aplicațiilor și a conexiunilor dispozitivelor în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza datelor antrenamentelor, a utilizării aplicațiilor și a conexiunilor dispozitivelor în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza momentului în care ați mers la școală, muncă sau acasă în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza momentului în care ați mers la școală, muncă sau acasă în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza momentului în care ați mers la școală, muncă sau acasă în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza tipurilor de aplicații pe care le-ați utilizat și a site-urilor web pe care le-ați vizitat în Samsung Internet în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza tipurilor de aplicații pe care le-ați utilizat și a site-urilor web pe care le-ați vizitat în Samsung Internet în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza tipurilor de aplicații pe care le-ați utilizat și a site-urilor web pe care le-ați vizitat în Samsung Internet în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza locurilor în care ați petrecut timp frecvent în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza locurilor în care ați petrecut timp frecvent în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza locurilor în care ați petrecut timp frecvent în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza aplicațiilor și setărilor pe care le-ați utilizat cel mai mult în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza aplicațiilor și setărilor pe care le-ați utilizat cel mai mult în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza aplicațiilor și setărilor pe care le-ați utilizat cel mai mult în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza momentului în care ați început și ați încetat să utilizați telefonul în ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza momentului în care ați început și ați încetat să utilizați telefonul în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza momentului în care ați început și ați încetat să utilizați telefonul în ultimele %d zile.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pe baza momentului în care ați început și ați încetat să utilizați tableta din ultima %d zi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pe baza momentului în care ați început și ați încetat să utilizați tableta în ultimele %d zile.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Pe baza momentului în care ați început și ați încetat să utilizați tableta în ultimele %d zile.</item>
+    </plurals>
+</resources>

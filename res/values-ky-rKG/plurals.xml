@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Жекечелештирүү кызматын колдонуу үчүн сиз кеминде %d жашта болушуңуз керек.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Жекечелештирүү кызматын колдонуу үчүн сиз кеминде %d жашта болушуңуз керек.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Календарда иш-чаранын %d түрү</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Календарда иш-чаранын %d түрү</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Үй жана башка көп барылган %d жер аныкталды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Үй жана башка көп барылган %d жер аныкталды</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Көп барылган %d жер аныкталды</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Көп барылган %d жер аныкталды</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндөгү машыгуу дайындарына, колдонмону колдонууга жана түзмөк туташууларына негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндөгү машыгуу дайындарына, колдонмону колдонууга жана түзмөк туташууларына негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндө мектепке, жумушка же үйгө качан барганыңызга негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндө мектепке, жумушка же үйгө качан барганыңызга негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Сиз колдонгон колдонмолордун түрлөрүнө жана акыркы %d күндө Samsung Интернетке кирген вебсайттарга негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Сиз колдонгон колдонмолордун түрлөрүнө жана акыркы %d күндө Samsung Интернетке кирген вебсайттарга негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндө сиз көп убакыт өткөргөн жерлерге негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндө сиз көп убакыт өткөргөн жерлерге негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндө эң көп колдонулган колдонмолорго жана жөндөөлөргө негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндө эң көп колдонулган колдонмолорго жана жөндөөлөргө негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндө телефонуңузду качан колдонуп баштаганыңызга жана токтотконуңузга негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндө телефонуңузду качан колдонуп баштаганыңызга жана токтотконуңузга негизделген.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Акыркы %d күндө планшетиңизди качан колдонуп баштаганыңызга жана токтотконуңузга негизделген.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Акыркы %d күндө планшетиңизди качан колдонуп баштаганыңызга жана токтотконуңузга негизделген.</item>
+    </plurals>
+</resources>

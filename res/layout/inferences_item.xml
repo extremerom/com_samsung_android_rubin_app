@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.SeslLinearLayoutCompat android:id="@id/inference_item" android:background="@color/card_enable_background_color" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" app:seslLayoutRoundedCorner="corner_all"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.constraintlayout.widget.ConstraintLayout android:id="@id/inference_item_layout" android:clickable="true" style="@style/inference_item_layout">
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/inference_item_title" app:layout_constraintBottom_toTopOf="@id/inference_item_desc" app:layout_constraintEnd_toStartOf="@id/inference_item_icon" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toTopOf="parent" style="@style/inference_item_title" />
+        <ImageView android:id="@id/inference_item_icon" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toTopOf="parent" app:tint="@color/winset_inferences_item_title_icon" style="@style/inference_item_icon" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/inference_item_desc" app:layout_constraintBottom_toTopOf="@id/inference_item_info" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/inference_item_title" style="@style/inference_item_desc" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/inference_item_info" app:layout_constraintBottom_toBottomOf="parent" app:layout_constraintEnd_toEndOf="parent" app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@id/inference_item_desc" style="@style/inference_item_info" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.appcompat.widget.SeslLinearLayoutCompat>

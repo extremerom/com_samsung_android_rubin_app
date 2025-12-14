@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">စိတ္ႀကိဳက္ဝန္ေဆာင္မႈကို အသုံးျပဳရန္ သင္သည္ အနည္းဆံုး အသက္ %d ႏွစ္ ရွိရမည္။</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ျပကၡဒိန္တြင္ ျဖစ္ရပ္အမ်ိဳးအစား %d ခုကို ေတြ႕ရွိထားသည္</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">အိမ္ႏွင့္ အျခား မၾကာခဏသြားေရာက္ေလ့ရွိသည့္ေနရာ %d ေနရာကို ေဖာ္ထုတ္ေတြ႕ရွိထားသည္</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">မၾကာခဏသြားေရာက္ေလ့ရွိသည့္ေနရာ %d ေနရာကို ေဖာ္ထုတ္ေတြ႕ရွိထားသည္</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း ကာယေလ့က်င့္ခန္း ေဒတာ၊ အက္ပ္အသုံးျပဳမႈႏွင့္ စက္ခ်ိတ္ဆက္မႈမ်ားေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း ေက်ာင္း၊ အလုပ္ (သို႔) အိမ္သို႔ သင္သြားလာခဲ့သည့္အခ်ိန္ေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း သင္သုံးခဲ့သည့္ အက္ပ္အမ်ိဳးအစားမ်ားႏွင့္ Samsung Internet တြင္ သင္ဝင္ၾကည့္ခဲ့သည့္ ဝက္ဘ္ဆိုက္အမ်ိဳးအစားမ်ားေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း သင္မၾကာခဏအခ်ိန္ကုန္ဆုံးခဲ့သည့္ ေနရာမ်ားေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း သင္အသုံးအမ်ားဆုံး အက္ပ္မ်ားႏွင့္ သတ္မွတ္ခ်က္မ်ားေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း သင့္ဖုန္းကို စတင္အသုံးျပဳခဲ့ခ်ိန္ႏွင့္ ရပ္တန႔္ခဲ့သည့္အခ်ိန္ေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">လြန္ခဲ့ေသာ %d ရက္အတြင္း သင့္တက္ဘလက္ကို စတင္အသုံးျပဳခဲ့ခ်ိန္ႏွင့္ ရပ္တန႔္ခဲ့သည့္အခ်ိန္ေပၚ အေျခခံထားသည္။</item>
+    </plurals>
+</resources>

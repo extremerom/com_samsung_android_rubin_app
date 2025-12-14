@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Треба да имате најмалку %d година за да ја користите Услугата за прилагодување.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Треба да имате најмалку %d години за да ја користите Услугата за прилагодување.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тип на настан на календарот</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d типови на настани на календарот</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Идентификувани се домот и уште %d друго често посетувано место</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Идентификувани се домот и уште %d други често посетувани места</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Идентификувано е %d често посетувано место</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Идентификувани се %d често посетувани места</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на податоците за вежбање, користењето апликации и поврзувањата на уредот во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на податоците за вежбање, користењето апликации и поврзувањата на уредот во минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на тоа кога сте патувале на училиште, на работа или дома во текот на минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на тоа кога сте патувале на училиште, на работа или дома во текот на минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на типовите апликации што сте ги користеле и интернет-страниците што сте ги посетиле во Интернет на Samsung во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на типовите апликации што сте ги користеле и интернет-страниците што сте ги посетиле во Интернет на Samsung во минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на местата каде што често сте поминувале време во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на местата каде што често сте поминувале време во минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на апликациите и поставувањата што сте ги користеле најмногу во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на апликациите и поставувањата што сте ги користеле најмногу во минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на тоа кога сте почнале и сте престанале да го користите телефонот во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на тоа кога сте почнале и сте престанале да го користите телефонот во минатите %d дена.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Врз основа на тоа кога сте почнале и сте престанале да го користите таблетот во минатиот %d ден.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Врз основа на тоа кога сте почнале и сте престанале да го користите таблетот во минатите %d дена.</item>
+    </plurals>
+</resources>

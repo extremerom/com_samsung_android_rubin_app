@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="app_list">
+        <item>com.google.android.apps.maps</item>
+        <item>com.ubercab</item>
+        <item>com.olacabs.customer</item>
+        <item>com.olacabs.lite</item>
+    </string-array>
+    <string-array name="upload_data_using_list">
+        <item>@string/wifi_only</item>
+        <item>@string/mobile_data</item>
+    </string-array>
+</resources>

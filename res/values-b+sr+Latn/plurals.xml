@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Morate imati najmanje %d godinu da biste koristili uslugu Prilagođavanje.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Morate imati najmanje %d godine da biste koristili uslugu Prilagođavanje.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Morate imati najmanje %d godina da biste koristili uslugu Prilagođavanje.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vrsta događaja u kalendaru</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d vrste događaja u kalendaru</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vrsti događaja u kalendaru</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Identifikovana je kuća i još %d mesto koje se često posećuje</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Identifikovana je kuća i još %d mesta koja se često posećuju</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Identifikovana je kuća i još %d mesta koja se često posećuju</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Identifikovano je %d mesto koje se često posećuje</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Identifikovana su %d mesta koja se često posećuju</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Identifikovano je %d mesta koja se često posećuju</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obaveštenje</item>
+        <item quantity="few">%d nova obaveštenja</item>
+        <item quantity="other">%d novih obaveštenja</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu podataka o vežbanju, korišćenja aplikacije i veza sa uređajima tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu podataka o vežbanju, korišćenja aplikacije i veza sa uređajima tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu podataka o vežbanju, korišćenja aplikacije i veza sa uređajima tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu toga kada ste putovali u školu, na posao i kući tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu toga kada ste putovali u školu, na posao i kući tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu toga kada ste putovali u školu, na posao i kući tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu tipova aplikacija koje ste koristili i sajtova koje ste posetili u aplikaciji Samsung Internet tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu tipova aplikacija koje ste koristili i sajtova koje ste posetili u aplikaciji Samsung Internet tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu tipova aplikacija koje ste koristili i sajtova koje ste posetili u aplikaciji Samsung Internet tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu mesta na kojima ste često provodili vreme tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu mesta na kojima ste često provodili vreme tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu mesta na kojima ste često provodili vreme tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu aplikacija i podešavanja koja ste najviše koristili tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu aplikacija i podešavanja koja ste najviše koristili tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu aplikacija i podešavanja koja ste najviše koristili tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu toga kada ste počeli i prestali da koristite telefon tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu toga kada ste počeli i prestali da koristite telefon tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu toga kada ste počeli i prestali da koristite telefon tokom poslednjih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu toga kada ste počeli i prestali da koristite tablet tokom poslednjeg %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu toga kada ste počeli i prestali da koristite tablet tokom poslednja %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu toga kada ste počeli i prestali da koristite tablet tokom poslednjih %d dana.</item>
+    </plurals>
+</resources>

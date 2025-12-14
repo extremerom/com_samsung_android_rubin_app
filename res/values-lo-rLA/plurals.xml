@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ທ່ານຈຳເປັນຕ້ອງມີອາຍຸຢ່າງໜ້ອຍ %d ປີ ເພື່ອໃຊ້ການບໍລິການປັບແຕ່ງໄດ້.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ປະເພດເຫດການໃນປະຕິທິນ</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລະບຸເຮືອນ ແລະ %d ສະຖານທີ່ທີ່ໄປເລື້ອຍໆອື່ນໆແລ້ວ</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ລະບຸ %d ສະຖານທີ່ໄປເລື້ອຍໆແລ້ວ</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມຂໍ້ມູນການອອກກຳລັງກາຍ, ການໃຊ້ແອັບ ແລະ ການເຊື່ອມຕໍ່ອຸປະກອນໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມເວລາທີ່ທ່ານເດີນທາງໄປໂຮງຮຽນ, ບ່ອນເຮັດວຽກ ຫຼື ເຮືອນໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມປະເພດແອັບທີ່ທ່ານໃຊ້ ແລະ ເວັບໄຊທ໌ຕ່າງທ ທີ່ທ່ານເຂົ້າເບິ່ງໃນ Samsung Internet ໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມສະຖານທີ່ທີ່ທ່ານໃຊ້ເວລາເລື້ອຍໆ ໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມແອັບ ແລະ ການຕັ້ງຄ່າທີ່ທ່ານໃຊ້ຫຼາຍທີ່ສຸດໃນ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມເວລາທີ່ທ່ານເລີ່ມຕົ້ນ ແລະ ຢຸດໃຊ້ໂທລະສັບຂອງທ່ານໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ອີງຕາມເວລາທີ່ທ່ານເລີ່ມຕົ້ນ ແລະ ຢຸດໃຊ້ແທັບເລັດຂອງທ່ານໃນຊ່ວງ %d ວັນຜ່ານມາ.</item>
+    </plurals>
+</resources>

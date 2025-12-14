@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Morate imati najmanje %d godinu da biste koristili Prilagođenu uslugu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Morate imati najmanje %d godine da biste koristili Prilagođenu uslugu.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Morate imati najmanje %d godina da biste koristili Prilagođenu uslugu.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vrsta događaja u kalendaru</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d vrste događaja u kalendaru</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vrsta događaja u kalendaru</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dom i %d drugo često posjećeno mjesto su identificirani</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Dom i %d druga često posjećena mjesta su identificirani</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dom i %d drugih često posjećenih mjesta su identificirani</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d često posjećeno mjesto je identificirano</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d česta posjećena mjesta su identificirana</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d često posjećenih mjesta je identificirano</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obavještenje</item>
+        <item quantity="few">%d nova obavještenja</item>
+        <item quantity="other">%d novih obavještenja</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu podataka o vježbanju, korištenju aplikacija i povezivanju uređaja prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu podataka o vježbanju, korištenju aplikacija i povezivanju uređaja prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu podataka o vježbanju, korištenju aplikacija i povezivanju uređaja prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu vremena kada ste putovali u školu, na posao ili kući prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu vremena kada ste putovali u školu, na posao ili kući prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu vremena kada ste putovali u školu, na posao ili kući prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu vrste aplikacija koje ste koristili i web lokacija koje ste posjećivali na usluzi Samsung Internet prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu vrste aplikacija koje ste koristili i web lokacija koje ste posjećivali na usluzi Samsung Internet prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu vrste aplikacija koje ste koristili i web lokacija koje ste posjećivali na usluzi Samsung Internet prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu mjesta u kojima ste često boravili prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu mjesta u kojima ste često boravili prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu mjesta u kojima ste često boravili prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu aplikacija i postavki koje ste najviše koristili tokom prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu aplikacija i postavki koje ste najviše koristili tokom prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu aplikacija i postavki koje ste najviše koristili tokom prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu početka i kraja korištenja telefona prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu početka i kraja korištenja telefona prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu početka i kraja korištenja telefona prethodnih %d dana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na osnovu početka i kraja korištenja tableta prethodnog %d dana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Na osnovu početka i kraja korištenja tableta prethodna %d dana.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na osnovu početka i kraja korištenja tableta prethodnih %d dana.</item>
+    </plurals>
+</resources>

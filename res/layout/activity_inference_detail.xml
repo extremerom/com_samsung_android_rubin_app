@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <androidx.fragment.app.FragmentContainerView android:id="@id/inference_info_frame" style="@style/Winset.Inferences.Detail.InfoFrame" />
+        <FrameLayout android:id="@id/inference_app_list_frame" style="@style/Winset.Inferences.Detail.AppListFrame" />
+        <View android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:id="@id/inference_clear_data" style="@style/Winset.Inferences.Detail.ClearData" />
+    </LinearLayout>
+</com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory>
+        <androidx.preference.PreferenceScreen android:persistent="false" android:layout="@layout/pref_description" android:title="" android:selectable="false" android:key="key_description" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/privacy_pref_mobile_devices" android:key="key_category_mobile_devices">
+        <androidx.preference.SwitchPreferenceCompat android:title="@string/info_call" android:key="key_info_call" />
+        <androidx.preference.SwitchPreferenceCompat android:title="@string/info_url" android:key="key_info_url" />
+        <androidx.preference.SwitchPreferenceCompat android:title="@string/info_location" android:key="key_info_location" />
+        <androidx.preference.SwitchPreferenceCompat android:title="@string/info_keyword" android:key="key_info_keyword" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/privacy_pref_marketing" android:key="key_category_marketing">
+        <com.samsung.android.rubin.app.ui.preference.AdSwitchPreference android:title="@string/info_ads" android:key="key_marketing_switch" android:summary="" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="" />
+</androidx.preference.PreferenceScreen>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">يجب أن يكون عمرك ‏‎%d عام على الأقل لاستخدام خدمة التخصيص.</item>
+        <item quantity="one">يجب أن يكون عمرك عام واحد على الأقل لاستخدام خدمة التخصيص.</item>
+        <item quantity="two">يجب أن يكون عمرك ‏‎عامين على الأقل لاستخدام خدمة التخصيص.</item>
+        <item quantity="few">يجب أن يكون عمرك %d ‏‎أعوام على الأقل لاستخدام خدمة التخصيص.</item>
+        <item quantity="many">يجب أن يكون عمرك %d ‏‎عاماً على الأقل لاستخدام خدمة التخصيص.</item>
+        <item quantity="other">يجب أن يكون عمرك %d ‏‎عام على الأقل لاستخدام خدمة التخصيص.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">يوجد %d نوع حدث على التقويم</item>
+        <item quantity="one">يوجد نوع حدث واحد على التقويم</item>
+        <item quantity="two">يوجد نوعا حدث على التقويم</item>
+        <item quantity="few">يوجد %d أنواع حدث على التقويم</item>
+        <item quantity="many">يوجد %d نوع حدث على التقويم</item>
+        <item quantity="other">يوجد %d نوع حدث على التقويم</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">‏‫تم التعرّف على المنزل و%d مكان تتكرر زيارته آخر</item>
+        <item quantity="one">‏‫تم التعرّف على المنزل ومكان واحد تتكرر زيارته آخر</item>
+        <item quantity="two">‏‫تم التعرّف على المنزل ومكانين تتكرر زيارتهما آخرين</item>
+        <item quantity="few">‏‫تم التعرّف على المنزل و%d أماكن تتكرر زيارتها أخرى</item>
+        <item quantity="many">‏‫تم التعرّف على المنزل و%d مكاناً تتكرر زياره آخر</item>
+        <item quantity="other">‏‫تم التعرّف على المنزل و%d مكان تتكرر زيارته آخر</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">تم التعرف على %d مكان تتكرر زيارته آخر</item>
+        <item quantity="one">تم التعرف على مكان واحد تتكرر زيارته آخر</item>
+        <item quantity="two">تم التعرف على مكانين تتكرر زيارتهما آخرين</item>
+        <item quantity="few">تم التعرف على %d أماكن تتكرر زيارتها أخرى‬</item>
+        <item quantity="many">تم التعرف على %d مكاناً تتكرر زياره آخر</item>
+        <item quantity="other">تم التعرف على %d مكان تتكرر زيارته آخر</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d إشعار جديد</item>
+        <item quantity="one">إشعار جديد واحد (%d)</item>
+        <item quantity="two">إشعاران جديدان (%d)</item>
+        <item quantity="few">%d إشعارات جديدة</item>
+        <item quantity="many">%d إشعارًا جديدًا</item>
+        <item quantity="other">%d إشعار جديد</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر %d يوم.</item>
+        <item quantity="one">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر يوم.</item>
+        <item quantity="two">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر يومين.</item>
+        <item quantity="few">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر %d أيام.</item>
+        <item quantity="many">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر %d يوماً.</item>
+        <item quantity="other">وفقاً لبيانات التدريب‬ واستخدام التطبيق واتصالات الجهاز خلال آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر %d يوم.</item>
+        <item quantity="one">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر يوم.</item>
+        <item quantity="two">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر يومين.</item>
+        <item quantity="few">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر %d أيام.</item>
+        <item quantity="many">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر %d يوماً.</item>
+        <item quantity="other">وفقاً للوقت الذي سافرت فيه إلى المدرسة أو العمل أو المنزل خلال آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر %d يوم.</item>
+        <item quantity="one">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر يوم.</item>
+        <item quantity="two">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر يومين.</item>
+        <item quantity="few">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر %d أيام.</item>
+        <item quantity="many">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر %d يوماً.</item>
+        <item quantity="other">وفقاً لأنواع التطبيقات التي استخدمتها ومواقع الويب التي قمت بزيارتها في تطبيق الإنترنت من Samsung خلال آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر %d يوم.</item>
+        <item quantity="one">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر يوم.</item>
+        <item quantity="two">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر يومين.</item>
+        <item quantity="few">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر %d أيام.</item>
+        <item quantity="many">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر %d يوماً.</item>
+        <item quantity="other">وفقاً للأماكن التي قضيت فيها وقتاً كثيراً خلال آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر %d يوم.</item>
+        <item quantity="one">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر يوم.</item>
+        <item quantity="two">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر يومين.</item>
+        <item quantity="few">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر %d أيام.</item>
+        <item quantity="many">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر %d يوماً.</item>
+        <item quantity="other">وفقاً للتطبيقات والضبط التي أكثرت من استخدامها في آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر %d يوم.</item>
+        <item quantity="one">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر يوم.</item>
+        <item quantity="two">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر يومين.</item>
+        <item quantity="few">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر %d أيام.</item>
+        <item quantity="many">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر %d يوماً.</item>
+        <item quantity="other">وفقاً لوقت بدء استخدامك لهاتفك وتوقفك عن استخدامه خلال آخر %d يوم.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر %d يوم.</item>
+        <item quantity="one">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر يوم.</item>
+        <item quantity="two">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر يومين.</item>
+        <item quantity="few">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر %d أيام.</item>
+        <item quantity="many">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر %d يوماً.</item>
+        <item quantity="other">وفقاً لوقت بدء استخدامك لجهازك اللوحي وتوقفك عن استخدامه في آخر %d يوم.</item>
+    </plurals>
+</resources>

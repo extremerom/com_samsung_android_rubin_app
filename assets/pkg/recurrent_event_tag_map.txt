@@ -1,0 +1,47 @@
+accordions,musicpractice
+banjos,musicpractice
+clarinets,musicpractice
+concertinas,musicpractice
+drums,musicpractice
+flutes,musicpractice
+guitars,musicpractice
+harmonicas,musicpractice
+harps,musicpractice
+horns,musicpractice
+pan flutes,musicpractice
+pianos,musicpractice
+saxophones,musicpractice
+sitars,musicpractice
+tambourines,musicpractice
+trombones,musicpractice
+trumpets and cornets,musicpractice
+violins,musicpractice
+xylophones,musicpractice
+swimming,sportsactivity
+skiing,sportsactivity
+jet skiing,sportsactivity
+water skiing,sportsactivity
+surfing,sportsactivity
+snorkeling,sportsactivity
+paragliding,sportsactivity
+tennis and badminton,sportsactivity
+ping pong,sportsactivity
+soccer,sportsactivity
+baseball,sportsactivity
+basketball,sportsactivity
+volleyball,sportsactivity
+bowling pins,sportsactivity
+bows,sportsactivity
+dartboards,sportsactivity
+foosball tables,sportsactivity
+ping pong paddles,sportsactivity
+pool tables,sportsactivity
+shuttlecocks,sportsactivity
+drinks,watchingshow
+food,watchingshow
+popcorn,watchingshow
+desktop computers,watchingshow
+groups,watchingshow
+couches,watchingshow
+sitting,watchingshow
+lying_down,watchingshow

@@ -1,0 +1,3767 @@
+{
+  "categories": [
+    {
+      "name": "Arts & Entertainment",
+      "categories": [
+        {
+          "name": "Amphitheater",
+          "categories": []
+        },
+        {
+          "name": "Aquarium",
+          "categories": []
+        },
+        {
+          "name": "Arcade",
+          "categories": []
+        },
+        {
+          "name": "Art Gallery",
+          "categories": []
+        },
+        {
+          "name": "Bowling Alley",
+          "categories": []
+        },
+        {
+          "name": "Casino",
+          "categories": []
+        },
+        {
+          "name": "Circus",
+          "categories": []
+        },
+        {
+          "name": "Comedy Club",
+          "categories": []
+        },
+        {
+          "name": "Concert Hall",
+          "categories": []
+        },
+        {
+          "name": "Country Dance Club",
+          "categories": []
+        },
+        {
+          "name": "Disc Golf",
+          "categories": []
+        },
+        {
+          "name": "Exhibit",
+          "categories": []
+        },
+        {
+          "name": "General Entertainment",
+          "categories": []
+        },
+        {
+          "name": "Go Kart Track",
+          "categories": []
+        },
+        {
+          "name": "Historic Site",
+          "categories": []
+        },
+        {
+          "name": "Karaoke Box",
+          "categories": []
+        },
+        {
+          "name": "Laser Tag",
+          "categories": []
+        },
+        {
+          "name": "Memorial Site",
+          "categories": []
+        },
+        {
+          "name": "Mini Golf",
+          "categories": []
+        },
+        {
+          "name": "Movie Theater",
+          "categories": [
+            {
+              "name": "Drive-in Theater",
+              "categories": []
+            },
+            {
+              "name": "Indie Movie Theater",
+              "categories": []
+            },
+            {
+              "name": "Multiplex",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Museum",
+          "categories": [
+            {
+              "name": "Art Museum",
+              "categories": []
+            },
+            {
+              "name": "Erotic Museum",
+              "categories": []
+            },
+            {
+              "name": "History Museum",
+              "categories": []
+            },
+            {
+              "name": "Planetarium",
+              "categories": []
+            },
+            {
+              "name": "Science Museum",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Music Venue",
+          "categories": [
+            {
+              "name": "Jazz Club",
+              "categories": []
+            },
+            {
+              "name": "Piano Bar",
+              "categories": []
+            },
+            {
+              "name": "Rock Club",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Pachinko Parlor",
+          "categories": []
+        },
+        {
+          "name": "Performing Arts Venue",
+          "categories": [
+            {
+              "name": "Dance Studio",
+              "categories": []
+            },
+            {
+              "name": "Indie Theater",
+              "categories": []
+            },
+            {
+              "name": "Opera House",
+              "categories": []
+            },
+            {
+              "name": "Theater",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Pool Hall",
+          "categories": []
+        },
+        {
+          "name": "Public Art",
+          "categories": [
+            {
+              "name": "Outdoor Sculpture",
+              "categories": []
+            },
+            {
+              "name": "Street Art",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Racecourse",
+          "categories": []
+        },
+        {
+          "name": "Racetrack",
+          "categories": []
+        },
+        {
+          "name": "Roller Rink",
+          "categories": []
+        },
+        {
+          "name": "Salsa Club",
+          "categories": []
+        },
+        {
+          "name": "Samba School",
+          "categories": []
+        },
+        {
+          "name": "Stadium",
+          "categories": [
+            {
+              "name": "Baseball Stadium",
+              "categories": []
+            },
+            {
+              "name": "Basketball Stadium",
+              "categories": []
+            },
+            {
+              "name": "Cricket Ground",
+              "categories": []
+            },
+            {
+              "name": "Football Stadium",
+              "categories": []
+            },
+            {
+              "name": "Hockey Arena",
+              "categories": []
+            },
+            {
+              "name": "Rugby Stadium",
+              "categories": []
+            },
+            {
+              "name": "Soccer Stadium",
+              "categories": []
+            },
+            {
+              "name": "Tennis Stadium",
+              "categories": []
+            },
+            {
+              "name": "Track Stadium",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Theme Park",
+          "categories": [
+            {
+              "name": "Theme Park Ride / Attraction",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Tour Provider",
+          "categories": []
+        },
+        {
+          "name": "Water Park",
+          "categories": []
+        },
+        {
+          "name": "Zoo",
+          "categories": [
+            {
+              "name": "Zoo Exhibit",
+              "categories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "College & University",
+      "categories": [
+        {
+          "name": "College Academic Building",
+          "categories": [
+            {
+              "name": "College Arts Building",
+              "categories": []
+            },
+            {
+              "name": "College Communications Building",
+              "categories": []
+            },
+            {
+              "name": "College Engineering Building",
+              "categories": []
+            },
+            {
+              "name": "College History Building",
+              "categories": []
+            },
+            {
+              "name": "College Math Building",
+              "categories": []
+            },
+            {
+              "name": "College Science Building",
+              "categories": []
+            },
+            {
+              "name": "College Technology Building",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "College Administrative Building",
+          "categories": []
+        },
+        {
+          "name": "College Auditorium",
+          "categories": []
+        },
+        {
+          "name": "College Bookstore",
+          "categories": []
+        },
+        {
+          "name": "College Cafeteria",
+          "categories": []
+        },
+        {
+          "name": "College Classroom",
+          "categories": []
+        },
+        {
+          "name": "College Gym",
+          "categories": []
+        },
+        {
+          "name": "College Lab",
+          "categories": []
+        },
+        {
+          "name": "College Library",
+          "categories": []
+        },
+        {
+          "name": "College Quad",
+          "categories": []
+        },
+        {
+          "name": "College Rec Center",
+          "categories": []
+        },
+        {
+          "name": "College Residence Hall",
+          "categories": []
+        },
+        {
+          "name": "College Stadium",
+          "categories": [
+            {
+              "name": "College Baseball Diamond",
+              "categories": []
+            },
+            {
+              "name": "College Basketball Court",
+              "categories": []
+            },
+            {
+              "name": "College Cricket Pitch",
+              "categories": []
+            },
+            {
+              "name": "College Football Field",
+              "categories": []
+            },
+            {
+              "name": "College Hockey Rink",
+              "categories": []
+            },
+            {
+              "name": "College Soccer Field",
+              "categories": []
+            },
+            {
+              "name": "College Tennis Court",
+              "categories": []
+            },
+            {
+              "name": "College Track",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "College Theater",
+          "categories": []
+        },
+        {
+          "name": "Community College",
+          "categories": []
+        },
+        {
+          "name": "Fraternity House",
+          "categories": []
+        },
+        {
+          "name": "General College & University",
+          "categories": []
+        },
+        {
+          "name": "Law School",
+          "categories": []
+        },
+        {
+          "name": "Medical School",
+          "categories": []
+        },
+        {
+          "name": "Sorority House",
+          "categories": []
+        },
+        {
+          "name": "Student Center",
+          "categories": []
+        },
+        {
+          "name": "Trade School",
+          "categories": []
+        },
+        {
+          "name": "University",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Event",
+      "categories": [
+        {
+          "name": "Christmas Market",
+          "categories": []
+        },
+        {
+          "name": "Conference",
+          "categories": []
+        },
+        {
+          "name": "Convention",
+          "categories": []
+        },
+        {
+          "name": "Festival",
+          "categories": []
+        },
+        {
+          "name": "Line / Queue",
+          "categories": []
+        },
+        {
+          "name": "Music Festival",
+          "categories": []
+        },
+        {
+          "name": "Other Event",
+          "categories": []
+        },
+        {
+          "name": "Parade",
+          "categories": []
+        },
+        {
+          "name": "Stoop Sale",
+          "categories": []
+        },
+        {
+          "name": "Street Fair",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Food",
+      "categories": [
+        {
+          "name": "Afghan Restaurant",
+          "categories": []
+        },
+        {
+          "name": "African Restaurant",
+          "categories": [
+            {
+              "name": "Ethiopian Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "American Restaurant",
+          "categories": [
+            {
+              "name": "New American Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Asian Restaurant",
+          "categories": [
+            {
+              "name": "Burmese Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Cambodian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Chinese Restaurant",
+              "categories": [
+                {
+                  "name": "Anhui Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Beijing Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Cantonese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Cha Chaan Teng",
+                  "categories": []
+                },
+                {
+                  "name": "Chinese Aristocrat Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Chinese Breakfast Place",
+                  "categories": []
+                },
+                {
+                  "name": "Dim Sum Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Dongbei Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Fujian Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Guizhou Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Hainan Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Hakka Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Henan Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Hong Kong Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Huaiyang Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Hubei Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Hunan Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Imperial Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Jiangsu Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Jiangxi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Macanese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Manchu Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Peking Duck Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Shaanxi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Shandong Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Shanghai Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Shanxi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Szechuan Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Taiwanese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Tianjin Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Xinjiang Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Yunnan Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Zhejiang Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Filipino Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Himalayan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Hotpot Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Indonesian Restaurant",
+              "categories": [
+                {
+                  "name": "Acehnese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Balinese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Betawinese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Indonesian Meatball Place",
+                  "categories": []
+                },
+                {
+                  "name": "Javanese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Manadonese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Padangnese Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Sundanese Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Japanese Restaurant",
+              "categories": [
+                {
+                  "name": "Donburi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Japanese Curry Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Kaiseki Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Kushikatsu Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Monjayaki Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Nabe Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Okonomiyaki Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Ramen Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Shabu-Shabu Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Soba Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Sukiyaki Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Sushi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Takoyaki Place",
+                  "categories": []
+                },
+                {
+                  "name": "Tempura Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Tonkatsu Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Udon Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Unagi Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Wagashi Place",
+                  "categories": []
+                },
+                {
+                  "name": "Yakitori Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Yoshoku Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Korean Restaurant",
+              "categories": [
+                {
+                  "name": "Bossam/Jokbal Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Bunsik Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Gukbap Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Janguh Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Samgyetang Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Malay Restaurant",
+              "categories": [
+                {
+                  "name": "Mamak Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Mongolian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Noodle House",
+              "categories": []
+            },
+            {
+              "name": "Satay Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Thai Restaurant",
+              "categories": [
+                {
+                  "name": "Som Tum Restaurant",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Tibetan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Vietnamese Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Australian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Austrian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "BBQ Joint",
+          "categories": []
+        },
+        {
+          "name": "Bagel Shop",
+          "categories": []
+        },
+        {
+          "name": "Bakery",
+          "categories": []
+        },
+        {
+          "name": "Belgian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Bistro",
+          "categories": []
+        },
+        {
+          "name": "Breakfast Spot",
+          "categories": []
+        },
+        {
+          "name": "Bubble Tea Shop",
+          "categories": []
+        },
+        {
+          "name": "Buffet",
+          "categories": []
+        },
+        {
+          "name": "Burger Joint",
+          "categories": []
+        },
+        {
+          "name": "Cafeteria",
+          "categories": []
+        },
+        {
+          "name": "CafÃ©",
+          "categories": []
+        },
+        {
+          "name": "Cajun / Creole Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Caribbean Restaurant",
+          "categories": [
+            {
+              "name": "Cuban Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Caucasian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Coffee Shop",
+          "categories": []
+        },
+        {
+          "name": "Comfort Food Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Creperie",
+          "categories": []
+        },
+        {
+          "name": "Czech Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Deli / Bodega",
+          "categories": []
+        },
+        {
+          "name": "Dessert Shop",
+          "categories": [
+            {
+              "name": "Cupcake Shop",
+              "categories": []
+            },
+            {
+              "name": "Frozen Yogurt Shop",
+              "categories": []
+            },
+            {
+              "name": "Ice Cream Shop",
+              "categories": []
+            },
+            {
+              "name": "Pastry Shop",
+              "categories": []
+            },
+            {
+              "name": "Pie Shop",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Diner",
+          "categories": []
+        },
+        {
+          "name": "Donut Shop",
+          "categories": []
+        },
+        {
+          "name": "Dumpling Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Dutch Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Eastern European Restaurant",
+          "categories": [
+            {
+              "name": "Belarusian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Bosnian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Bulgarian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Romanian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Tatar Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "English Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Falafel Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Fast Food Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Fish & Chips Shop",
+          "categories": []
+        },
+        {
+          "name": "Fondue Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Food Court",
+          "categories": []
+        },
+        {
+          "name": "Food Stand",
+          "categories": []
+        },
+        {
+          "name": "Food Truck",
+          "categories": []
+        },
+        {
+          "name": "French Restaurant",
+          "categories": [
+            {
+              "name": "Alsatian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Auvergne Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Basque Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Brasserie",
+              "categories": []
+            },
+            {
+              "name": "Breton Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Burgundian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Catalan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Ch'ti Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Corsican Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Estaminet",
+              "categories": []
+            },
+            {
+              "name": "Labour Canteen",
+              "categories": []
+            },
+            {
+              "name": "Lyonese Bouchon",
+              "categories": []
+            },
+            {
+              "name": "Norman Restaurant",
+              "categories": []
+            },
+            {
+              "name": "ProvenÃ§al Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Savoyard Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Southwestern French Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Fried Chicken Joint",
+          "categories": []
+        },
+        {
+          "name": "Friterie",
+          "categories": []
+        },
+        {
+          "name": "Gastropub",
+          "categories": []
+        },
+        {
+          "name": "German Restaurant",
+          "categories": [
+            {
+              "name": "Apple Wine Pub",
+              "categories": []
+            },
+            {
+              "name": "Bavarian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Bratwurst Joint",
+              "categories": []
+            },
+            {
+              "name": "Currywurst Joint",
+              "categories": []
+            },
+            {
+              "name": "Franconian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "German Pop-Up Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Palatine Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Rhenisch Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Schnitzel Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Silesian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Swabian Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Gluten-free Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Greek Restaurant",
+          "categories": [
+            {
+              "name": "Bougatsa Shop",
+              "categories": []
+            },
+            {
+              "name": "Cretan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Fish Taverna",
+              "categories": []
+            },
+            {
+              "name": "Grilled Meat Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Kafenio",
+              "categories": []
+            },
+            {
+              "name": "Magirio",
+              "categories": []
+            },
+            {
+              "name": "Meze Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Modern Greek Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Ouzeri",
+              "categories": []
+            },
+            {
+              "name": "Patsa Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Souvlaki Shop",
+              "categories": []
+            },
+            {
+              "name": "Taverna",
+              "categories": []
+            },
+            {
+              "name": "Tsipouro Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Halal Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Hawaiian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Hot Dog Joint",
+          "categories": []
+        },
+        {
+          "name": "Hungarian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Indian Restaurant",
+          "categories": [
+            {
+              "name": "Andhra Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Awadhi Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Bengali Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Chaat Place",
+              "categories": []
+            },
+            {
+              "name": "Chettinad Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Dhaba",
+              "categories": []
+            },
+            {
+              "name": "Dosa Place",
+              "categories": []
+            },
+            {
+              "name": "Goan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Gujarati Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Hyderabadi Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Indian Chinese Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Indian Sweet Shop",
+              "categories": []
+            },
+            {
+              "name": "Irani Cafe",
+              "categories": []
+            },
+            {
+              "name": "Jain Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Karnataka Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Kerala Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Maharashtrian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Mughlai Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Multicuisine Indian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "North Indian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Northeast Indian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Parsi Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Punjabi Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Rajasthani Restaurant",
+              "categories": []
+            },
+            {
+              "name": "South Indian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Udupi Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Irish Pub",
+          "categories": []
+        },
+        {
+          "name": "Italian Restaurant",
+          "categories": [
+            {
+              "name": "Abruzzo Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Agriturismo",
+              "categories": []
+            },
+            {
+              "name": "Aosta Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Basilicata Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Calabria Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Campanian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Emilia Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Friuli Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Ligurian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Lombard Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Malga",
+              "categories": []
+            },
+            {
+              "name": "Marche Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Molise Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Piadineria",
+              "categories": []
+            },
+            {
+              "name": "Piedmontese Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Puglia Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Romagna Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Roman Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Sardinian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Sicilian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "South Tyrolean Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Trattoria/Osteria",
+              "categories": []
+            },
+            {
+              "name": "Trentino Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Tuscan Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Umbrian Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Veneto Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Jewish Restaurant",
+          "categories": [
+            {
+              "name": "Kosher Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Juice Bar",
+          "categories": []
+        },
+        {
+          "name": "Kebab Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Latin American Restaurant",
+          "categories": [
+            {
+              "name": "Arepa Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Empanada Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Salvadoran Restaurant",
+              "categories": []
+            },
+            {
+              "name": "South American Restaurant",
+              "categories": [
+                {
+                  "name": "Argentinian Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Brazilian Restaurant",
+                  "categories": [
+                    {
+                      "name": "Acai House",
+                      "categories": []
+                    },
+                    {
+                      "name": "Baiano Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Central Brazilian Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Churrascaria",
+                      "categories": []
+                    },
+                    {
+                      "name": "Empada House",
+                      "categories": []
+                    },
+                    {
+                      "name": "Goiano Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Mineiro Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Northeastern Brazilian Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Northern Brazilian Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Pastelaria",
+                      "categories": []
+                    },
+                    {
+                      "name": "Southeastern Brazilian Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Southern Brazilian Restaurant",
+                      "categories": []
+                    },
+                    {
+                      "name": "Tapiocaria",
+                      "categories": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Colombian Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Peruvian Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Venezuelan Restaurant",
+                  "categories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mac & Cheese Joint",
+          "categories": []
+        },
+        {
+          "name": "Mediterranean Restaurant",
+          "categories": [
+            {
+              "name": "Moroccan Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Mexican Restaurant",
+          "categories": [
+            {
+              "name": "Botanero",
+              "categories": []
+            },
+            {
+              "name": "Burrito Place",
+              "categories": []
+            },
+            {
+              "name": "Taco Place",
+              "categories": []
+            },
+            {
+              "name": "Tex-Mex Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Yucatecan Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Middle Eastern Restaurant",
+          "categories": [
+            {
+              "name": "Israeli Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Kurdish Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Lebanese Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Persian Restaurant",
+              "categories": [
+                {
+                  "name": "Ash and Haleem Place",
+                  "categories": []
+                },
+                {
+                  "name": "Dizi Place",
+                  "categories": []
+                },
+                {
+                  "name": "Gilaki Restaurant",
+                  "categories": []
+                },
+                {
+                  "name": "Jegaraki",
+                  "categories": []
+                },
+                {
+                  "name": "Tabbakhi",
+                  "categories": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Modern European Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Molecular Gastronomy Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Pakistani Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Pet CafÃ©",
+          "categories": []
+        },
+        {
+          "name": "Pizza Place",
+          "categories": []
+        },
+        {
+          "name": "Polish Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Portuguese Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Poutine Place",
+          "categories": []
+        },
+        {
+          "name": "Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Russian Restaurant",
+          "categories": [
+            {
+              "name": "Blini House",
+              "categories": []
+            },
+            {
+              "name": "Pelmeni House",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Salad Place",
+          "categories": []
+        },
+        {
+          "name": "Sandwich Place",
+          "categories": []
+        },
+        {
+          "name": "Scandinavian Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Scottish Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Seafood Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Slovak Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Snack Place",
+          "categories": []
+        },
+        {
+          "name": "Soup Place",
+          "categories": []
+        },
+        {
+          "name": "Southern / Soul Food Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Spanish Restaurant",
+          "categories": [
+            {
+              "name": "Paella Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Tapas Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Sri Lankan Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Steakhouse",
+          "categories": []
+        },
+        {
+          "name": "Swiss Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Tea Room",
+          "categories": []
+        },
+        {
+          "name": "Theme Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Truck Stop",
+          "categories": []
+        },
+        {
+          "name": "Turkish Restaurant",
+          "categories": [
+            {
+              "name": "Borek Place",
+              "categories": []
+            },
+            {
+              "name": "Cigkofte Place",
+              "categories": []
+            },
+            {
+              "name": "Doner Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Gozleme Place",
+              "categories": []
+            },
+            {
+              "name": "Kofte Place",
+              "categories": []
+            },
+            {
+              "name": "KokoreÃ§ Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Kumpir Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Kumru Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Manti Place",
+              "categories": []
+            },
+            {
+              "name": "Meyhane",
+              "categories": []
+            },
+            {
+              "name": "Pide Place",
+              "categories": []
+            },
+            {
+              "name": "PilavcÄ±",
+              "categories": []
+            },
+            {
+              "name": "SÃ¶ÄÃ¼Å Place",
+              "categories": []
+            },
+            {
+              "name": "Tantuni Restaurant",
+              "categories": []
+            },
+            {
+              "name": "Turkish Coffeehouse",
+              "categories": []
+            },
+            {
+              "name": "Turkish Home Cooking Restaurant",
+              "categories": []
+            },
+            {
+              "name": "ÃÃ¶p ÅiÅ Place",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Ukrainian Restaurant",
+          "categories": [
+            {
+              "name": "Varenyky restaurant",
+              "categories": []
+            },
+            {
+              "name": "West-Ukrainian Restaurant",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Vegetarian / Vegan Restaurant",
+          "categories": []
+        },
+        {
+          "name": "Wings Joint",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Nightlife Spot",
+      "categories": [
+        {
+          "name": "Bar",
+          "categories": [
+            {
+              "name": "Beach Bar",
+              "categories": []
+            },
+            {
+              "name": "Beer Bar",
+              "categories": []
+            },
+            {
+              "name": "Beer Garden",
+              "categories": []
+            },
+            {
+              "name": "Champagne Bar",
+              "categories": []
+            },
+            {
+              "name": "Cocktail Bar",
+              "categories": []
+            },
+            {
+              "name": "Dive Bar",
+              "categories": []
+            },
+            {
+              "name": "Gay Bar",
+              "categories": []
+            },
+            {
+              "name": "Hookah Bar",
+              "categories": []
+            },
+            {
+              "name": "Hotel Bar",
+              "categories": []
+            },
+            {
+              "name": "Karaoke Bar",
+              "categories": []
+            },
+            {
+              "name": "Pub",
+              "categories": []
+            },
+            {
+              "name": "Sake Bar",
+              "categories": []
+            },
+            {
+              "name": "Speakeasy",
+              "categories": []
+            },
+            {
+              "name": "Sports Bar",
+              "categories": []
+            },
+            {
+              "name": "Tiki Bar",
+              "categories": []
+            },
+            {
+              "name": "Whisky Bar",
+              "categories": []
+            },
+            {
+              "name": "Wine Bar",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Brewery",
+          "categories": []
+        },
+        {
+          "name": "Lounge",
+          "categories": []
+        },
+        {
+          "name": "Night Market",
+          "categories": []
+        },
+        {
+          "name": "Nightclub",
+          "categories": []
+        },
+        {
+          "name": "Other Nightlife",
+          "categories": []
+        },
+        {
+          "name": "Strip Club",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Outdoors & Recreation",
+      "categories": [
+        {
+          "name": "Athletics & Sports",
+          "categories": [
+            {
+              "name": "Badminton Court",
+              "categories": []
+            },
+            {
+              "name": "Baseball Field",
+              "categories": []
+            },
+            {
+              "name": "Basketball Court",
+              "categories": []
+            },
+            {
+              "name": "Bowling Green",
+              "categories": []
+            },
+            {
+              "name": "Curling Ice",
+              "categories": []
+            },
+            {
+              "name": "Golf Course",
+              "categories": []
+            },
+            {
+              "name": "Golf Driving Range",
+              "categories": []
+            },
+            {
+              "name": "Gym / Fitness Center",
+              "categories": [
+                {
+                  "name": "Boxing Gym",
+                  "categories": []
+                },
+                {
+                  "name": "Climbing Gym",
+                  "categories": []
+                },
+                {
+                  "name": "Cycle Studio",
+                  "categories": []
+                },
+                {
+                  "name": "Gym Pool",
+                  "categories": []
+                },
+                {
+                  "name": "Gymnastics Gym",
+                  "categories": []
+                },
+                {
+                  "name": "Gym",
+                  "categories": []
+                },
+                {
+                  "name": "Martial Arts Dojo",
+                  "categories": []
+                },
+                {
+                  "name": "Outdoor Gym",
+                  "categories": []
+                },
+                {
+                  "name": "Pilates Studio",
+                  "categories": []
+                },
+                {
+                  "name": "Track",
+                  "categories": []
+                },
+                {
+                  "name": "Weight Loss Center",
+                  "categories": []
+                },
+                {
+                  "name": "Yoga Studio",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Hockey Field",
+              "categories": []
+            },
+            {
+              "name": "Hockey Rink",
+              "categories": []
+            },
+            {
+              "name": "Paintball Field",
+              "categories": []
+            },
+            {
+              "name": "Rugby Pitch",
+              "categories": []
+            },
+            {
+              "name": "Skate Park",
+              "categories": []
+            },
+            {
+              "name": "Skating Rink",
+              "categories": []
+            },
+            {
+              "name": "Soccer Field",
+              "categories": []
+            },
+            {
+              "name": "Sports Club",
+              "categories": []
+            },
+            {
+              "name": "Squash Court",
+              "categories": []
+            },
+            {
+              "name": "Tennis Court",
+              "categories": []
+            },
+            {
+              "name": "Volleyball Court",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Bathing Area",
+          "categories": []
+        },
+        {
+          "name": "Bay",
+          "categories": []
+        },
+        {
+          "name": "Beach",
+          "categories": [
+            {
+              "name": "Nudist Beach",
+              "categories": []
+            },
+            {
+              "name": "Surf Spot",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Bike Trail",
+          "categories": []
+        },
+        {
+          "name": "Botanical Garden",
+          "categories": []
+        },
+        {
+          "name": "Bridge",
+          "categories": []
+        },
+        {
+          "name": "Campground",
+          "categories": []
+        },
+        {
+          "name": "Canal Lock",
+          "categories": []
+        },
+        {
+          "name": "Canal",
+          "categories": []
+        },
+        {
+          "name": "Castle",
+          "categories": []
+        },
+        {
+          "name": "Cave",
+          "categories": []
+        },
+        {
+          "name": "Cemetery",
+          "categories": []
+        },
+        {
+          "name": "Dive Spot",
+          "categories": []
+        },
+        {
+          "name": "Dog Run",
+          "categories": []
+        },
+        {
+          "name": "Farm",
+          "categories": []
+        },
+        {
+          "name": "Field",
+          "categories": []
+        },
+        {
+          "name": "Fishing Spot",
+          "categories": []
+        },
+        {
+          "name": "Forest",
+          "categories": []
+        },
+        {
+          "name": "Fountain",
+          "categories": []
+        },
+        {
+          "name": "Garden",
+          "categories": []
+        },
+        {
+          "name": "Gun Range",
+          "categories": []
+        },
+        {
+          "name": "Harbor / Marina",
+          "categories": []
+        },
+        {
+          "name": "Hot Spring",
+          "categories": []
+        },
+        {
+          "name": "Indoor Play Area",
+          "categories": []
+        },
+        {
+          "name": "Island",
+          "categories": []
+        },
+        {
+          "name": "Lake",
+          "categories": []
+        },
+        {
+          "name": "Lighthouse",
+          "categories": []
+        },
+        {
+          "name": "Mountain Hut",
+          "categories": []
+        },
+        {
+          "name": "Mountain",
+          "categories": []
+        },
+        {
+          "name": "National Park",
+          "categories": []
+        },
+        {
+          "name": "Nature Preserve",
+          "categories": []
+        },
+        {
+          "name": "Other Great Outdoors",
+          "categories": []
+        },
+        {
+          "name": "Palace",
+          "categories": []
+        },
+        {
+          "name": "Park",
+          "categories": []
+        },
+        {
+          "name": "Pedestrian Plaza",
+          "categories": []
+        },
+        {
+          "name": "Playground",
+          "categories": []
+        },
+        {
+          "name": "Plaza",
+          "categories": []
+        },
+        {
+          "name": "Pool",
+          "categories": []
+        },
+        {
+          "name": "Rafting",
+          "categories": []
+        },
+        {
+          "name": "Recreation Center",
+          "categories": []
+        },
+        {
+          "name": "Reservoir",
+          "categories": []
+        },
+        {
+          "name": "River",
+          "categories": []
+        },
+        {
+          "name": "Rock Climbing Spot",
+          "categories": []
+        },
+        {
+          "name": "Scenic Lookout",
+          "categories": []
+        },
+        {
+          "name": "Sculpture Garden",
+          "categories": []
+        },
+        {
+          "name": "Ski Area",
+          "categories": [
+            {
+              "name": "Apres Ski Bar",
+              "categories": []
+            },
+            {
+              "name": "Ski Chairlift",
+              "categories": []
+            },
+            {
+              "name": "Ski Chalet",
+              "categories": []
+            },
+            {
+              "name": "Ski Lodge",
+              "categories": []
+            },
+            {
+              "name": "Ski Trail",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Skydiving Drop Zone",
+          "categories": []
+        },
+        {
+          "name": "Stables",
+          "categories": []
+        },
+        {
+          "name": "States & Municipalities",
+          "categories": [
+            {
+              "name": "City",
+              "categories": []
+            },
+            {
+              "name": "County",
+              "categories": []
+            },
+            {
+              "name": "Country",
+              "categories": []
+            },
+            {
+              "name": "Neighborhood",
+              "categories": []
+            },
+            {
+              "name": "State",
+              "categories": []
+            },
+            {
+              "name": "Town",
+              "categories": []
+            },
+            {
+              "name": "Village",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Summer Camp",
+          "categories": []
+        },
+        {
+          "name": "Trail",
+          "categories": []
+        },
+        {
+          "name": "Tree",
+          "categories": []
+        },
+        {
+          "name": "Vineyard",
+          "categories": []
+        },
+        {
+          "name": "Volcano",
+          "categories": []
+        },
+        {
+          "name": "Waterfall",
+          "categories": []
+        },
+        {
+          "name": "Waterfront",
+          "categories": []
+        },
+        {
+          "name": "Well",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Professional & Other Places",
+      "categories": [
+        {
+          "name": "Animal Shelter",
+          "categories": []
+        },
+        {
+          "name": "Art Studio",
+          "categories": []
+        },
+        {
+          "name": "Auditorium",
+          "categories": []
+        },
+        {
+          "name": "Ballroom",
+          "categories": []
+        },
+        {
+          "name": "Building",
+          "categories": []
+        },
+        {
+          "name": "Business Center",
+          "categories": []
+        },
+        {
+          "name": "Club House",
+          "categories": []
+        },
+        {
+          "name": "Community Center",
+          "categories": []
+        },
+        {
+          "name": "Convention Center",
+          "categories": [
+            {
+              "name": "Meeting Room",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Cultural Center",
+          "categories": []
+        },
+        {
+          "name": "Distillery",
+          "categories": []
+        },
+        {
+          "name": "Distribution Center",
+          "categories": []
+        },
+        {
+          "name": "Event Space",
+          "categories": [
+            {
+              "name": "Outdoor Event Space",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Factory",
+          "categories": []
+        },
+        {
+          "name": "Fair",
+          "categories": []
+        },
+        {
+          "name": "Funeral Home",
+          "categories": []
+        },
+        {
+          "name": "Government Building",
+          "categories": [
+            {
+              "name": "Capitol Building",
+              "categories": []
+            },
+            {
+              "name": "City Hall",
+              "categories": []
+            },
+            {
+              "name": "Courthouse",
+              "categories": []
+            },
+            {
+              "name": "Embassy / Consulate",
+              "categories": []
+            },
+            {
+              "name": "Fire Station",
+              "categories": []
+            },
+            {
+              "name": "Monument / Landmark",
+              "categories": []
+            },
+            {
+              "name": "Police Station",
+              "categories": []
+            },
+            {
+              "name": "Town Hall",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Industrial Estate",
+          "categories": []
+        },
+        {
+          "name": "Laboratory",
+          "categories": []
+        },
+        {
+          "name": "Library",
+          "categories": []
+        },
+        {
+          "name": "Medical Center",
+          "categories": [
+            {
+              "name": "Acupuncturist",
+              "categories": []
+            },
+            {
+              "name": "Alternative Healer",
+              "categories": []
+            },
+            {
+              "name": "Chiropractor",
+              "categories": []
+            },
+            {
+              "name": "Dentist's Office",
+              "categories": []
+            },
+            {
+              "name": "Doctor's Office",
+              "categories": []
+            },
+            {
+              "name": "Emergency Room",
+              "categories": []
+            },
+            {
+              "name": "Eye Doctor",
+              "categories": []
+            },
+            {
+              "name": "Hospital",
+              "categories": [
+                {
+                  "name": "Hospital Ward",
+                  "categories": []
+                }
+              ]
+            },
+            {
+              "name": "Maternity Clinic",
+              "categories": []
+            },
+            {
+              "name": "Medical Lab",
+              "categories": []
+            },
+            {
+              "name": "Mental Health Office",
+              "categories": []
+            },
+            {
+              "name": "Nutritionist",
+              "categories": []
+            },
+            {
+              "name": "Physical Therapist",
+              "categories": []
+            },
+            {
+              "name": "Rehab Center",
+              "categories": []
+            },
+            {
+              "name": "Urgent Care Center",
+              "categories": []
+            },
+            {
+              "name": "Veterinarian",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Military Base",
+          "categories": []
+        },
+        {
+          "name": "Non-Profit",
+          "categories": []
+        },
+        {
+          "name": "Observatory",
+          "categories": []
+        },
+        {
+          "name": "Office",
+          "categories": [
+            {
+              "name": "Advertising Agency",
+              "categories": []
+            },
+            {
+              "name": "Campaign Office",
+              "categories": []
+            },
+            {
+              "name": "Conference Room",
+              "categories": []
+            },
+            {
+              "name": "Corporate Amenity",
+              "categories": []
+            },
+            {
+              "name": "Corporate Cafeteria",
+              "categories": []
+            },
+            {
+              "name": "Corporate Coffee Shop",
+              "categories": []
+            },
+            {
+              "name": "Coworking Space",
+              "categories": []
+            },
+            {
+              "name": "Tech Startup",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Parking",
+          "categories": []
+        },
+        {
+          "name": "Post Office",
+          "categories": []
+        },
+        {
+          "name": "Power Plant",
+          "categories": []
+        },
+        {
+          "name": "Prison",
+          "categories": []
+        },
+        {
+          "name": "Radio Station",
+          "categories": []
+        },
+        {
+          "name": "Recruiting Agency",
+          "categories": []
+        },
+        {
+          "name": "Research Station",
+          "categories": []
+        },
+        {
+          "name": "School",
+          "categories": [
+            {
+              "name": "Adult Education Center",
+              "categories": []
+            },
+            {
+              "name": "Circus School",
+              "categories": []
+            },
+            {
+              "name": "Cooking School",
+              "categories": []
+            },
+            {
+              "name": "Driving School",
+              "categories": []
+            },
+            {
+              "name": "Elementary School",
+              "categories": []
+            },
+            {
+              "name": "Flight School",
+              "categories": []
+            },
+            {
+              "name": "High School",
+              "categories": []
+            },
+            {
+              "name": "Language School",
+              "categories": []
+            },
+            {
+              "name": "Middle School",
+              "categories": []
+            },
+            {
+              "name": "Music School",
+              "categories": []
+            },
+            {
+              "name": "Nursery School",
+              "categories": []
+            },
+            {
+              "name": "Preschool",
+              "categories": []
+            },
+            {
+              "name": "Private School",
+              "categories": []
+            },
+            {
+              "name": "Religious School",
+              "categories": []
+            },
+            {
+              "name": "Swim School",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Social Club",
+          "categories": []
+        },
+        {
+          "name": "Spiritual Center",
+          "categories": [
+            {
+              "name": "Buddhist Temple",
+              "categories": []
+            },
+            {
+              "name": "Cemevi",
+              "categories": []
+            },
+            {
+              "name": "Church",
+              "categories": []
+            },
+            {
+              "name": "Confucian Temple",
+              "categories": []
+            },
+            {
+              "name": "Hindu Temple",
+              "categories": []
+            },
+            {
+              "name": "Kingdom Hall",
+              "categories": []
+            },
+            {
+              "name": "Monastery",
+              "categories": []
+            },
+            {
+              "name": "Mosque",
+              "categories": []
+            },
+            {
+              "name": "Prayer Room",
+              "categories": []
+            },
+            {
+              "name": "Shrine",
+              "categories": []
+            },
+            {
+              "name": "Synagogue",
+              "categories": []
+            },
+            {
+              "name": "Temple",
+              "categories": []
+            },
+            {
+              "name": "Terreiro",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "TV Station",
+          "categories": []
+        },
+        {
+          "name": "Voting Booth",
+          "categories": []
+        },
+        {
+          "name": "Warehouse",
+          "categories": []
+        },
+        {
+          "name": "Waste Facility",
+          "categories": []
+        },
+        {
+          "name": "Wedding Hall",
+          "categories": []
+        },
+        {
+          "name": "Winery",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Residence",
+      "categories": [
+        {
+          "name": "Assisted Living",
+          "categories": []
+        },
+        {
+          "name": "Home (private)",
+          "categories": []
+        },
+        {
+          "name": "Housing Development",
+          "categories": []
+        },
+        {
+          "name": "Residential Building (Apartment / Condo)",
+          "categories": []
+        },
+        {
+          "name": "Trailer Park",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Shop & Service",
+      "categories": [
+        {
+          "name": "ATM",
+          "categories": []
+        },
+        {
+          "name": "Adult Boutique",
+          "categories": []
+        },
+        {
+          "name": "Antique Shop",
+          "categories": []
+        },
+        {
+          "name": "Arts & Crafts Store",
+          "categories": []
+        },
+        {
+          "name": "Astrologer",
+          "categories": []
+        },
+        {
+          "name": "Auto Dealership",
+          "categories": []
+        },
+        {
+          "name": "Auto Garage",
+          "categories": []
+        },
+        {
+          "name": "Auto Workshop",
+          "categories": []
+        },
+        {
+          "name": "Automotive Shop",
+          "categories": []
+        },
+        {
+          "name": "Baby Store",
+          "categories": []
+        },
+        {
+          "name": "Bank",
+          "categories": []
+        },
+        {
+          "name": "Bath House",
+          "categories": []
+        },
+        {
+          "name": "Batik Shop",
+          "categories": []
+        },
+        {
+          "name": "Betting Shop",
+          "categories": []
+        },
+        {
+          "name": "Big Box Store",
+          "categories": []
+        },
+        {
+          "name": "Bike Shop",
+          "categories": []
+        },
+        {
+          "name": "Board Shop",
+          "categories": []
+        },
+        {
+          "name": "Bookstore",
+          "categories": []
+        },
+        {
+          "name": "Bridal Shop",
+          "categories": []
+        },
+        {
+          "name": "Business Service",
+          "categories": []
+        },
+        {
+          "name": "Camera Store",
+          "categories": []
+        },
+        {
+          "name": "Candy Store",
+          "categories": []
+        },
+        {
+          "name": "Car Wash",
+          "categories": []
+        },
+        {
+          "name": "Carpet Store",
+          "categories": []
+        },
+        {
+          "name": "Check Cashing Service",
+          "categories": []
+        },
+        {
+          "name": "Child Care Service",
+          "categories": [
+            {
+              "name": "Daycare",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Chocolate Shop",
+          "categories": []
+        },
+        {
+          "name": "Clothing Store",
+          "categories": [
+            {
+              "name": "Accessories Store",
+              "categories": []
+            },
+            {
+              "name": "Boutique",
+              "categories": []
+            },
+            {
+              "name": "Kids Store",
+              "categories": []
+            },
+            {
+              "name": "Lingerie Store",
+              "categories": []
+            },
+            {
+              "name": "Men's Store",
+              "categories": []
+            },
+            {
+              "name": "Shoe Store",
+              "categories": []
+            },
+            {
+              "name": "Women's Store",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Comic Shop",
+          "categories": []
+        },
+        {
+          "name": "Construction & Landscaping",
+          "categories": []
+        },
+        {
+          "name": "Convenience Store",
+          "categories": []
+        },
+        {
+          "name": "Cosmetics Shop",
+          "categories": []
+        },
+        {
+          "name": "Costume Shop",
+          "categories": []
+        },
+        {
+          "name": "Credit Union",
+          "categories": []
+        },
+        {
+          "name": "Currency Exchange",
+          "categories": []
+        },
+        {
+          "name": "Department Store",
+          "categories": []
+        },
+        {
+          "name": "Design Studio",
+          "categories": []
+        },
+        {
+          "name": "Discount Store",
+          "categories": []
+        },
+        {
+          "name": "Dive Shop",
+          "categories": []
+        },
+        {
+          "name": "Drugstore",
+          "categories": []
+        },
+        {
+          "name": "Dry Cleaner",
+          "categories": []
+        },
+        {
+          "name": "EV Charging Station",
+          "categories": []
+        },
+        {
+          "name": "Electronics Store",
+          "categories": []
+        },
+        {
+          "name": "Entertainment Service",
+          "categories": []
+        },
+        {
+          "name": "Event Service",
+          "categories": []
+        },
+        {
+          "name": "Fabric Shop",
+          "categories": []
+        },
+        {
+          "name": "Film Studio",
+          "categories": []
+        },
+        {
+          "name": "Financial or Legal Service",
+          "categories": []
+        },
+        {
+          "name": "Fireworks Store",
+          "categories": []
+        },
+        {
+          "name": "Fishing Store",
+          "categories": []
+        },
+        {
+          "name": "Flea Market",
+          "categories": []
+        },
+        {
+          "name": "Floating Market",
+          "categories": []
+        },
+        {
+          "name": "Flower Shop",
+          "categories": []
+        },
+        {
+          "name": "Food & Drink Shop",
+          "categories": [
+            {
+              "name": "Beer Store",
+              "categories": []
+            },
+            {
+              "name": "Butcher",
+              "categories": []
+            },
+            {
+              "name": "Cheese Shop",
+              "categories": []
+            },
+            {
+              "name": "Dairy Store",
+              "categories": []
+            },
+            {
+              "name": "Farmers Market",
+              "categories": []
+            },
+            {
+              "name": "Fish Market",
+              "categories": []
+            },
+            {
+              "name": "Food Service",
+              "categories": []
+            },
+            {
+              "name": "Gourmet Shop",
+              "categories": []
+            },
+            {
+              "name": "Grocery Store",
+              "categories": []
+            },
+            {
+              "name": "Health Food Store",
+              "categories": []
+            },
+            {
+              "name": "KuruyemiÅÃ§i",
+              "categories": []
+            },
+            {
+              "name": "Liquor Store",
+              "categories": []
+            },
+            {
+              "name": "Organic Grocery",
+              "categories": []
+            },
+            {
+              "name": "Sausage Shop",
+              "categories": []
+            },
+            {
+              "name": "Street Food Gathering",
+              "categories": []
+            },
+            {
+              "name": "Supermarket",
+              "categories": []
+            },
+            {
+              "name": "TurÅucu",
+              "categories": []
+            },
+            {
+              "name": "Wine Shop",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Frame Store",
+          "categories": []
+        },
+        {
+          "name": "Fruit & Vegetable Store",
+          "categories": []
+        },
+        {
+          "name": "Furniture / Home Store",
+          "categories": [
+            {
+              "name": "Lighting Store",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Gaming Cafe",
+          "categories": []
+        },
+        {
+          "name": "Garden Center",
+          "categories": []
+        },
+        {
+          "name": "Gas Station",
+          "categories": []
+        },
+        {
+          "name": "Gift Shop",
+          "categories": []
+        },
+        {
+          "name": "Gun Shop",
+          "categories": []
+        },
+        {
+          "name": "Hardware Store",
+          "categories": []
+        },
+        {
+          "name": "Health & Beauty Service",
+          "categories": []
+        },
+        {
+          "name": "Herbs & Spices Store",
+          "categories": []
+        },
+        {
+          "name": "Hobby Shop",
+          "categories": []
+        },
+        {
+          "name": "Home Service",
+          "categories": []
+        },
+        {
+          "name": "Hunting Supply",
+          "categories": []
+        },
+        {
+          "name": "IT Services",
+          "categories": []
+        },
+        {
+          "name": "Insurance Office",
+          "categories": []
+        },
+        {
+          "name": "Internet Cafe",
+          "categories": []
+        },
+        {
+          "name": "Jewelry Store",
+          "categories": []
+        },
+        {
+          "name": "Kitchen Supply Store",
+          "categories": []
+        },
+        {
+          "name": "Knitting Store",
+          "categories": []
+        },
+        {
+          "name": "Laundromat",
+          "categories": []
+        },
+        {
+          "name": "Laundry Service",
+          "categories": []
+        },
+        {
+          "name": "Lawyer",
+          "categories": []
+        },
+        {
+          "name": "Leather Goods Store",
+          "categories": []
+        },
+        {
+          "name": "Locksmith",
+          "categories": []
+        },
+        {
+          "name": "Lottery Retailer",
+          "categories": []
+        },
+        {
+          "name": "Luggage Store",
+          "categories": []
+        },
+        {
+          "name": "Marijuana Dispensary",
+          "categories": []
+        },
+        {
+          "name": "Market",
+          "categories": []
+        },
+        {
+          "name": "Massage Studio",
+          "categories": []
+        },
+        {
+          "name": "Mattress Store",
+          "categories": []
+        },
+        {
+          "name": "Medical Supply Store",
+          "categories": []
+        },
+        {
+          "name": "Miscellaneous Shop",
+          "categories": []
+        },
+        {
+          "name": "Mobile Phone Shop",
+          "categories": []
+        },
+        {
+          "name": "Mobility Store",
+          "categories": []
+        },
+        {
+          "name": "Motorcycle Shop",
+          "categories": []
+        },
+        {
+          "name": "Motorsports Shop",
+          "categories": []
+        },
+        {
+          "name": "Music Store",
+          "categories": []
+        },
+        {
+          "name": "Nail Salon",
+          "categories": []
+        },
+        {
+          "name": "Newsstand",
+          "categories": []
+        },
+        {
+          "name": "Notary",
+          "categories": []
+        },
+        {
+          "name": "Optical Shop",
+          "categories": []
+        },
+        {
+          "name": "Other Repair Shop",
+          "categories": []
+        },
+        {
+          "name": "Outdoor Supply Store",
+          "categories": []
+        },
+        {
+          "name": "Outlet Mall",
+          "categories": []
+        },
+        {
+          "name": "Outlet Store",
+          "categories": []
+        },
+        {
+          "name": "Paper / Office Supplies Store",
+          "categories": []
+        },
+        {
+          "name": "Pawn Shop",
+          "categories": []
+        },
+        {
+          "name": "Perfume Shop",
+          "categories": []
+        },
+        {
+          "name": "Pet Service",
+          "categories": []
+        },
+        {
+          "name": "Pet Store",
+          "categories": []
+        },
+        {
+          "name": "Pharmacy",
+          "categories": []
+        },
+        {
+          "name": "Photography Lab",
+          "categories": []
+        },
+        {
+          "name": "Photography Studio",
+          "categories": []
+        },
+        {
+          "name": "Piercing Parlor",
+          "categories": []
+        },
+        {
+          "name": "Pop-Up Shop",
+          "categories": []
+        },
+        {
+          "name": "Print Shop",
+          "categories": []
+        },
+        {
+          "name": "Public Bathroom",
+          "categories": []
+        },
+        {
+          "name": "Real Estate Office",
+          "categories": []
+        },
+        {
+          "name": "Record Shop",
+          "categories": []
+        },
+        {
+          "name": "Recording Studio",
+          "categories": []
+        },
+        {
+          "name": "Recycling Facility",
+          "categories": []
+        },
+        {
+          "name": "Rental Service",
+          "categories": []
+        },
+        {
+          "name": "Salon / Barbershop",
+          "categories": []
+        },
+        {
+          "name": "Sauna / Steam Room",
+          "categories": []
+        },
+        {
+          "name": "Shipping Store",
+          "categories": []
+        },
+        {
+          "name": "Shoe Repair",
+          "categories": []
+        },
+        {
+          "name": "Shopping Mall",
+          "categories": []
+        },
+        {
+          "name": "Shopping Plaza",
+          "categories": []
+        },
+        {
+          "name": "Ski Shop",
+          "categories": []
+        },
+        {
+          "name": "Smoke Shop",
+          "categories": []
+        },
+        {
+          "name": "Smoothie Shop",
+          "categories": []
+        },
+        {
+          "name": "Souvenir Shop",
+          "categories": []
+        },
+        {
+          "name": "Spa",
+          "categories": []
+        },
+        {
+          "name": "Sporting Goods Shop",
+          "categories": []
+        },
+        {
+          "name": "Stationery Store",
+          "categories": []
+        },
+        {
+          "name": "Storage Facility",
+          "categories": []
+        },
+        {
+          "name": "Supplement Shop",
+          "categories": []
+        },
+        {
+          "name": "Tailor Shop",
+          "categories": []
+        },
+        {
+          "name": "Tanning Salon",
+          "categories": []
+        },
+        {
+          "name": "Tattoo Parlor",
+          "categories": []
+        },
+        {
+          "name": "Thrift / Vintage Store",
+          "categories": []
+        },
+        {
+          "name": "Toy / Game Store",
+          "categories": []
+        },
+        {
+          "name": "Travel Agency",
+          "categories": []
+        },
+        {
+          "name": "Used Bookstore",
+          "categories": []
+        },
+        {
+          "name": "Vape Store",
+          "categories": []
+        },
+        {
+          "name": "Video Game Store",
+          "categories": []
+        },
+        {
+          "name": "Video Store",
+          "categories": []
+        },
+        {
+          "name": "Warehouse Store",
+          "categories": []
+        },
+        {
+          "name": "Watch Shop",
+          "categories": []
+        }
+      ]
+    },
+    {
+      "name": "Travel & Transport",
+      "categories": [
+        {
+          "name": "Airport",
+          "categories": [
+            {
+              "name": "Airport Food Court",
+              "categories": []
+            },
+            {
+              "name": "Airport Gate",
+              "categories": []
+            },
+            {
+              "name": "Airport Lounge",
+              "categories": []
+            },
+            {
+              "name": "Airport Service",
+              "categories": []
+            },
+            {
+              "name": "Airport Terminal",
+              "categories": []
+            },
+            {
+              "name": "Airport Tram",
+              "categories": []
+            },
+            {
+              "name": "Baggage Claim",
+              "categories": []
+            },
+            {
+              "name": "Plane",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Baggage Locker",
+          "categories": []
+        },
+        {
+          "name": "Bike Rental / Bike Share",
+          "categories": []
+        },
+        {
+          "name": "Boat Rental",
+          "categories": []
+        },
+        {
+          "name": "Boat or Ferry",
+          "categories": []
+        },
+        {
+          "name": "Border Crossing",
+          "categories": []
+        },
+        {
+          "name": "Bus Station",
+          "categories": [
+            {
+              "name": "Bus Line",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Bus Stop",
+          "categories": []
+        },
+        {
+          "name": "Cable Car",
+          "categories": []
+        },
+        {
+          "name": "Cruise",
+          "categories": []
+        },
+        {
+          "name": "Duty-free Shop",
+          "categories": []
+        },
+        {
+          "name": "General Travel",
+          "categories": []
+        },
+        {
+          "name": "Heliport",
+          "categories": []
+        },
+        {
+          "name": "Hotel",
+          "categories": [
+            {
+              "name": "Bed & Breakfast",
+              "categories": []
+            },
+            {
+              "name": "Boarding House",
+              "categories": []
+            },
+            {
+              "name": "Hostel",
+              "categories": []
+            },
+            {
+              "name": "Hotel Pool",
+              "categories": []
+            },
+            {
+              "name": "Motel",
+              "categories": []
+            },
+            {
+              "name": "Resort",
+              "categories": []
+            },
+            {
+              "name": "Roof Deck",
+              "categories": []
+            },
+            {
+              "name": "Vacation Rental",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Intersection",
+          "categories": []
+        },
+        {
+          "name": "Light Rail Station",
+          "categories": []
+        },
+        {
+          "name": "Metro Station",
+          "categories": []
+        },
+        {
+          "name": "Moving Target",
+          "categories": []
+        },
+        {
+          "name": "Pier",
+          "categories": []
+        },
+        {
+          "name": "Port",
+          "categories": []
+        },
+        {
+          "name": "RV Park",
+          "categories": []
+        },
+        {
+          "name": "Rental Car Location",
+          "categories": []
+        },
+        {
+          "name": "Rest Area",
+          "categories": []
+        },
+        {
+          "name": "Road",
+          "categories": []
+        },
+        {
+          "name": "Taxi Stand",
+          "categories": []
+        },
+        {
+          "name": "Taxi",
+          "categories": []
+        },
+        {
+          "name": "Toll Booth",
+          "categories": []
+        },
+        {
+          "name": "Toll Plaza",
+          "categories": []
+        },
+        {
+          "name": "Tourist Information Center",
+          "categories": []
+        },
+        {
+          "name": "Train Station",
+          "categories": [
+            {
+              "name": "Platform",
+              "categories": []
+            },
+            {
+              "name": "Train",
+              "categories": []
+            }
+          ]
+        },
+        {
+          "name": "Tram Station",
+          "categories": []
+        },
+        {
+          "name": "Transportation Service",
+          "categories": []
+        },
+        {
+          "name": "Travel Lounge",
+          "categories": []
+        },
+        {
+          "name": "Tunnel",
+          "categories": []
+        }
+      ]
+    }
+  ]
+}

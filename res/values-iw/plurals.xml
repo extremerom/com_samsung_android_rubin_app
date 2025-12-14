@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">עליך להיות בן %d לפחות כדי להשתמש בשירות ההתאמה האישית.</item>
+        <item quantity="two">עליך להיות בן %d לפחות כדי להשתמש בשירות ההתאמה האישית.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">עליך להיות בן %d לפחות כדי להשתמש בשירות ההתאמה האישית.</item>
+        <item quantity="other">עליך להיות בן %d לפחות כדי להשתמש בשירות ההתאמה האישית.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">סוג %d של אירוע בלוח השנה</item>
+        <item quantity="two">%d סוגי אירועים בלוח השנה</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d סוגי אירועים בלוח השנה</item>
+        <item quantity="other">%d סוגי אירועים בלוח השנה</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">הבית ומקום %d שאתה מרבה לבקר בו זוהו</item>
+        <item quantity="two">הבית ו-%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">הבית ו-%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+        <item quantity="other">הבית ו-%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מקום %d שאתה מרבה לבקר בו זוהה</item>
+        <item quantity="two">%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+        <item quantity="other">%d מקומות שאתה מרבה לבקר בהם זוהו</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d התראות חדשות</item>
+        <item quantity="two">%d התראות חדשות</item>
+        <item quantity="other">%d התראות חדשות</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על נתוני האימונים, השימוש ביישומים וחיבורים של מכשירים ביום האחרון (%d).</item>
+        <item quantity="two">מבוסס על נתוני האימונים, השימוש ביישומים וחיבורים של מכשירים ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על נתוני האימונים, השימוש ביישומים וחיבורים של מכשירים ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על נתוני האימונים, השימוש ביישומים וחיבורים של מכשירים ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על המועדים שבהם נסעת לבית הספר, לעבודה או לבית ביום האחרון (%d).</item>
+        <item quantity="two">מבוסס על המועדים שבהם נסעת לבית הספר, לעבודה או לבית ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על המועדים שבהם נסעת לבית הספר, לעבודה או לבית ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על המועדים שבהם נסעת לבית הספר, לעבודה או לבית ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על סוגי היישומים שבהם השתמשת והאתרים שבהם ביקרת ב-Samsung Internet ביום האחרון (%d).</item>
+        <item quantity="two">מבוסס על סוגי היישומים שבהם השתמשת והאתרים שבהם ביקרת ב-Samsung Internet ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על סוגי היישומים שבהם השתמשת והאתרים שבהם ביקרת ב-Samsung Internet ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על סוגי היישומים שבהם השתמשת והאתרים שבהם ביקרת ב-Samsung Internet ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על המקומות שבילית בהם לעתים קרובות ביום האחרון (%d).</item>
+        <item quantity="two">מבוסס על המקומות שבילית בהם לעתים קרובות ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על המקומות שבילית בהם לעתים קרובות ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על המקומות שבילית בהם לעתים קרובות ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על היישומים וההגדרות שהיו בשימוש לעתים הקרובות ביותר ביום האחרון (%d).</item>
+        <item quantity="two">מבוסס על היישומים וההגדרות שהיו בשימוש לעתים הקרובות ביותר ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על היישומים וההגדרות שהיו בשימוש לעתים הקרובות ביותר ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על היישומים וההגדרות שהיו בשימוש לעתים הקרובות ביותר ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטלפון במהלך היום האחרון (%d).</item>
+        <item quantity="two">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטלפון ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטלפון ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטלפון ב-%d הימים האחרונים.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטאבלט במהלך היום האחרון (%d).</item>
+        <item quantity="two">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטאבלט ב-%d הימים האחרונים.</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטאבלט ב-%d הימים האחרונים.</item>
+        <item quantity="other">מבוסס על המועדים שבהם התחלת והפסקת להשתמש בטאבלט ב-%d הימים האחרונים.</item>
+    </plurals>
+</resources>

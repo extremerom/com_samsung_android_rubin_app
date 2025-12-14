@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Vous devez avoir au moins %d an pour utiliser le Service de personnalisation.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Vous devez avoir au moins %d ans pour utiliser le Service de personnalisation.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%d type d'évènement sur le calendrier"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%d types d'évènement sur le calendrier"</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Domicile et %d autre lieu souvent visité identifiés</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Domicile et %d autres lieux souvent visités identifiés</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d lieu souvent visité identifié</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d lieux souvent visités identifiés</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nouvelle notification</item>
+        <item quantity="other">%d nouvelles notifications</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Basé sur les données d'entrainement, l'utilisation des applications et les connexions d'appareil hier."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Basé sur les données d'entrainement, l'utilisation des applications et les connexions d'appareil au cours des %d derniers jours."</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Basé sur l'heure à laquelle vous vous êtes rendu à l'école, au travail ou chez vous hier."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Basé sur l'heure à laquelle vous vous êtes rendu à l'école, au travail ou chez vous au cours des %d derniers jours."</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Basé sur les types d'application que vous avez utilisés et les sites Web que vous avez consultés dans Samsung Internet hier."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Basé sur les types d'application que vous avez utilisés et les sites Web que vous avez consultés dans Samsung Internet au cours des %d derniers jours."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Basé sur les endroits dans lesquels vous vous êtes souvent rendu hier.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Basé sur les endroits dans lesquels vous vous êtes souvent rendu au cours des %d derniers jours.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Basée sur les applications et les paramètres que vous avez utilisés le plus hier.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Basée sur les applications et les paramètres que vous avez utilisés le plus au cours des %d derniers jours.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Basé sur l'heure à laquelle vous avez commencé et arrêté d'utiliser votre téléphone hier."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Basé sur l'heure à laquelle vous avez commencé et arrêté d'utiliser votre téléphone au cours des %d derniers jours."</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Basé sur l'heure à laquelle vous avez commencé et arrêté d'utiliser votre tablette hier."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Basé sur l'heure à laquelle vous avez commencé et arrêté d'utiliser votre tablette au cours des %d derniers jours."</item>
+    </plurals>
+</resources>

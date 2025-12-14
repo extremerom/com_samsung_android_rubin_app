@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory>
+        <androidx.preference.PreferenceScreen android:persistent="false" android:layout="@layout/pref_description" android:title="" android:selectable="false" android:key="key_description" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/privacy_pref_mobile_devices" android:key="key_category_mobile_devices" />
+    <androidx.preference.PreferenceCategory android:title="@string/info_tvs" android:key="key_category_tvs" />
+    <androidx.preference.PreferenceCategory android:title="" />
+</androidx.preference.PreferenceScreen>

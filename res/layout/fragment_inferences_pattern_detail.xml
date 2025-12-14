@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/date_picker" layout="@layout/inference_detail_date_picker" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/inference_frame_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@id/first_layout" layout="@layout/item_inferences_pattern" />
+        <LinearLayout style="@style/Winset.Inferences.Detail.Divider" />
+        <include android:id="@id/second_layout" layout="@layout/item_inferences_pattern" />
+    </LinearLayout>
+</LinearLayout>

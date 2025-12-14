@@ -1,0 +1,144 @@
+.class public final synthetic LQ1/l;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Ly2/a;
+.implements Ly2/g;
+
+
+# static fields
+.field public static final synthetic a:LQ1/l;
+
+.field public static final synthetic b:LQ1/l;
+
+
+# direct methods
+.method static synthetic constructor <clinit>()V
+    .locals 1
+
+    new-instance v0, LQ1/l;
+
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    sput-object v0, LQ1/l;->a:LQ1/l;
+
+    new-instance v0, LQ1/l;
+
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    sput-object v0, LQ1/l;->b:LQ1/l;
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public b(Ljava/lang/Object;)Ly2/m;
+    .locals 0
+
+    check-cast p1, Landroid/os/Bundle;
+
+    sget p0, LQ1/a;->h:I
+
+    if-eqz p1, :cond_0
+
+    const-string p0, "google.messenger"
+
+    invoke-virtual {p1, p0}, Landroid/os/BaseBundle;->containsKey(Ljava/lang/String;)Z
+
+    move-result p0
+
+    if-eqz p0, :cond_0
+
+    const/4 p0, 0x0
+
+    invoke-static {p0}, Lz8/g;->n(Ljava/lang/Object;)Ly2/m;
+
+    move-result-object p0
+
+    goto :goto_0
+
+    :cond_0
+    invoke-static {p1}, Lz8/g;->n(Ljava/lang/Object;)Ly2/m;
+
+    move-result-object p0
+
+    :goto_0
+    return-object p0
+.end method
+
+.method public e(Ly2/m;)Ljava/lang/Object;
+    .locals 3
+
+    invoke-virtual {p1}, Ly2/m;->k()Z
+
+    move-result p0
+
+    if-eqz p0, :cond_0
+
+    invoke-virtual {p1}, Ly2/m;->i()Ljava/lang/Object;
+
+    move-result-object p0
+
+    check-cast p0, Landroid/os/Bundle;
+
+    return-object p0
+
+    :cond_0
+    const/4 p0, 0x3
+
+    const-string v0, "Rpc"
+
+    invoke-static {v0, p0}, Landroid/util/Log;->isLoggable(Ljava/lang/String;I)Z
+
+    move-result p0
+
+    if-nez p0, :cond_1
+
+    goto :goto_0
+
+    :cond_1
+    invoke-virtual {p1}, Ly2/m;->h()Ljava/lang/Exception;
+
+    move-result-object p0
+
+    invoke-static {p0}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object p0
+
+    invoke-virtual {p0}, Ljava/lang/String;->length()I
+
+    move-result v1
+
+    new-instance v2, Ljava/lang/StringBuilder;
+
+    add-int/lit8 v1, v1, 0x16
+
+    invoke-direct {v2, v1}, Ljava/lang/StringBuilder;-><init>(I)V
+
+    const-string v1, "Error making request: "
+
+    invoke-virtual {v2, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v2, p0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object p0
+
+    invoke-static {v0, p0}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+    :goto_0
+    new-instance p0, Ljava/io/IOException;
+
+    const-string v0, "SERVICE_NOT_AVAILABLE"
+
+    invoke-virtual {p1}, Ly2/m;->h()Ljava/lang/Exception;
+
+    move-result-object p1
+
+    invoke-direct {p0, v0, p1}, Ljava/io/IOException;-><init>(Ljava/lang/String;Ljava/lang/Throwable;)V
+
+    throw p0
+.end method

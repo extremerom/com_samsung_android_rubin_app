@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kana buƙatar ka zama aƙalla shekara %d don amfani da Sabis da aka Tsara.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kana buƙatar ka zama aƙalla shekaru %d don amfani da Sabis da aka Tsara.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%d nau'in taron akan kalanda"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%d nau'ikan taron da suka faru a kalanda"</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gida da wasu wuraren %d da ake yawan ziyar ta an gano su</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Gida da kuma %d an gano wasu wuraren da ake yawan ziyarta</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d an gano wurin da a kafi ziyarta akai-akai</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d wuraren da ake yawan ziyarta da aka gano su</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Dangane da bayanan motsa jiki, amfani da manhaja, da haɗe-haɗen na'ura a kwana %d da suka gabata."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Dangane da bayanan motsa jiki, amfani da manhaja, da haɗe-haɗen na'ura a kwanaki %d da suka gabata."</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dangane da lokacin da ka yi tafiya zuwa makaranta, aiki, ko gida a cikin kwana %d da suka gabata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dangane da lokacin da ka yi tafiya zuwa makaranta, aiki, ko gida a cikin kwanaki %d da suka gabata.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Dangane da nau'ikan manhajoji da ka yi amfani da su da kuma shafukan intanet da ka ziyarta a cikin Samsung Intanet a cikin kwanan %d da suka gabata."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Dangane da nau'ikan manhajoji da ka yi amfani da su da kuma shafukan intanet da ka ziyarta a cikin Intanet na Samsung a cikin kwanaki %d da suka gabata."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dangane da wuraren da ka shafe lokaci akai-akai a cikin kwanan %d da suka gabata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dangane da wuraren da ka shafe lokaci akai-akai a cikin kwanaki %d da suka gabata.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dangane da manhajojin da saitunan da ka fi amfani da su a cikin kwanan %d da suka gabata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dangane da manhajojin da saitunan da ka fi amfani da su a cikin kwanaki %d da suka gabata.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dangane da lokacin da ka fara da daina amfani da wayarka a cikin kwana %d da suka gabata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dangane da lokacin da ka fara da daina amfani da wayarka a cikin kwanaki %d da suka gabata.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Dangane da lokacin da ka fara da daina amfani da tabulet ɗinka a cikin kwanaki %d da suka gabata.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Dangane da lokacin da ka fara da daina amfani da tabulet ɗinka a cikin kwanaki %d da suka gabata.</item>
+    </plurals>
+</resources>

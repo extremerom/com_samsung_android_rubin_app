@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">Lai izmantotu Pielāgošanas pakalpojumu, jums jābūt vismaz %d gadus vecam.</item>
+        <item quantity="one">Lai izmantotu Pielāgošanas pakalpojumu, jums jābūt vismaz %d gadu vecam.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Lai izmantotu Pielāgošanas pakalpojumu, jums jābūt vismaz %d gadus vecam.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">%d notikumu veidi kalendārā</item>
+        <item quantity="one">%d notikumu veids kalendārā</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d notikumu veidi kalendārā</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">Noteiktas mājas un %d citas bieži apmeklētas vietas</item>
+        <item quantity="one">Noteiktas mājas un %d cita bieži apmeklēta vieta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Noteiktas mājas un %d citas bieži apmeklētas vietas</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">Noteiktas %d bieži apmeklētas vietas</item>
+        <item quantity="one">Noteikta %d bieži apmeklēta vieta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Noteiktas %d bieži apmeklētas vietas</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="zero">%d jaunu paziņojumu</item>
+        <item quantity="one">%d jauns paziņojums</item>
+        <item quantity="other">%d jauni paziņojumi</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">Ņemot vērā treniņu datus, programmu lietojumu un ierīču savienojumus pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā treniņu datus, programmu lietojumu un ierīču savienojumus pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā treniņu datus, programmu lietojumu un ierīču savienojumus pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">Ņemot vērā laiku, kad devāties uz skolu, darbu vai mājām pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā laiku, kad devāties uz skolu, darbu vai mājām pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā laiku, kad devāties uz skolu, darbu vai mājām pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">Ņemot vērā jūsu izmantoto programmu veidus un apmeklētās tīmekļa vietnes programmā Samsung internets pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā jūsu izmantoto programmu veidus un apmeklētās tīmekļa vietnes programmā Samsung internets pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā jūsu izmantoto programmu veidus un apmeklētās tīmekļa vietnes programmā Samsung internets pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">Ņemot vērā vietas, kurās esat bieži pavadījis laiku pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā vietas, kurās esat bieži pavadījis laiku pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā vietas, kurās esat bieži pavadījis laiku pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">Ņemot vērā biežāk izmantotās programmas un iestatījumus pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā biežāk izmantotās programmas un iestatījumus pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā biežāk izmantotās programmas un iestatījumus pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">Ņemot vērā laiku, kad sākāt un pārtraucāt tālruņa lietošanu pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā laiku, kad sākāt un pārtraucāt tālruņa lietošanu pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā laiku, kad sākāt un pārtraucāt tālruņa lietošanu pēdējo %d dienu laikā.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">Ņemot vērā laiku, kad sākāt un pārtraucāt planšetdatora lietošanu pēdējo %d dienu laikā.</item>
+        <item quantity="one">Ņemot vērā laiku, kad sākāt un pārtraucāt planšetdatora lietošanu pēdējās %d dienas laikā.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ņemot vērā laiku, kad sākāt un pārtraucāt planšetdatora lietošanu pēdējo %d dienu laikā.</item>
+    </plurals>
+</resources>

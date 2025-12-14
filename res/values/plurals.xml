@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="other">You need to be at least %d year old to use the Customization Service.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="other">%d types of events on calendar</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="other">Home and %d other frequently visited places identified</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="other">%d frequently visited places identified</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="other">Based on workout data, app use, and device connections over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="other">Based on when you’ve traveled to school, work, or home over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="other">Based on the types of apps you’ve used and the websites you’ve visited in Samsung Internet over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="other">"Based on the places you've spent time in often over the last %d days."</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="other">Based on the apps and settings you’ve used the most in the last %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="other">Based on when you started and stopped using your phone over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="other">Based on when you started and stopped using your tablet in the past %d days.</item>
+    </plurals>
+</resources>

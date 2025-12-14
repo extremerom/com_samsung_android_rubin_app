@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout android:background="@color/winset_help_content_area_bg_color" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.material.appbar.AppBarLayout android:id="@id/permission_onboarding_appbar" android:layout_width="match_parent" android:layout_height="match_parent" style="@style/Theme.AppCompat.Light">
+        <com.google.android.material.appbar.CollapsingToolbarLayout android:background="@color/winset_help_content_area_bg_color" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_scrollFlags="scroll|exitUntilCollapsed">
+            <LinearLayout android:orientation="vertical" android:id="@id/title_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+                <View android:id="@id/permission_onboarding_top_empty_space" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                <TextView android:id="@id/permission_onboarding_title" style="@style/Winset.Permission.Onboarding.Title" />
+                <View android:id="@id/permission_onboarding_bottom_empty_space" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            </LinearLayout>
+            <androidx.appcompat.widget.Toolbar android:id="@id/permission_onboarding_toolbar" app:background="@color/winset_help_content_area_bg_color" app:layout_collapseMode="pin" style="@style/Winset.Permission.Onboarding.Toolbar" />
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+    <LinearLayout android:orientation="vertical" android:background="@color/winset_help_content_area_bg_color" android:layout_width="match_parent" android:layout_height="match_parent" app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+        <androidx.core.widget.NestedScrollView android:id="@id/permissions_notice_layout" android:layout_width="match_parent" android:layout_height="0.0dp" android:layout_weight="1.0">
+            <include layout="@layout/activity_permission_list" />
+        </androidx.core.widget.NestedScrollView>
+        <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@color/winset_help_content_area_bg_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/permission_onboarding_body_dummy" style="@style/Winset.Permission.Onboarding.Body" />
+            <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:text="@string/btn_continue" style="@style/Winset.Permission.Onboarding.ContinueButtonStyle" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/fixed_area_layout" android:background="@color/winset_help_content_area_bg_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/permission_onboarding_body" style="@style/Winset.Permission.Onboarding.Body" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:id="@id/continue_button" android:text="@string/btn_continue" style="@style/Winset.Permission.Onboarding.ContinueButtonStyle" />
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

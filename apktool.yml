@@ -1,0 +1,22 @@
+version: 3.0.0-dirty
+apkFileName: app.apk
+usesFramework:
+  ids:
+  - 1
+  tag: dm2q
+sdkInfo:
+  minSdkVersion: 36
+  targetSdkVersion: 36
+versionInfo:
+  versionCode: 370102000
+  versionName: 3.7.01.2
+resourcesInfo:
+  packageId: 127
+doNotCompress:
+- arsc
+- dex
+- png
+- so
+- assets/dexopt/baseline.prof
+- assets/dexopt/baseline.profm
+- assets/pose_detection_classifier.h5.tflite

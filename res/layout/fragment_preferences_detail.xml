@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/tab_layout" layout="@layout/preference_tab_layout" />
+    <include android:id="@id/date_picker" layout="@layout/inference_detail_date_picker" />
+    <LinearLayout android:id="@id/preference_data_list_container" android:background="@drawable/inference_frame_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.rubin.app.ui.view.NonScrollListView android:orientation="vertical" android:id="@id/preference_data_list_view" android:paddingTop="4.0dp" android:paddingBottom="16.0dp" android:layout_width="match_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

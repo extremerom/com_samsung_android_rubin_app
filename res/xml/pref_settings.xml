@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/title_ics"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.DropDownPreference android:entries="@array/upload_data_using_list" android:title="@string/upload_data_using" android:key="key_upload_data_using" android:entryValues="@array/upload_data_using_list" />
+    <androidx.preference.PreferenceCategory>
+        <androidx.preference.Preference android:title="@string/title_about" android:key="key_about_unbundled" />
+    </androidx.preference.PreferenceCategory>
+</PreferenceScreen>

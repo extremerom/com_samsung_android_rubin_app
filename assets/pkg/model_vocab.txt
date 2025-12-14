@@ -1,0 +1,278 @@
+// Prefix
+cls	<http://www.s-knowledge.net/class/>
+pro	<http://www.s-knowledge.net/property/>
+rsc	<http://www.s-knowledge.net/resource/>
+owl	<http://www.w3.org/2002/07/owl#>
+rdf	<http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+xml	<http://www.w3.org/XML/1998/namespace>
+xsd	<http://www.w3.org/2001/XMLSchema#>
+rdfs	<http://www.w3.org/2000/01/rdf-schema#>
+
+
+// KEY predicate priority
+// Priority (Low: 0, Medium: 1, High: 2)
+
+KEY_RDF_TYPE	rdf:type	1
+
+// Pet
+KEY_CLS_PET	cls:pet	1
+KEY_PRO_BREED	pro:breed	1
+
+// PetType
+KEY_CLS_PET_TYPE	cls:pet_type	1
+KEY_PRO_HAS_PET_TYPE	pro:has_pet_type	1
+KEY_PRO_HAS_PET_TYPE_NAME	pro:has_pet_type_name	1
+
+// pet type rsc
+KEY_RSC_DOGS	rsc:dogs	1
+KEY_RSC_CATS	rsc:cats	1
+KEY_RSC_BIRDS	rsc:birds	1
+KEY_RSC_FISH	rsc:fish	1
+KEY_RSC_ANIMALS	rsc:animals	1
+
+// MyPetAssociation
+KEY_CLS_MY_PET_ASSOCIATION	cls:my_pet_association	1
+KEY_PRO_HAS_MY_PET_ASSOCIATION	pro:has_my_pet_association	1
+
+// PetAssociation
+KEY_CLS_PET_ASSOCIATION	cls:pet_association	1
+KEY_PRO_HAS_PET_ASSOCIATION	pro:has_pet_association	1
+KEY_PRO_HAS_ASSOCIATED_PET	pro:has_associated_pet	1
+
+//Feedback
+KEY_CLS_FEEDBACK	cls:feedback	1
+KEY_PRO_HAS_FEEDBACK	pro:has_feedback	1
+KEY_PRO_USER_FEEDBACK	pro:user_feedback	1
+KEY_PRO_ANALYZED_POSITIVE_FEEDBACK_CLIENT	pro:analyzed_positive_feedback_client	1
+KEY_PRO_ANALYZED_NEGATIVE_FEEDBACK_CLIENT	pro:analyzed_negative_feedback_client	1
+
+// Calendar
+KEY_CLS_CALENDAR	cls:calendar	1
+KEY_PRO_CALENDAR_ID	pro:calendar_id	1
+KEY_PRO_CALENDAR_DISPLAY_NAME	pro:calendar_display_name	1
+
+// EVENT
+KEY_CLS_EVENT	cls:event	1
+
+KEY_PRO_EVENT_ID	pro:event_id	1
+KEY_PRO_SOURCE_CALENDAR	pro:source_calendar	1
+KEY_PRO_EVENT_TITLE	pro:event_title	1
+KEY_PRO_HAS_LOCATION	pro:has_location	1
+KEY_PRO_EVENT_START_DATE	pro:event_start_date	1
+KEY_PRO_EVENT_END_DATE	pro:event_end_date	1
+KEY_PRO_EVENT_TIME_ZONE	pro:event_time_zone	1
+KEY_PRO_EVENT_IS_ALL_DAY	pro:all_day	1
+KEY_PRO_IS_LUNAR	pro:is_lunar	1
+
+// RecurrentEvent
+KEY_PRO_RECURRENT_EVENT_ID	pro:recurrent_event_id	1
+KEY_CLS_RECURRENCE_RULE_ASSOCIATION	cls:recurrence_rule_association	1
+KEY_PRO_HAS_RECURRENCE_RULE_ASSOCIATION	pro:has_recurrence_rule_association	1
+KEY_CLS_RECURRENCE_RULE	cls:recurrence_rule	1
+KEY_PRO_HAS_RECURRENCE_RULE	pro:has_recurrence_rule	1
+KEY_PRO_FREQ	pro:freq	1
+KEY_PRO_INTERVAL	pro:interval	1
+KEY_PRO_BYDAY	pro:byday	1
+
+//EventAttendee
+KEY_CLS_EVENT_ATTENDEE_ASSOCIATION	cls:event_attendee_association	1
+KEY_PRO_HAS_ATTENDEE_PERSON	pro:has_attendee_person	1
+KEY_PRO_HAS_ATTENDEE_ASSOCIATION	pro:has_attendee_association	1
+
+//EventHero
+KEY_CLS_EVENT_HERO_ASSOCIATION	cls:event_hero_association	1
+KEY_PRO_HAS_HERO_PERSON	pro:has_hero_person	1
+KEY_PRO_HAS_HERO_ASSOCIATION	pro:has_hero_association	1
+KEY_PRO_EVENT_HERO_NAME	pro:event_hero_name	1
+
+//RelevantDate
+KEY_CLS_RELEVANT_DATE_ASSOCIATION	cls:relevant_date_association	1
+KEY_CLS_RELEVANT_DATE	cls:relevant_date	1
+KEY_PRO_RELEVANT_DATE_TYPE	pro:relevant_date_type	1
+KEY_PRO_HAS_RELEVANT_DATE_ASSOCIATION	pro:has_relevant_date_association	1
+KEY_PRO_HAS_RELEVANT_DATE	pro:has_relevant_date	1
+KEY_PRO_ASSOCIATED_EVENT	pro:associated_event	1
+KEY_PRO_RELEVANT_DAY	pro:relevant_day	1
+
+//EventType
+KEY_CLS_EVENT_TYPE	cls:event_type	1
+KEY_CLS_EVENT_TYPE_ASSOCIATION	cls:event_type_association	1
+KEY_PRO_HAS_EVENT_TYPE	pro:has_event_type	1
+KEY_PRO_HAS_EVENT_TYPE_NAME	pro:has_event_type_name	1
+KEY_PRO_HAS_EVENT_TYPE_ASSOCIATION	pro:has_event_type_association	1
+
+// LocationAssociation
+KEY_CLS_LOCATION_ASSOCIATION	cls:location_association	1
+KEY_PRO_HAS_LOCATION	pro:has_location	1
+
+// Location
+KEY_CLS_LOCATION	cls:location	1
+
+KEY_PRO_ADDRESS	pro:address	1
+KEY_PRO_LATITUDE	pro:latitude	1
+KEY_PRO_LONGITUDE	pro:longitude	1
+KEY_PRO_HAS_LOCATION_TYPE_ASSOCIATION	pro:has_location_type_association	1
+
+// LocationTypeAssociation
+KEY_CLS_LOCATION_TYPE_ASSOCIATION	cls:location_type_association	1
+KEY_PRO_HAS_LOCATION_TYPE	pro:has_location_type	1
+
+// LocationType
+KEY_CLS_LOCATION_TYPE	cls:location_type	1
+
+KEY_RSC_HOME	rsc:home	1
+KEY_RSC_WORK	rsc:work	1
+KEY_RSC_CAR	rsc:car	1
+KEY_RSC_RSC_FREQUENTLY_VISITED_PLACE	rsc:frequently_visited_place	1
+KEY_RSC_NEAR_HOME	rsc:near_home	1
+KEY_RSC_NEAR_WORK	rsc:near_work	1
+
+//Occasion
+KEY_CLS_OCCASION	cls:occasion	1
+KEY_PRO_HAS_OCCASION	pro:has_occasion	1
+KEY_PRO_START_TIME	pro:start_time	1
+KEY_PRO_END_TIME	pro:end_time	1
+
+//OccasionType
+KEY_CLS_OCCASION_TYPE	cls:occasion_type	1
+KEY_PRO_HAS_OCCASION_TYPE	pro:has_occasion_type	1
+KEY_RSC_ON_TRIP	rsc:on_trip	1
+
+// ContactGroup
+KEY_CLS_CONTACT_GROUP	cls:contact_group	1
+
+KEY_PRO_CONTACT_GROUP_ID	pro:contact_group_id	1
+KEY_PRO_CONTACT_GROUP_TITLE	pro:contact_group_title	1
+
+// Contact
+KEY_CLS_CONTACT	cls:contact	1
+
+KEY_PRO_CONTACT_ID	pro:contact_id	1
+KEY_PRO_RAW_CONTACT_ID	pro:raw_contact_id	1
+KEY_PRO_CONTACT_DISPLAY_NAME	pro:contact_display_name	1
+KEY_PRO_CONTACT_NAME	pro:contact_name	1
+KEY_PRO_CONTACT_COMPANY	pro:contact_company	1
+KEY_PRO_CONTACT_GROUP	pro:contact_group	1
+KEY_PRO_HAS_EMAIL	pro:has_email	1
+
+
+// Email
+KEY_CLS_EMAIL	cls:email	1
+KEY_PRO_EMAIL_ADDRESS	pro:email_address	1
+KEY_PRO_EMAIL_TYPE	pro:email_type	0
+
+KEY_PRO_HAS_LOCATION_ASSOCIATION	pro:has_location_association	1
+
+// Tag
+KEY_CLS_TAG	cls:tag	1
+
+KEY_PRO_TAG_NAME	pro:tag_name	1
+// KEY_PRO_TAG_TYPE	pro:tag_type	1
+
+// Image
+KEY_CLS_IMAGE	cls:image	1
+
+KEY_PRO_IMAGE_ID	pro:image_id	1
+KEY_PRO_CREATED_TIME	pro:created_time	1
+KEY_PRO_FILENAME	pro:filename	1
+KEY_PRO_OF_GALLERY_PERSON	pro:of_gallery_person	1
+KEY_PRO_HAS_TAG	pro:has_tag	1
+KEY_PRO_HAS_EVENT_ASSOCIATION	pro:has_event_association	1
+KEY_PRO_IS_SELFIE	pro:is_selfie	1
+
+// Album
+KEY_CLS_ALBUM	cls:album	1
+
+KEY_PRO_ALBUM_ID	pro:album_id	1
+KEY_PRO_ALBUM_TITLE	pro:album_title	1
+KEY_PRO_HAS_IMAGE	pro:has_image	1
+
+// EventAssociation
+KEY_CLS_EVENT_ASSOCIATION	cls:event_association	1
+KEY_PRO_HAS_EVENT	pro:has_event	1
+
+// Person
+KEY_CLS_PERSON	cls:person	1
+
+KEY_PRO_IS_ME	pro:is_me	1
+KEY_PRO_HAS_CONTACT	pro:has_contact	1
+KEY_PRO_HAS_GALLERY_PERSON_ASSOCIATION	pro:has_gallery_person_association	1
+KEY_PRO_NAME	pro:name	1
+KEY_PRO_HAS_RELATIONSHIP	pro:has_relationship	1
+KEY_PRO_GENDER	pro:gender	1
+
+// GalleryPersonAssociation
+KEY_CLS_GALLERY_PERSON_ASSOCIATION	cls:gallery_person_association	1
+KEY_PRO_HAS_GALLERY_PERSON	pro:has_gallery_person	1
+
+// GalleryPerson
+KEY_CLS_GALLERY_PERSON	cls:gallery_person_object	1
+KEY_CLS_GALLERY_PERSON_NAME	cls:gallery_person_name	1
+
+KEY_PRO_GALLERY_PERSON_ID	pro:gallery_person_id	1
+KEY_PRO_GALLERY_GROUP_ID	pro:gallery_person_group_id	1
+KEY_PRO_HAS_GALLERY_PERSON_NAME	pro:has_gallery_person_name	1
+KEY_PRO_RECOMMENDED_RAW_CONTACT_ID	pro:recommended_raw_contact_id	1
+
+KEY_PRO_INFERENCE_TYPE	pro:inference_type	1
+KEY_PRO_INFERENCE_SCORE	pro:inference_score	1
+
+// Relationship
+KEY_CLS_RELATIONSHIP	cls:relationship	1
+
+KEY_PRO_TARGET_PERSON	pro:target_person	1
+KEY_PRO_RELATIONSHIP_TYPE	pro:relationship_type	1
+
+// Relationship Type
+KEY_CLS_RELATIONSHIP_TYPE	cls:relationship_type	1
+KEY_CLS_FAMILY_RELATIONSHIP_TYPE	cls:family_relationship_type	1
+KEY_CLS_SOCIAL_RELATIONSHIP_TYPE	cls:social_relationship_type	1
+
+KEY_PRO_RELATIONSHIP_LEVEL	pro:relationship_level	1
+KEY_PRO_RELATIONSHIP_NAME	pro:relationship_name	1
+
+// Relationship Type Resource
+KEY_RSC_REL_TYPE_ASSISTANT	rsc:assistant	1
+KEY_RSC_REL_TYPE_CHILD	rsc:child	1
+KEY_RSC_REL_TYPE_DOMESTIC_PARTNER	rsc:domestic_partner	1
+KEY_RSC_REL_TYPE_FRIEND	rsc:friend	1
+KEY_RSC_REL_TYPE_MANAGER	rsc:manager	1
+KEY_RSC_REL_TYPE_PARENT	rsc:parents	1
+KEY_RSC_REL_TYPE_PARTNER	rsc:partner	1
+KEY_RSC_REL_TYPE_REFERENCE	rsc:reference	1
+KEY_RSC_REL_TYPE_RELATIVE	rsc:relative	1
+KEY_RSC_REL_TYPE_SPOUSE	rsc:spouse	1
+KEY_RSC_REL_TYPE_FATHER	rsc:father	1
+KEY_RSC_REL_TYPE_MOTHER	rsc:mother	1
+KEY_RSC_REL_TYPE_SON	rsc:son	1
+KEY_RSC_REL_TYPE_DAUGHTER	rsc:daughter	1
+KEY_RSC_REL_TYPE_GRANDFATHER	rsc:grandfather	1
+KEY_RSC_REL_TYPE_GRANDMOTHER	rsc:grandmother	1
+KEY_RSC_REL_TYPE_MATERNAL_GRANDFATHER	rsc:maternal_grandfather	1
+KEY_RSC_REL_TYPE_PATERNAL_GRANDFATHER	rsc:maternal_grandfather	1
+KEY_RSC_REL_TYPE_MATERNAL_GRANDMOTHER	rsc:maternal_grandmother	1
+KEY_RSC_REL_TYPE_PATERNAL_GRANDMOTHER	rsc:maternal_grandmother	1
+KEY_RSC_REL_TYPE_FATHERINLAW	rsc:father_in_law	1
+KEY_RSC_REL_TYPE_MOTHERINLAW	rsc:mother_in_law	1
+KEY_RSC_REL_TYPE_FATHERINLAW_WIFESFATHER	rsc:father_in_law_me_male	1
+KEY_RSC_REL_TYPE_MOTHERINLAW_WIFESMOHTER	rsc:mother_in_law_me_male	1
+KEY_RSC_REL_TYPE_FATHERINLAW_HUASBANDSFATHER	rsc:father_in_law_me_female	1
+KEY_RSC_REL_TYPE_MOTHERINLAW_HUASBANDSMOTHER	rsc:mother_in_law_me_female	1
+KEY_RSC_REL_TYPE_OLDER_BROTHER_MALE	rsc:elder_brother_me_male	1
+KEY_RSC_REL_TYPE_OLDER_BROTHER_FEMALE	rsc:elder_brother_me_female	1
+KEY_RSC_REL_TYPE_OLDER_SISTER_MALE	rsc:elder_sister_me_male	1
+KEY_RSC_REL_TYPE_OLDER_SISTER_FEMALE	rsc:elder_sister_me_female	1
+KEY_RSC_REL_TYPE_YOUNGER_SISTER	rsc:younger_sister	1
+KEY_RSC_REL_TYPE_YOUNGER_BROTHER	rsc:younger_brother	1
+KEY_RSC_REL_TYPE_BROTHER	rsc:brother	1
+KEY_RSC_REL_TYPE_SISTER	rsc:sister	1
+KEY_RSC_REL_TYPE_HUSBAND	rsc:husband	1
+KEY_RSC_REL_TYPE_WIFE	rsc:wife	1
+KEY_RSC_REL_TYPE_SON_IN_LAW	rsc:son_in_law	1
+KEY_RSC_REL_TYPE_DAUGHTER_IN_LAW	rsc:daughter_in_law	1
+KEY_RSC_REL_TYPE_FAMILY	rsc:family	1
+KEY_RSC_REL_TYPE_ACQUAINTANCE	rsc:acquaintance	1
+KEY_RSC_REL_TYPE_BOSS	rsc:boss	1
+KEY_RSC_REL_TYPE_CLOSE_FRIEND	rsc:close_friend	1
+KEY_RSC_REL_TYPE_COLLEAGUE	rsc:colleague	1
+KEY_RSC_REL_TYPE_CLOSE_PERSON	rsc:close_person	1

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/washington_privacy_notice" android:visibility="gone" android:text="@string/washington_pn_description" style="@style/Winset.AboutPageWashingtonPrivacyNotice" />
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:id="@id/about_open_source_button" android:text="@string/title_open_source" style="@style/Winset.AboutPageOpenSourceLicenceButtonStyle" />
+</merge>

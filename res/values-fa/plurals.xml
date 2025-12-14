@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">برای استفاده از ”سرویس سفارشی‌سازی“، باید حداقل %d سال سن داشته باشید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">برای استفاده از ”سرویس سفارشی‌سازی“، باید حداقل %d سال سن داشته باشید.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d نوع رویداد در تقویم</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d نوع رویداد در تقویم</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">خانه و %d مکان پربازدید دیگر شناسایی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">خانه و %d مکان پربازدید دیگر شناسایی شد</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d مکان پربازدید شناسایی شد</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d مکان پربازدید شناسایی شد</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d اعلان جدید</item>
+        <item quantity="other">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس اطلاعات مربوط به تمرین‌های ورزشی، استفاده از برنامه و اتصالات دستگاه در %d روز گذشته.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس اطلاعات مربوط به تمرین‌های ورزشی، استفاده از برنامه و اتصالات دستگاه در %d روز گذشته.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس زمانی که در %d روز گذشته به مدرسه، محل کار، یا خانه سفر کرده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس زمانی که در %d روز گذشته به مدرسه، محل کار، یا خانه سفر کرده‌اید.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس انواع برنامه‌هایی که در %d روز گذشته استفاده کرده‌اید و وب‌سایت‌هایی که در این مدت در Samsung Internet بازدید کرده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس انواع برنامه‌هایی که در %d روز گذشته استفاده کرده‌اید و وب‌سایت‌هایی که در این مدت در Samsung Internet بازدید کرده‌اید.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس مکان‌هایی که اغلب در %d روز گذشته در آن‌ها وقت گذرانده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس مکان‌هایی که اغلب در %d روز گذشته در آن‌ها وقت گذرانده‌اید.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس برنامه‌ها و تنظیماتی که در %d روز گذشته بیشترین استفاده را کرده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس برنامه‌ها و تنظیماتی که در %d روز گذشته بیشترین استفاده را کرده‌اید.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس زمانی که استفاده از گوشی خود را در %d روز گذشته شروع و متوقف کرده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس زمانی که استفاده از گوشی خود را در %d روز گذشته شروع و متوقف کرده‌اید.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">بر اساس زمانی که استفاده از تبلت خود را در %d روز گذشته شروع و متوقف کرده‌اید.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">بر اساس زمانی که استفاده از تبلت خود را در %d روز گذشته شروع و متوقف کرده‌اید.</item>
+    </plurals>
+</resources>

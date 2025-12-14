@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Cal tenir almenys %d any per utilitzar el Servei de personalització.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Cal tenir almenys %d anys per utilitzar el Servei de personalització.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"%d tipus d'esdeveniment al calendari"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"%d tipus d'esdeveniments al calendari"</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'han identificat casa teva i %d altre lloc visitat amb freqüència"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"S'han identificat casa teva i %d altres llocs visitats amb freqüència"</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"S'ha identificat %d lloc visitat amb freqüència"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"S'han identificat %d llocs visitats amb freqüència"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d notificació nova</item>
+        <item quantity="other">%d notificacions noves</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Informació basada en les dades d'entrenament, l'ús de les aplicacions i les connexions dels dispositius en el darrer dia."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Informació basada en les dades d'entrenament, l'ús de les aplicacions i les connexions dels dispositius en els darrers %d dies."</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Informació basada en quan t'has desplaçat a l'escola, a la feina o a casa en el darrer dia."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Informació basada en quan t'has desplaçat a l'escola, a la feina o a casa en els darrers %d dies."</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Informació basada en els tipus d'aplicacions que has utilitzat i en els llocs web que has visitat a Internet de Samsung en el darrer dia."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Informació basada en els tipus d'aplicacions que has utilitzat i en els llocs web que has visitat a Internet de Samsung en els darrers %d dies."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Informació basada en els llocs en què has passat temps sovint en el darrer dia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Informació basada en els llocs en què has passat temps sovint en els darrers %d dies.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Informació basada en les aplicacions i els ajustaments que has utilitzat més en el darrer dia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Informació basada en les aplicacions i els ajustaments que has utilitzat més en els darrers %d dies.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Informació basada en quan has començat a utilitzar el telèfon i en quan has deixat de fer-ho en el darrer dia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Informació basada en quan has començat a utilitzar el telèfon i en quan has deixat de fer-ho en els darrers %d dies.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Informació basada en quan has començat a utilitzar la tablet i en quan has deixat de fer-ho en el darrer dia.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Informació basada en quan has començat a utilitzar la tablet i en quan has deixat de fer-ho en els darrers %d dies.</item>
+    </plurals>
+</resources>

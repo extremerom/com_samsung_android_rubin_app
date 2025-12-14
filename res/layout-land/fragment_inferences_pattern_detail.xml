@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/date_picker" layout="@layout/inference_detail_date_picker" />
+    <com.samsung.android.rubin.app.ui.view.RoundedCornerLinearLayout android:orientation="horizontal" android:background="@color/base_background_color" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <include android:id="@id/first_layout" layout="@layout/item_inferences_pattern" />
+        <include android:id="@id/second_layout" layout="@layout/item_inferences_pattern" />
+    </com.samsung.android.rubin.app.ui.view.RoundedCornerLinearLayout>
+</LinearLayout>

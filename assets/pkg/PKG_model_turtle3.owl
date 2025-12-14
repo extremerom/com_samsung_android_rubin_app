@@ -1,0 +1,1407 @@
+@prefix cls: <http://www.s-knowledge.net/class/> .
+@prefix pro: <http://www.s-knowledge.net/property/> .
+@prefix rsc: <http://www.s-knowledge.net/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  property/contact_group
+pro:contact_group rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:contact ;
+              rdfs:range cls:contact_group .
+
+###  property/has_contact
+pro:has_contact rdf:type owl:ObjectProperty ;
+                rdfs:domain cls:person ;
+                rdfs:range cls:contact .
+
+###  property/has_email
+pro:has_email rdf:type owl:ObjectProperty ;
+              rdfs:domain cls:contact ;
+              rdfs:range cls:email .
+
+###  property/has_event
+pro:has_event rdf:type owl:ObjectProperty ;
+              rdfs:domain cls:event_association ;
+              rdfs:range cls:event .
+
+###  property/has_event_association
+pro:has_event_association rdf:type owl:ObjectProperty ;
+                         rdfs:domain cls:image ;
+                         rdfs:range cls:event_association .
+
+###  property/has_gallery_person
+pro:has_gallery_person rdf:type owl:DatatypeProperty ;
+                        rdfs:domain cls:gallery_person_association ;
+                        rdfs:range cls:gallery_person_object .
+
+###  property/has_gallery_person_association
+pro:has_gallery_person_association rdf:type owl:DatatypeProperty ;
+                        rdfs:domain cls:person ;
+                        rdfs:range cls:gallery_person_association .
+
+###  property/has_gallery_person_name
+pro:has_gallery_person_name rdf:type owl:DatatypeProperty ;
+                        rdfs:domain cls:gallery_person_object ;
+                        rdfs:range cls:gallery_person_name .
+
+###  property/of_gallery_person
+pro:of_gallery_person rdf:type owl:ObjectProperty ;
+                              rdfs:domain cls:image ;
+                              rdfs:range cls:gallery_person_object ;
+                              rdfs:comment "image has person object which is detected automatically" .
+
+###  property/has_image
+pro:has_image rdf:type owl:ObjectProperty ;
+                        rdfs:domain cls:album ;
+                        rdfs:range cls:image .
+
+
+###  property/has_important_date
+# pro:has_important_date rdf:type owl:ObjectProperty ;
+#                        rdfs:domain cls:contact ;
+#                        rdfs:range cls:contact_event .
+
+###  property/has_location
+pro:has_location rdf:type owl:DatatypeProperty ;
+                  rdfs:domain cls:location_association ;
+                  rdfs:range cls:location .
+
+###  property/has_location_association
+pro:has_location_association rdf:type owl:DatatypeProperty ;
+                  rdfs:domain cls:image ,
+                              cls:event ;
+                  rdfs:range cls:location_association .
+
+###  property/has_location_type_association
+pro:has_location_type_association rdf:type owl:ObjectProperty ;
+                      rdfs:domain cls:location ;
+                      rdfs:range cls:location_type_association .
+
+###  property/has_location_type
+pro:has_location_type rdf:type owl:ObjectProperty ;
+                      rdfs:domain cls:location_type_association ;
+                      rdfs:range cls:location_type .
+
+###  property/has_occasion
+pro:has_occasion rdf:type owl:ObjectProperty ;
+                      rdfs:domain cls:image ,
+                                  cls:event ;
+                      rdfs:range cls:occasion .
+
+###  property/has_occasion_type
+pro:has_occasion_type rdf:type owl:ObjectProperty ;
+                      rdfs:domain cls:occasion ;
+                      rdfs:range cls:occasion_type .
+
+###  property/has_phone
+# pro:has_phone rdf:type owl:ObjectProperty ;
+#               rdfs:domain cls:contact ;
+#               rdfs:range cls:phone .
+
+
+###  property/has_related_contact_address
+# pro:has_related_contact_address rdf:type owl:ObjectProperty ;
+#                         rdfs:domain cls:contact ;
+#                         rdfs:range cls:contact_address .
+
+###  property/has_relationship
+pro:has_relationship rdf:type owl:ObjectProperty ;
+                            rdfs:domain cls:person ;
+                            rdfs:range cls:relationship .
+
+###  property/has_tag
+pro:has_tag rdf:type owl:ObjectProperty ;
+            rdfs:domain cls:image ;
+            rdfs:range cls:tag .
+
+###  property/source_calendar
+pro:source_calendar rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range cls:calendar .
+
+###  property/relationship_type
+pro:relationship_type rdf:type owl:ObjectProperty ;
+                      rdfs:domain cls:relationship ;
+                      rdfs:range cls:relationship_type .
+
+###  property/target_person
+pro:target_person rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:relationship ;
+                  rdfs:range cls:person .
+
+###  property/has_attendee_association
+pro:has_attendee_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event ;
+                  rdfs:range cls:event_attendee_association .
+
+###  property/has_hero_association
+pro:has_hero_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event ;
+                  rdfs:range cls:event_hero_association .
+
+###  property/has_hero_person
+pro:has_hero_person rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event_hero_association ;
+                  rdfs:range cls:person .
+
+###  property/has_relevant_date_association
+pro:has_relevant_date_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:person ;
+                  rdfs:range cls:relevant_date_association .
+
+###  property/has_relevant_date
+pro:has_relevant_date rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:relevant_date_association ;
+                  rdfs:range cls:relevant_date .
+
+###  property/associated_event
+pro:associated_event rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:relevant_date ;
+                  rdfs:range cls:event .
+
+###  property/has_attendee_person
+pro:has_attendee_person rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event_attendee_association ;
+                  rdfs:range cls:person .
+
+###  property/has_event_type
+pro:has_event_type rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event_type_association ;
+                  rdfs:range cls:event_type .
+
+###  property/has_event_type_association
+pro:has_event_type_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event ;
+                  rdfs:range cls:event_type_association .
+
+###  property/has_recurrence_rule_association
+pro:has_recurrence_rule_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:event ;
+                  rdfs:range cls:recurrence_rule_association .
+
+###  property/has_recurrence_rule
+pro:has_recurrence_rule rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:recurrence_rule_association ;
+                  rdfs:range cls:recurrence_rule .
+
+### property/has_pet
+pro:has_pet rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:person ;
+                  rdfs:range cls:pet .
+
+### property/has_pet_type
+pro:has_pet_type rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:pet ;
+                  rdfs:range cls:pet_type .
+
+### property/has_pet_association
+pro:has_pet_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:image ,
+                              cls:event ;
+                  rdfs:range cls:pet_association .
+
+### property/has_my_pet_association
+pro:has_my_pet_association rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:person ;
+                  rdfs:range cls:my_pet_association .
+
+### property/has_associated_pet
+pro:has_associated_pet rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:pet_association ,
+                              cls:my_pet_association ;
+                  rdfs:range cls:pet .
+
+### property/has_feedback
+pro:has_feedback rdf:type owl:ObjectProperty ;
+                  rdfs:domain cls:inferable_association ;
+                  rdfs:range cls:feedback .
+#################################################################
+#    Data properties
+#################################################################
+
+###  property/address
+pro:address rdf:type owl:DatatypeProperty ;
+            rdfs:domain cls:location ;
+            rdfs:range xsd:string .
+
+
+###  property/age
+pro:age rdf:type owl:DatatypeProperty ;
+        rdfs:domain cls:person ;
+        rdfs:range xsd:int ;
+        rdfs:comment "age of a person" .
+
+###  property/album_id
+pro:album_id rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:album ;
+              rdfs:range xsd:string .
+
+###  property/album_title
+pro:album_title rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:album ;
+              rdfs:range xsd:string .
+
+###  property/all_day
+pro:all_day rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:boolean .
+
+
+###  property/calendar_display_name
+pro:calendar_display_name rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:calendar ;
+              rdfs:range xsd:string .
+
+
+###  property/calendar_id
+pro:calendar_id rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:calendar ;
+              rdfs:range xsd:int .
+
+
+###  property/contact_call_name
+# pro:contact_call_name rdf:type owl:DatatypeProperty ;
+#                       rdfs:domain cls:contact ;
+#                       rdfs:range xsd:string .
+
+
+###  property/contact_company
+pro:contact_company rdf:type owl:DatatypeProperty ;
+                    rdfs:domain cls:contact ;
+                    rdfs:range xsd:string .
+
+
+###  property/contact_display_name
+pro:contact_display_name rdf:type owl:DatatypeProperty ;
+                 rdfs:domain cls:contact ;
+                 rdfs:range xsd:string .
+
+
+###  property/contact_event_date
+# pro:contact_event_date rdf:type owl:DatatypeProperty ;
+#                        rdfs:domain cls:contact_event ;
+#                        rdfs:range xsd:string .
+
+
+###  property/contact_event_type
+# pro:contact_event_type rdf:type owl:DatatypeProperty ;
+#                        rdfs:domain cls:contact_event ;
+#                        rdfs:range xsd:string .
+
+
+###  property/contact_group_id
+pro:contact_group_id rdf:type owl:DatatypeProperty ;
+                       rdfs:domain cls:contact_group ;
+                       rdfs:range xsd:int .
+
+
+###  property/contact_group_title
+pro:contact_group_title rdf:type owl:DatatypeProperty ;
+                       rdfs:domain cls:contact_group ;
+                       rdfs:range xsd:string .
+
+
+###  property/contact_id
+pro:contact_id rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:contact ;
+               rdfs:range xsd:int ;
+               rdfs:comment "contact ID in contact App" .
+
+
+###  property/contact_image
+pro:contact_image rdf:type owl:DatatypeProperty ;
+                  rdfs:domain cls:contact ;
+                  rdfs:range xsd:string .
+
+
+###  property/contact_name
+pro:contact_name rdf:type owl:DatatypeProperty ;
+                 rdfs:domain cls:contact ;
+                 rdfs:range xsd:string .
+
+
+###  property/contact_nickname
+# pro:contact_nickname rdf:type owl:DatatypeProperty ;
+#                      rdfs:domain cls:contact ;
+#                      rdfs:range xsd:string .
+
+
+###  property/contact_note
+# pro:contact_note rdf:type owl:DatatypeProperty ;
+#                  rdfs:domain cls:contact ;
+#                  rdfs:range xsd:string .
+
+
+###  property/created_time
+pro:created_time rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:image ;
+             rdfs:range xsd:int .
+
+###  property/email_address
+pro:email_address rdf:type owl:DatatypeProperty ;
+                  rdfs:domain cls:email ;
+                  rdfs:range xsd:string .
+
+
+###  property/email_type
+pro:email_type rdf:type owl:DatatypeProperty ;
+                     rdfs:domain cls:email ;
+                     rdfs:range xsd:string .
+
+###  property/end_time
+pro:end_time rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:occasion ;
+               rdfs:range xsd:int .
+
+###  property/event_id
+pro:event_id rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:int .
+
+###  property/recurrent_event_id
+pro:recurrent_event_id rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:int .
+
+
+###  property/event_end_date
+pro:event_end_date rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:event ;
+               rdfs:range xsd:int .
+
+
+###  property/event_start_date
+pro:event_start_date rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:event ;
+               rdfs:range xsd:int .
+
+
+###  property/event_time_zone
+pro:event_time_zone rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:string .
+
+###  property/event_title
+pro:event_title rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:string .
+
+### property/event_hero_name
+pro:event_hero_name rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event_hero_association ;
+                rdfs:range xsd:string .
+
+### property/relevant_date_type
+pro:relevant_date_type rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:relevant_date ;
+                rdfs:range xsd:string .
+
+### property/relevant_day
+pro:relevant_day rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:relevant_date ;
+                rdfs:range xsd:string .
+
+###  property/filename
+pro:filename rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:image ;
+             rdfs:range xsd:string .
+
+###  property/gallery_person_id
+pro:gallery_person_id rdf:type owl:DatatypeProperty ;
+                      rdfs:domain cls:gallery_person_object ;
+                      rdfs:range xsd:int ;
+                      rdfs:comment "unique person ID in Gallery App" .
+
+
+###  property/gallery_person_group_id
+pro:gallery_person_group_id rdf:type owl:DatatypeProperty ;
+                      rdfs:domain cls:gallery_person_object ;
+                      rdfs:range xsd:int .
+
+
+###  property/gender
+pro:gender rdf:type owl:DatatypeProperty ;
+           rdfs:domain cls:person ;
+           rdfs:range xsd:string .
+
+
+###  property/image_id
+pro:image_id rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:image ;
+             rdfs:range xsd:int .
+
+###  property/inference_score
+pro:inference_score rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:inferable_association ;
+                rdfs:range xsd:double .
+
+###  property/inference_type
+pro:inference_type rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:inferable_association ;
+                rdfs:range xsd:string .
+
+###  property/is_lunar
+pro:is_lunar rdf:type owl:DatatypeProperty ;
+                rdfs:domain cls:event ;
+                rdfs:range xsd:boolean .
+
+###  property/is_me
+pro:is_me rdf:type owl:DatatypeProperty ;
+          rdfs:domain cls:person ;
+          rdfs:range xsd:boolean .
+
+###  property/is_selfie
+pro:is_selfie rdf:type owl:DatatypeProperty ;
+          rdfs:domain cls:image ;
+          rdfs:range xsd:boolean .
+
+###  property/latitude
+pro:latitude rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:location ;
+             rdfs:range xsd:double .
+
+
+###  property/longitude
+pro:longitude rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:location ;
+              rdfs:range xsd:double .
+
+###  property/name
+pro:name rdf:type owl:DatatypeProperty ;
+         rdfs:domain cls:person ,
+                     cls:gallery_person_name ;
+         rdfs:range xsd:string .
+
+###  property/breed
+pro:breed rdf:type owl:DatatypeProperty ;
+         rdfs:domain cls:pet ;
+         rdfs:range xsd:string .
+
+###  property/phone_number
+# pro:phone_number rdf:type owl:DatatypeProperty ;
+#                  rdfs:domain cls:phone ;
+#                  rdfs:range xsd:string .
+
+
+###  property/phone_type
+# pro:phone_type rdf:type owl:DatatypeProperty ;
+#                      rdfs:domain cls:phone ;
+#                      rdfs:range xsd:string .
+
+
+###  property/contact_address_type
+# pro:contact_address_type rdf:type owl:DatatypeProperty ;
+#                          rdfs:domain cls:contact_address ;
+#                          rdfs:range xsd:string .
+
+
+###  property/raw_contact_id
+pro:raw_contact_id rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:contact ;
+               rdfs:range xsd:int ;
+               rdfs:comment "raw contact ID in contact App" .
+
+### property/recommended_raw_contact_id
+pro:recommended_raw_contact_id rdf:type owl:DatatypeProperty ;
+                           rdfs:domain cls:gallery_person_object ;
+                           rdfs:range xsd:int .
+
+###  property/relationship_level
+pro:relationship_level rdf:type owl:DatatypeProperty ;
+                      rdfs:domain cls:relationship_type ;
+                      rdfs:range xsd:string .
+
+###  property/relationship_name
+pro:relationship_name rdf:type owl:DatatypeProperty ;
+                      rdfs:domain cls:relationship_type ;
+                      rdfs:range xsd:string .
+
+
+###  property/relationship_order
+pro:relationship_order rdf:type owl:DatatypeProperty ;
+                       rdfs:domain cls:relationship .
+
+###  property/start_time
+pro:start_time rdf:type owl:DatatypeProperty ;
+               rdfs:domain cls:occasion ;
+               rdfs:range xsd:int .
+
+###  property/tag_name
+pro:tag_name rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:tag ;
+              rdfs:range xsd:string .
+
+
+###  property/tag_type
+# pro:tag_type rdf:type owl:DatatypeProperty ;
+#              rdfs:domain cls:tag ;
+#              rdfs:range xsd:int .
+
+###  property/freq
+pro:freq rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:recurrence_rule ;
+              rdfs:range xsd:string .
+
+###  property/interval
+pro:interval rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:recurrence_rule ;
+              rdfs:range xsd:int .
+
+###  property/byday
+pro:byday rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:recurrence_rule ;
+              rdfs:range xsd:string .
+
+
+###  property/has_event_type_name
+pro:has_event_type_name rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:event_type ;
+             rdfs:range xsd:string .
+
+###  property/has_pet_type_name
+pro:has_pet_type_name rdf:type owl:DatatypeProperty ;
+             rdfs:domain cls:pet_type ;
+             rdfs:range xsd:string .
+
+### property/user_feedback
+pro:user_feedback rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:feedback ;
+              rdfs:range xsd:string .
+
+### property/analyzed_positive_feedback_client
+pro:analyzed_positive_feedback_client rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:feedback ;
+              rdfs:range xsd:string .
+
+### property/analyzed_negative_feedback_client
+pro:analyzed_negative_feedback_client rdf:type owl:DatatypeProperty ;
+              rdfs:domain cls:feedback ;
+              rdfs:range xsd:string .
+
+#################################################################
+#    Classes
+#################################################################
+
+###  class/album
+cls:album rdf:type owl:Class .
+
+###  class/calendar
+cls:calendar rdf:type owl:Class .
+
+###  class/contact
+cls:contact rdf:type owl:Class .
+
+###  class/contact_address
+# cls:contact_address rdf:type owl:Class .
+
+###  class/contact_group
+cls:contact_group rdf:type owl:Class .
+
+###  class/email
+cls:email rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/phone
+# cls:phone rdf:type owl:Class .
+
+###  class/contact_event
+# cls:contact_event rdf:type owl:Class .
+
+###  class/event
+cls:event rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/event_association
+cls:event_association rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/recurrence_rule_association
+cls:recurrence_rule_association rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/recurrence_rule
+# cls:recurrence_rule rdf:type owl:Class .
+
+###  class/family_relationship_type
+cls:family_relationship_type rdf:type owl:Class ;
+                             rdfs:subClassOf cls:relationship_type .
+
+###  class/gallery_person_association
+cls:gallery_person_association rdf:type owl:Class ;
+                               rdfs:subClassOf cls:inferable_association .
+
+###  class/gallery_person_object
+cls:gallery_person_object rdf:type owl:Class .
+
+###  class/gallery_person_name
+cls:gallery_person_name rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/image
+cls:image rdf:type owl:Class .
+
+###  class/inferable_association
+cls:inferable_association rdf:type owl:Class .
+
+###  class/location
+cls:location rdf:type owl:Class .
+
+###  class/location_association
+cls:location_association rdf:type owl:Class ;
+                         rdfs:subClassOf cls:inferable_association .
+
+###  class/location_type_association
+cls:location_type_association rdf:type owl:Class ;
+                         rdfs:subClassOf cls:inferable_association .
+
+###  class/location_type
+cls:location_type rdf:type owl:Class .
+
+###  class/occasion
+cls:occasion rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/occasion_type
+cls:occasion_type rdf:type owl:Class .
+
+###  class/person
+cls:person rdf:type owl:Class .
+
+###  class/pet
+cls:pet rdf:type owl:Class .
+
+### class/pet_association
+cls:pet_association rdf:type owl:Class .
+                         rdfs:subClassOf cls:inferable_association .
+
+### class/my_pet_association
+cls:my_pet_association rdf:type owl:Class .
+                         rdfs:subClassOf cls:inferable_association .
+
+### class/pet_type
+cls:pet_type rdf:type owl:Class .
+
+### class/feedback
+cls:feedback rdf:type owl:Class .
+
+###  class/relationship
+cls:relationship rdf:type owl:Class ;
+                 rdfs:subClassOf cls:inferable_association .
+
+###  class/relationship_type
+cls:relationship_type rdf:type owl:Class .
+
+###  class/social_relationship_type
+cls:social_relationship_type rdf:type owl:Class ;
+                             rdfs:subClassOf cls:relationship_type .
+
+###  class/tag
+cls:tag rdf:type owl:Class .
+
+###  class/event_attendee_association
+cls:event_attendee_association rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/event_hero_association
+cls:event_hero_association rdf:type owl:class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/relevant_date_association
+cls:relevant_date_association rdf:type owl:class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/relevant_date
+cls:relevant_date rdf:type owl:Class .
+
+
+###  class/event_type
+cls:event_type rdf:type owl:Class ;
+                rdfs:subClassOf cls:event .
+
+###  class/event_type_association
+cls:event_type_association rdf:type owl:Class ;
+                        rdfs:subClassOf cls:inferable_association .
+
+###  class/annual_event
+cls:annual_event rdf:type owl:Class ;
+              rdfs:subClassOf cls:event_type .
+
+###  class/daily_event
+cls:daily_event rdf:type owl:Class ;
+             rdfs:subClassOf cls:event_type .
+
+
+###  class/life_event
+cls:life_event rdf:type owl:Class ;
+            rdfs:subClassOf cls:event_type .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  resource/C101
+
+###  resource/E101
+
+
+###  resource/I101
+
+###  resource/P101
+
+###  resource/baby_birth
+rsc:baby_birth rdf:type cls:life_event ;
+                     pro:has_event_type_name "babybirth" .
+
+
+###  resource/birthday
+rsc:birthday rdf:type cls:annual_event ;
+                   pro:has_event_type_name "birthday" .
+
+
+###  resource/biz_trip
+rsc:biz_trip rdf:type cls:daily_event ;
+                   pro:has_event_type_name "biztrip" .
+
+
+###  resource/exercise
+rsc:exercise rdf:type cls:daily_event ;
+                   pro:has_event_type_name "exercise" .
+
+
+###  resource/get_a_job
+rsc:get_a_job rdf:type cls:life_event ;
+                    pro:has_event_type_name "getajob" .
+
+
+###  resource/graduation
+rsc:graduation rdf:type cls:life_event ;
+                     pro:has_event_type_name "graduation" .
+
+
+###  resource/hospital
+rsc:hospital rdf:type cls:daily_event ;
+                   pro:has_event_type_name "hospital" .
+
+
+###  resource/institute
+rsc:institute rdf:type cls:daily_event ;
+                    pro:has_event_type_name "institute" .
+
+
+###  resource/marriage
+rsc:marriage rdf:type cls:life_event ;
+                   pro:has_event_type_name "marriage" .
+
+
+###  resource/meal
+rsc:meal rdf:type cls:daily_event ;
+               pro:has_event_type_name "meal" .
+
+
+###  resource/meeting
+rsc:meeting rdf:type cls:daily_event ;
+                  pro:has_event_type_name "meeting" .
+
+
+###  resource/moving_home
+rsc:moving_home rdf:type cls:life_event ;
+                      pro:has_event_type_name "movinghome" .
+
+
+###  resource/night_life
+rsc:night_life rdf:type cls:daily_event ;
+                     pro:has_event_type_name "nightlife" .
+
+
+###  resource/prom
+rsc:prom rdf:type cls:life_event ;
+               pro:has_event_type_name "prom" .
+
+###  resource/resignation
+rsc:resignation rdf:type cls:life_event ;
+                      pro:has_event_type_name "resignation" .
+
+
+###  resource/reunion_day
+rsc:reunion_day rdf:type cls:annual_event ;
+                      pro:has_event_type_name "reunionday" .
+
+
+###  resource/school_entrance
+rsc:school_entrance rdf:type cls:life_event ;
+                          pro:has_event_type_name "schoolentrance" .
+
+
+###  resource/shopping
+rsc:shopping rdf:type cls:daily_event ;
+                   pro:has_event_type_name "shopping" .
+
+
+###  resource/trip
+rsc:trip rdf:type cls:annual_event ;
+               pro:has_event_type_name "trip" .
+
+
+###  resource/watching_movie
+rsc:watching_movie rdf:type cls:daily_event ;
+                        pro:has_event_type_name "watchingmovie" .
+
+###  resource/watching_show
+rsc:watching_show rdf:type cls:daily_event ;
+                        pro:has_event_type_name "watchingshow" .
+
+
+###  resource/wedding_anniversary
+rsc:wedding_anniversary rdf:type cls:annual_event ;
+                              pro:has_event_type_name "weddinganniversary" .
+
+
+###  resource/year_end_party
+rsc:year_end_party rdf:type cls:annual_event ;
+                         pro:has_event_type_name "yearendparty" .
+
+###  resource/sports_activity
+rsc:sports_activity rdf:type cls:daily_event ;
+                         pro:has_event_type_name "sportsactivity" .
+
+###  resource/music_practice
+rsc:music_practice rdf:type cls:daily_event ;
+                         pro:has_event_type_name "musicpractice" .
+
+###  resource/home
+rsc:home rdf:type cls:location_type .
+
+###  resource/work
+rsc:work rdf:type cls:location_type .
+
+###  resource/car
+rsc:car rdf:type cls:location_type .
+
+###  resource/frequently_visited_place
+rsc:frequently_visited_place rdf:type cls:location_type .
+
+###  resource/near_home
+rsc:near_home rdf:type cls:location_type .
+
+###  resource/near_work
+rsc:near_work rdf:type cls:location_type .
+
+###  resource/on_trip
+rsc:on_trip rdf:type cls:occasion_type .
+
+
+###  resource/assistant
+rsc:assistant rdf:type cls:social_relationship_type ;
+             pro:relationship_level 1 .
+
+
+###  resource/aunt
+rsc:aunt rdf:type cls:family_relationship_type ;
+         pro:relationship_level 2 .
+
+
+###  resource/boss
+rsc:boss rdf:type cls:social_relationship_type ;
+         pro:relationship_level 2 .
+
+
+###  resource/brother
+rsc:brother rdf:type cls:family_relationship_type ;
+            pro:relationship_level 3 .
+
+
+###  resource/brother_of_mother
+rsc:brother_of_mother rdf:type cls:family_relationship_type ;
+                      pro:relationship_level 3 .
+
+
+###  resource/child
+rsc:child rdf:type cls:family_relationship_type ;
+          pro:relationship_level 2 .
+
+
+###  resource/close_friend
+rsc:close_friend rdf:type cls:social_relationship_type ;
+                 pro:relationship_level 2 .
+
+###  resource/close_person
+rsc:close_person rdf:type cls:social_relationship_type ;
+              pro:relationship_level 1 .
+
+###  resource/colleague
+rsc:colleague rdf:type cls:social_relationship_type ;
+              pro:relationship_level 1 .
+
+
+###  resource/cousin
+rsc:cousin rdf:type cls:family_relationship_type ;
+           pro:relationship_level 2 .
+
+
+###  resource/daughter
+rsc:daughter rdf:type cls:family_relationship_type ;
+             pro:relationship_level 3 .
+
+
+###  resource/daughter_in_law
+rsc:daughter_in_law rdf:type cls:family_relationship_type ;
+                    pro:relationship_level 3 .
+
+
+###  resource/domestic_partner
+rsc:domestic_partner rdf:type cls:social_relationship_type ;
+                     pro:relationship_level 1 .
+
+
+###  resource/elder_brother_me_female
+rsc:elder_brother_me_female rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 4 .
+
+
+###  resource/elder_brother_me_male
+rsc:elder_brother_me_male rdf:type cls:family_relationship_type ;
+                          pro:relationship_level 4 .
+
+
+###  resource/elder_brother_of_father
+rsc:elder_brother_of_father rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 3 .
+
+
+###  resource/elder_brother_of_husband
+rsc:elder_brother_of_husband rdf:type cls:family_relationship_type ;
+                             pro:relationship_level 4 .
+
+
+###  resource/elder_brother_of_wife
+rsc:elder_brother_of_wife rdf:type cls:family_relationship_type ;
+                          pro:relationship_level 4 .
+
+
+###  resource/elder_sister_me_female
+rsc:elder_sister_me_female rdf:type cls:family_relationship_type ;
+                           pro:relationship_level 4 .
+
+
+###  resource/elder_sister_me_male
+rsc:elder_sister_me_male rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/elder_sister_of_husband
+rsc:elder_sister_of_husband rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 4 .
+
+
+###  resource/elder_sister_of_wife
+rsc:elder_sister_of_wife rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/family
+rsc:family rdf:type cls:family_relationship_type ;
+           pro:relationship_level 1 .
+
+
+###  resource/family_in_law
+rsc:family_in_law rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 2 .
+
+
+###  resource/family_of_husband
+rsc:family_of_husband rdf:type cls:family_relationship_type ;
+                      pro:relationship_level 3 .
+
+
+###  resource/family_of_wife
+rsc:family_of_wife rdf:type cls:family_relationship_type ;
+                   pro:relationship_level 3 .
+
+
+###  resource/family_of_father
+rsc:family_of_father rdf:type cls:family_relationship_type ;
+                     pro:relationship_level 2 .
+
+
+###  resource/family_of_mother
+rsc:family_of_mother rdf:type cls:family_relationship_type ;
+                     pro:relationship_level 2 .
+
+
+###  resource/father
+rsc:father rdf:type cls:family_relationship_type ;
+           pro:relationship_level 3 .
+
+
+###  resource/father_in_law_me_female
+rsc:father_in_law_me_female rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 4 .
+
+
+###  resource/father_in_law_me_male
+rsc:father_in_law_me_male rdf:type cls:family_relationship_type ;
+                          pro:relationship_level 4 .
+
+
+###  resource/friend
+rsc:friend rdf:type cls:social_relationship_type ;
+           pro:relationship_level 1 .
+
+
+###  resource/grandchildren
+rsc:grandchildren rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 2 .
+
+
+###  resource/granddaughter
+rsc:granddaughter rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 3 .
+
+
+###  resource/grandfather
+rsc:grandfather rdf:type cls:family_relationship_type ;
+                pro:relationship_level 3 .
+
+
+###  resource/grandmother
+rsc:grandmother rdf:type cls:family_relationship_type ;
+                pro:relationship_level 3 .
+
+
+###  resource/grandparents
+rsc:grandparents rdf:type cls:family_relationship_type ;
+                 pro:relationship_level 2 .
+
+
+###  resource/grandson
+rsc:grandson rdf:type cls:family_relationship_type ;
+             pro:relationship_level 3 .
+
+
+###  resource/husband
+rsc:husband rdf:type cls:family_relationship_type ;
+            pro:relationship_level 3 .
+
+
+###  resource/husband_of_elder_sister_me_female
+rsc:husband_of_elder_sister_me_female rdf:type cls:family_relationship_type ;
+                                      pro:relationship_level 3 .
+
+
+###  resource/husband_of_elder_sister_me_male
+rsc:husband_of_elder_sister_me_male rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 3 .
+
+
+###  resource/husband_of_elder_sister_of_husband
+rsc:husband_of_elder_sister_of_husband rdf:type cls:family_relationship_type ;
+                                       pro:relationship_level 4 .
+
+
+###  resource/husband_of_elder_sister_of_wife
+rsc:husband_of_elder_sister_of_wife rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 4 .
+
+
+###  resource/husband_of_sister_of_father
+rsc:husband_of_sister_of_father rdf:type cls:family_relationship_type ;
+                                pro:relationship_level 3 .
+
+
+###  resource/husband_of_sister_of_mother
+rsc:husband_of_sister_of_mother rdf:type cls:family_relationship_type ;
+                                pro:relationship_level 3 .
+
+
+###  resource/husband_of_younger_sister_me_female
+rsc:husband_of_younger_sister_me_female rdf:type cls:family_relationship_type ;
+                                        pro:relationship_level 3 .
+
+
+###  resource/husband_of_younger_sister_me_male
+rsc:husband_of_younger_sister_me_male rdf:type cls:family_relationship_type ;
+                                      pro:relationship_level 3 .
+
+
+###  resource/husband_of_younger_sister_of_husband
+rsc:husband_of_younger_sister_of_husband rdf:type cls:family_relationship_type ;
+                                         pro:relationship_level 3 .
+
+
+###  resource/husband_of_younger_sister_of_wife
+rsc:husband_of_younger_sister_of_wife rdf:type cls:family_relationship_type ;
+                                      pro:relationship_level 3 .
+
+
+###  resource/manager
+rsc:manager rdf:type cls:social_relationship_type ;
+            pro:relationship_level 1 .
+
+
+###  resource/maternal_granddaughter
+rsc:maternal_granddaughter rdf:type cls:family_relationship_type ;
+                           pro:relationship_level 3 .
+
+
+###  resource/maternal_grandfather
+rsc:maternal_grandfather rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/maternal_grandmother
+rsc:maternal_grandmother rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/maternal_grandson
+rsc:maternal_grandson rdf:type cls:family_relationship_type ;
+                      pro:relationship_level 3 .
+
+
+###  resource/mother
+rsc:mother rdf:type cls:family_relationship_type ;
+           pro:relationship_level 3 .
+
+
+###  resource/mother_in_law_me_female
+rsc:mother_in_law_me_female rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 4 .
+
+
+###  resource/mother_in_law_me_male
+rsc:mother_in_law_me_male rdf:type cls:family_relationship_type ;
+                          pro:relationship_level 4 .
+
+
+###  resource/nephew
+rsc:nephew rdf:type cls:family_relationship_type ;
+           pro:relationship_level 2 .
+
+###  resource/niece
+rsc:niece rdf:type cls:family_relationship_type ;
+           pro:relationship_level 2 .
+
+
+###  resource/parents
+rsc:parents rdf:type cls:family_relationship_type ;
+            pro:relationship_level 2 .
+
+
+###  resource/partner
+rsc:partner rdf:type cls:social_relationship_type ;
+            pro:relationship_level 1 .
+
+
+###  resource/paternal_granddaughter
+rsc:paternal_granddaughter rdf:type cls:family_relationship_type ;
+                           pro:relationship_level 3 .
+
+
+###  resource/paternal_grandfather
+rsc:paternal_grandfather rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/paternal_grandmother
+rsc:paternal_grandmother rdf:type cls:family_relationship_type ;
+                         pro:relationship_level 4 .
+
+
+###  resource/paternal_grandson
+rsc:paternal_grandson rdf:type cls:family_relationship_type ;
+                      pro:relationship_level 3 .
+
+
+###  resource/reference
+rsc:reference rdf:type cls:social_relationship_type ;
+              pro:relationship_level 1 .
+
+
+###  resource/relative
+rsc:relative rdf:type cls:family_relationship_type ;
+             pro:relationship_level 1 .
+
+
+###  resource/sibling
+rsc:sibling rdf:type cls:family_relationship_type ;
+            pro:relationship_level 2 .
+
+
+###  resource/sister
+rsc:sister rdf:type cls:family_relationship_type ;
+           pro:relationship_level 3 .
+
+
+###  resource/sister_of_father
+rsc:sister_of_father rdf:type cls:family_relationship_type ;
+                     pro:relationship_level 3 .
+
+
+###  resource/sister_of_mother
+rsc:sister_of_mother rdf:type cls:family_relationship_type ;
+                     pro:relationship_level 3 .
+
+
+###  resource/son
+rsc:son rdf:type cls:family_relationship_type ;
+        pro:relationship_level 3 .
+
+
+###  resource/son_in_law
+rsc:son_in_law rdf:type cls:family_relationship_type ;
+               pro:relationship_level 3 .
+
+
+###  resource/spouse
+rsc:spouse rdf:type cls:family_relationship_type ;
+           pro:relationship_level 2 .
+
+
+###  resource/uncle
+rsc:uncle rdf:type cls:family_relationship_type ;
+          pro:relationship_level 2 .
+
+
+###  resource/wife
+rsc:wife rdf:type cls:family_relationship_type ;
+         pro:relationship_level 3 .
+
+
+###  resource/wife_of_brother_of_mother
+rsc:wife_of_brother_of_mother rdf:type cls:family_relationship_type ;
+                              pro:relationship_level 3 .
+
+
+###  resource/wife_of_elder_brother_me_female
+rsc:wife_of_elder_brother_me_female rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 3 .
+
+
+###  resource/wife_of_elder_brother_me_male
+rsc:wife_of_elder_brother_me_male rdf:type cls:family_relationship_type ;
+                                  pro:relationship_level 3 .
+
+
+###  resource/wife_of_elder_brother_of_father
+rsc:wife_of_elder_brother_of_father rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 3 .
+
+
+###  resource/wife_of_elder_brother_of_husband
+rsc:wife_of_elder_brother_of_husband rdf:type cls:family_relationship_type ;
+                                     pro:relationship_level 4 .
+
+
+###  resource/wife_of_elder_brother_of_wife
+rsc:wife_of_elder_brother_of_wife rdf:type cls:family_relationship_type ;
+                                  pro:relationship_level 4 .
+
+
+###  resource/wife_of_younger_brother_me_female
+rsc:wife_of_younger_brother_me_female rdf:type cls:family_relationship_type ;
+                                      pro:relationship_level 3 .
+
+
+###  resource/wife_of_younger_brother_me_male
+rsc:wife_of_younger_brother_me_male rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 3 .
+
+
+###  resource/wife_of_younger_brother_of_father
+rsc:wife_of_younger_brother_of_father rdf:type cls:family_relationship_type ;
+                                      pro:relationship_level 3 .
+
+
+###  resource/wife_of_younger_brother_of_husband
+rsc:wife_of_younger_brother_of_husband rdf:type cls:family_relationship_type ;
+                                       pro:relationship_level 4 .
+
+
+###  resource/wife_of_younger_brother_of_wife
+rsc:wife_of_younger_brother_of_wife rdf:type cls:family_relationship_type ;
+                                    pro:relationship_level 4 .
+
+
+###  resource/younger_brother
+rsc:younger_brother rdf:type cls:family_relationship_type ;
+                    pro:relationship_level 4 .
+
+
+###  resource/younger_brother_of_father
+rsc:younger_brother_of_father rdf:type cls:family_relationship_type ;
+                              pro:relationship_level 3 .
+
+
+###  resource/younger_brother_of_husband
+rsc:younger_brother_of_husband rdf:type cls:family_relationship_type ;
+                               pro:relationship_level 4 .
+
+
+###  resource/younger_brother_of_wife
+rsc:younger_brother_of_wife rdf:type cls:family_relationship_type ;
+                            pro:relationship_level 4 .
+
+
+###  resource/younger_sibling
+rsc:younger_sibling rdf:type cls:family_relationship_type ;
+                    pro:relationship_level 3 .
+
+
+###  resource/younger_sister
+rsc:younger_sister rdf:type cls:family_relationship_type ;
+                   pro:relationship_level 4 .
+
+
+###  resource/younger_sister_of_husband
+rsc:younger_sister_of_husband rdf:type cls:family_relationship_type ;
+                              pro:relationship_level 4 .
+
+
+###  resource/younger_sister_of_wife
+rsc:younger_sister_of_wife rdf:type cls:family_relationship_type ;
+                           pro:relationship_level 4 .
+
+###  resource/father_in_law
+rsc:father_in_law rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 3 .
+
+###  resource/mother_in_law
+rsc:mother_in_law rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 3 .
+
+###  resource/sister_in_law
+rsc:sister_in_law rdf:type cls:family_relationship_type ;
+                  pro:relationship_level 3 .
+
+###  resource/brother_in_law
+rsc:brother_in_law rdf:type cls:family_relationship_type ;
+                   pro:relationship_level 3 .
+
+###  resource/dogs
+rsc:dogs rdf:type cls:pet_type ;
+         pro:has_pet_type_name "dogs" .
+
+###  resource/cats
+rsc:cats rdf:type cls:pet_type ;
+         pro:has_pet_type_name "cats" .
+
+### resource/animals
+rsc:animals rdf:type cls:pet_type ;
+         pro:has_pet_type_name "animals" .
+
+###  resource/birds
+rsc:birds rdf:type cls:pet_type ;
+          pro:has_pet_type_name "birds" .
+
+###  resource/fish
+rsc:fish rdf:type cls:pet_type ;
+         pro:has_pet_type_name "fish" .
+

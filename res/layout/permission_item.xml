@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/Winset.Help.List.ItemLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/permission_icon" style="@style/Winset.Help.List.Image" />
+    <LinearLayout style="@style/Winset.Help.List.TextLayout">
+        <TextView android:id="@id/permission_title" style="@style/Winset.Help.List.Title" />
+        <TextView android:id="@id/permission_description" style="@style/Winset.Help.List.Description" />
+    </LinearLayout>
+</LinearLayout>

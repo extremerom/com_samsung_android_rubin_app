@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/date_picker" layout="@layout/inference_detail_date_picker" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/inference_frame_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/event_description" style="@style/Winset.Inferences.Detail.Events.Description" />
+        <com.samsung.android.rubin.app.ui.view.NonScrollListView android:id="@id/event_detail_listView" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="16.0dp" />
+    </LinearLayout>
+</LinearLayout>

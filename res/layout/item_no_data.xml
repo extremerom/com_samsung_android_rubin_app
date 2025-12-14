@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Winset.Font.New.Sec.Regular" android:textSize="15.0sp" android:textColor="@color/winset_inferences_sleep_pattern_time_range" android:gravity="center" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="18.0dp" android:layout_marginBottom="54.0dp" android:text="@string/inference_pattern_no_data" />
+</LinearLayout>

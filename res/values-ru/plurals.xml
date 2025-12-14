@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Использовать службу персонализации могут только лица, достигшие %d-летнего возраста.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Использовать службу персонализации могут только лица, достигшие %d-летнего возраста.</item>
+        <item quantity="many">Использовать службу персонализации могут только лица, достигшие %d-летнего возраста.</item>
+        <item quantity="other">Использовать службу персонализации могут только лица, достигшие %d-летнего возраста.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тип событий в календаре</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d типа событий в календаре</item>
+        <item quantity="many">%d типов событий в календаре</item>
+        <item quantity="other">%d типа событий в календаре</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Определены дом и еще %d часто посещаемое место</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Определены дом и еще %d часто посещаемых места</item>
+        <item quantity="many">Определены дом и еще %d часто посещаемых мест</item>
+        <item quantity="other">Определены дом и еще %d часто посещаемого места</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Определено %d часто посещаемое место</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Определено %d часто посещаемых места</item>
+        <item quantity="many">Определено %d часто посещаемых мест</item>
+        <item quantity="other">Определено %d часто посещаемого места</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d новое уведомление</item>
+        <item quantity="few">%d новых уведомления</item>
+        <item quantity="many">%d новых уведомлений</item>
+        <item quantity="other">%d нового уведомления</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании данных тренировок и использования приложений, а также подключений устройства за последний %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании данных тренировок и использования приложений, а также подключений устройства за последние %d дня.</item>
+        <item quantity="many">На основании данных тренировок и использования приложений, а также подключений устройства за последние %d дней.</item>
+        <item quantity="other">На основании данных тренировок и использования приложений, а также подключений устройства за последние %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании времени поездки в школу, на работу и домой за последний %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании времени поездки в школу, на работу и домой за последние %d дня.</item>
+        <item quantity="many">На основании времени поездки в школу, на работу и домой за последние %d дней.</item>
+        <item quantity="other">На основании времени поездки в школу, на работу и домой за последние %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании типов приложений и веб-сайтов в Samsung Internet, которыми вы пользовались в течение последнего %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании типов приложений и веб-сайтов в Samsung Internet, которыми вы пользовались в течение последних %d дней.</item>
+        <item quantity="many">На основании типов приложений и веб-сайтов в Samsung Internet, которыми вы пользовались в течение последних %d дней.</item>
+        <item quantity="other">На основании типов приложений и веб-сайтов в Samsung Internet, которыми вы пользовались в течение последних %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании мест, в которых вы часто бывали в течение последнего %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании мест, в которых вы часто бывали в течение последних %d дней.</item>
+        <item quantity="many">На основании мест, в которых вы часто бывали в течение последних %d дней.</item>
+        <item quantity="other">На основании мест, в которых вы часто бывали в течение последних %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании списка приложений и настроек, которыми вы чаще всего пользовались в течение последнего %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании списка приложений и настроек, которыми вы чаще всего пользовались в течение последних %d дней.</item>
+        <item quantity="many">На основании списка приложений и настроек, которыми вы чаще всего пользовались в течение последних %d дней.</item>
+        <item quantity="other">На основании списка приложений и настроек, которыми вы чаще всего пользовались в течение последних %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании времени начала и завершения использования телефона за последний %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании времени начала и завершения использования телефона за последние %d дня.</item>
+        <item quantity="many">На основании времени начала и завершения использования телефона за последние %d дней.</item>
+        <item quantity="other">На основании времени начала и завершения использования телефона за последние %d дня.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">На основании времени начала и завершения использования планшета за последний %d день.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">На основании времени начала и завершения использования планшета за последние %d дня.</item>
+        <item quantity="many">На основании времени начала и завершения использования планшета за последние %d дней.</item>
+        <item quantity="other">На основании времени начала и завершения использования планшета за последние %d дня.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:theme="@style/RubinAppTheme.Welcome" android:layout_width="match_parent" android:layout_height="wrap_content" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/popup_layout" android:focusable="true" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="24.0dp" android:paddingEnd="24.0dp">
+        <TextView android:textSize="23.0sp" android:textColor="@color/colorPrimary" android:id="@id/restriction_title" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="32.0dp" android:text="@string/restriction_dialog_title" />
+        <TextView android:textAppearance="@style/Winset.Font.New.Sec.Regular" android:textSize="16.0sp" android:textColor="@color/welcome_page_description_text_color" android:textColorLink="@color/welcome_page_checkbox_text_color" android:id="@id/restriction_description_text" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dp" android:layout_marginBottom="22.0dp" android:text="@string/restriction_dialog_description" android:lineSpacingExtra="4.0sp" android:importantForAccessibility="no" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,40 @@
+.class public final Ltd/f;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lmd/o;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public a(Ljava/io/OutputStream;Ljava/lang/String;)Lmd/n;
+    .locals 1
+
+    new-instance p0, Ltd/e;
+
+    new-instance v0, Lwc/a;
+
+    invoke-direct {v0, p2}, Lwc/a;-><init>(Ljava/lang/String;)V
+
+    invoke-direct {p0, p1, v0}, Ltd/e;-><init>(Ljava/io/OutputStream;Lwc/a;)V
+
+    return-object p0
+.end method
+
+.method public g()Lmd/f;
+    .locals 0
+
+    sget-object p0, Lmd/f;->i:Lmd/f;
+
+    return-object p0
+.end method

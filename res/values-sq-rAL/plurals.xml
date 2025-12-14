@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Duhet të jesh së paku %d vjeç, për të përdorur Shërbimin e personalizimit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Duhet të jesh së paku %d vjeç, për të përdorur Shërbimin e personalizimit.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d lloj ngjarjeje në kalendar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d lloje ngjarjesh në kalendar</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Shtëpia dhe %d vend tjetër i vizituar shpesh u identifikuan</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Shtëpia dhe %d vende të tjera të vizituara shpesh u identifikuan</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vend i vizituar shpesh u identifikua</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vende të vizituara shpesh u identifikuan</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në të dhënat e stërvitjeve, përdorimin e app-eve dhe lidhjet e pajisjes gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në të dhënat e stërvitjeve, përdorimin e app-eve dhe lidhjet e pajisjes gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në oraret kur shkove në shkollë, në punë ose në shtëpi gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në oraret kur shkove në shkollë, në punë ose në shtëpi gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në llojet e app-eve që ke përdorur dhe uebsajtet që ke vizituar në Internetin Samsung gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në llojet e app-eve që ke përdorur dhe uebsajtet që ke vizituar në Internetin Samsung gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në vendet ku ke kaluar më shumë kohë gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në vendet ku ke kaluar më shumë kohë gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në app-et dhe cilësimet që ke përdorur më shpesh gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në app-et dhe cilësimet që ke përdorur më shpesh gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në oraret kur nise dhe kur ndale ta përdorësh telefonin gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në oraret kur nise dhe kur ndale ta përdorësh telefonin gjatë %d ditëve të fundit.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bazuar në oraret kur nise dhe kur ndale ta përdorësh tabletën gjatë %d ditës së fundit.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Bazuar në oraret kur nise dhe kur ndale ta përdorësh tabletën gjatë %d ditëve të fundit.</item>
+    </plurals>
+</resources>

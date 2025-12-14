@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@style/Winset.Font.New.Sec.SemiBold" android:textSize="15.0sp" android:textColor="@color/winset_inferences_detail_text_color" android:gravity="center" android:id="@id/preference_data_title" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dp" android:layout_marginBottom="12.0dp" android:layout_marginStart="14.0dp" android:layout_marginEnd="14.0dp" />
+    <com.samsung.android.rubin.app.ui.view.NonScrollListView android:id="@id/preference_data_list_view" android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>

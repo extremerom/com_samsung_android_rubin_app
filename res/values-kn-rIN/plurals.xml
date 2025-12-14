@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಸ್ಟಮೈಸೇಶನ್ ಸೇವೆಯನ್ನು ಬಳಸಲು ನಿಮಗೆ ಕನಿಷ್ಠ %d ವರ್ಷ ವಯಸ್ಸಿನವರಾಗಿರಬೇಕು.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಸ್ಟಮೈಸೇಶನ್ ಸೇವೆಯನ್ನು ಬಳಸಲು ನಿಮಗೆ ಕನಿಷ್ಠ %d ವರ್ಷಗಳ ವಯಸ್ಸಿನವರಾಗಿರಬೇಕು.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕ್ಯಾಲೆಂಡರ್‌ನಲ್ಲಿ %d ಪ್ರಕಾರದ ಈವೆಂಟ್ ಇದೆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕ್ಯಾಲೆಂಡರ್‌ನಲ್ಲಿ %d ಪ್ರಕಾರಗಳ ಈವೆಂಟ್‌ಗಳಿವೆ</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಮನೆ ಮತ್ತು %d ಇತರ ಆಗಾಗ್ಗೆ ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳವನ್ನು ಗುರುತಿಸಲಾಗಿದೆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಮನೆ ಮತ್ತು %d ಇತರ ಆಗಾಗ್ಗೆ ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ಆಗಾಗ್ಗೆ ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳವನ್ನು ಗುರುತಿಸಲಾಗಿದೆ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ಆಗಾಗ್ಗೆ ಭೇಟಿ ನೀಡಿದ ಸ್ಥಳಗಳನ್ನು ಗುರುತಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿನ ವರ್ಕ್ಔಟ್ ಡೇಟಾ, ಆ್ಯಪ್ ಬಳಕೆ ಮತ್ತು ಸಾಧನ ಸಂಪರ್ಕಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿನ ವರ್ಕ್ಔಟ್ ಡೇಟಾ, ಆ್ಯಪ್ ಬಳಕೆ ಮತ್ತು ಸಾಧನ ಸಂಪರ್ಕಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ನೀವು ಯಾವಾಗ ಶಾಲೆ, ಕೆಲಸ ಅಥವಾ ಮನೆಗೆ ಪ್ರಯಾಣಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ನೀವು ಯಾವಾಗ ಶಾಲೆ, ಕೆಲಸ ಅಥವಾ ಮನೆಗೆ ಪ್ರಯಾಣಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ನೀವು ಬಳಸಿದ ಆ್ಯಪ್‌ಗಳ ಪ್ರಕಾರಗಳು ಮತ್ತು ಸ್ಯಾಮ್‌ಸಂಗ್ ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ನೀವು ಭೇಟಿ ನೀಡಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ನೀವು ಬಳಸಿದ ಆ್ಯಪ್‌ಗಳ ಪ್ರಕಾರಗಳು ಮತ್ತು ಸ್ಯಾಮ್‌ಸಂಗ್ ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ನೀವು ಭೇಟಿ ನೀಡಿದ ವೆಬ್‌ಸೈಟ್‌ಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ಆಗಾಗ್ಗೆ ನೀವು ಸಮಯವನ್ನು ಕಳೆದ ಸ್ಥಳಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ಆಗಾಗ್ಗೆ ನೀವು ಸಮಯವನ್ನು ಕಳೆದ ಸ್ಥಳಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ನೀವು ಹೆಚ್ಚು ಬಳಸಿದ ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ನೀವು ಹೆಚ್ಚು ಬಳಸಿದ ಆ್ಯಪ್‌ಗಳು ಮತ್ತು ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ನಿಮ್ಮ ಫೋನ್ ಬಳಸುವುದನ್ನು ನೀವು ಯಾವಾಗ ಆರಂಭಿಸಿದ್ದೀರಿ ಮತ್ತು ನಿಲ್ಲಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ನಿಮ್ಮ ಫೋನ್ ಬಳಸುವುದನ್ನು ನೀವು ಯಾವಾಗ ಆರಂಭಿಸಿದ್ದೀರಿ ಮತ್ತು ನಿಲ್ಲಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ಕಳೆದ %d ದಿನದಲ್ಲಿ ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಬಳಸುವುದನ್ನು ನೀವು ಯಾವಾಗ ಆರಂಭಿಸಿದ್ದೀರಿ ಮತ್ತು ನಿಲ್ಲಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳಲ್ಲಿ ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಬಳಸುವುದನ್ನು ನೀವು ಯಾವಾಗ ಆರಂಭಿಸಿದ್ದೀರಿ ಮತ್ತು ನಿಲ್ಲಿಸಿದ್ದೀರಿ ಎಂಬುದನ್ನು ಆಧರಿಸಿದೆ.</item>
+    </plurals>
+</resources>

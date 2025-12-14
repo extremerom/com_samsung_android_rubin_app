@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_YOU_NEED_TO_BE_AT_LEAST_PD_YEARS_OLD_TO_USE_THE_CUSTOMIZATION_SERVICE %d</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">PLURAL_ZERO_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+        <item quantity="one">PLURAL_ONE_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+        <item quantity="two">PLURAL_TWO_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+        <item quantity="few">PLURAL_FEW_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+        <item quantity="many">PLURAL_MANY_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_STATUS_PD_TYPES_OF_EVENTS_ON_CALENDAR %d</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">PLURAL_ZERO_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="one">PLURAL_ONE_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="two">PLURAL_TWO_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="few">PLURAL_FEW_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="many">PLURAL_MANY_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_STATUS_HOME_AND_PD_OTHER_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">PLURAL_ZERO_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="one">PLURAL_ONE_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="two">PLURAL_TWO_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="few">PLURAL_FEW_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="many">PLURAL_MANY_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_STATUS_PD_FREQUENTLY_VISITED_PLACES_IDENTIFIED %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_WORKOUT_DATA_APP_USE_AND_DEVICE_CONNECTIONS_OVER_THE_PAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_WHEN_YOUVE_TRAVELED_TO_SCHOOL_WORK_OR_HOME_OVER_THE_PAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_THE_TYPES_OF_APPS_YOUVE_USED_AND_THE_WEBSITES_YOUVE_VISITED_IN_SAMSUNG_INTERNET_OVER_THE_PAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_THE_PLACES_YOUVE_SPENT_TIME_IN_OFTEN_OVER_THE_LAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_THE_APPS_AND_SETTINGS_YOUVE_USED_THE_MOST_IN_THE_LAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_PHONE_OVER_THE_PAST_PD_DAYS %d</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">PLURAL_ZERO_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+        <item quantity="one">PLURAL_ONE_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+        <item quantity="two">PLURAL_TWO_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+        <item quantity="few">PLURAL_FEW_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+        <item quantity="many">PLURAL_MANY_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+        <item quantity="other">PLURAL_OTHER_CS_BODY_BASED_ON_WHEN_YOU_STARTED_AND_STOPPED_USING_YOUR_TABLET_IN_THE_PAST_PD_DAYS %d</item>
+    </plurals>
+</resources>

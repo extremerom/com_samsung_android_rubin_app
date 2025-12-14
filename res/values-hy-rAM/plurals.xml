@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հարմարեցման ծառայությունն օգտագործելու համար պետք է լինեք առնվազն %d տարեկան:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հարմարեցման ծառայությունն օգտագործելու համար պետք է լինեք առնվազն %d տարեկան:</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d տեսակի իրադարձություն օրացույցում</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d տեսակի իրադարձություններ օրացույցում</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Տուն և հաճախակի այցելվող ևս %d վայր են նույնականացվել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Տուն և հաճախակի այցելվող ևս %d վայր են նույնականացվել</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հաճախակի այցելվող %d վայր է նույնականացվել</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հաճախակի այցելվող %d վայր է նույնականացվել</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է անցած %d օրում մարզումների տվյալների, ծրագրերի օգտագործման և սարքի միացումների վրա:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է անցած %d օրում մարզումների տվյալների, ծրագրերի օգտագործման և սարքի միացումների վրա:</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է այն տվյալների վրա, թե երբ եք գնացել դպրոց, աշխատավայր կամ տուն անցած %d օրում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է այն տվյալների վրա, թե երբ եք գնացել դպրոց, աշխատավայր կամ տուն անցած %d օրում:</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է անցած %d օրում Ձեր օգտագործած ծրագրերի տեսակների և Samsung Ինտերնետում այցելած կայքերի վրա:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է անցած %d օրում Ձեր օգտագործած ծրագրերի տեսակների և Samsung Ինտերնետում այցելած կայքերի վրա:</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է այն վայրերի վրա, որտեղ հաճախ ժամանակ եք անցկացրել վերջին %d օրում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է այն վայրերի վրա, որտեղ հաճախ ժամանակ եք անցկացրել վերջին %d օրում:</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է այն ծրագրերի և դրվածքների վրա, որոնք առավել շատ եք օգտագործել վերջին %d օրում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է այն ծրագրերի և դրվածքների վրա, որոնք առավել շատ եք օգտագործել վերջին %d օրում:</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է այն տվյալների վրա, թե երբ եք սկսել և դադարեցրել Ձեր հեռախոսի օգտագործումը անցած %d օրում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է այն տվյալների վրա, թե երբ եք սկսել և դադարեցրել Ձեր հեռախոսի օգտագործումը անցած %d օրում:</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Հիմնված է այն տվյալների վրա, թե երբ եք սկսել և դադարեցրել Ձեր պլանշետի օգտագործումը անցած %d օրում:</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Հիմնված է այն տվյալների վրա, թե երբ եք սկսել և դադարեցրել Ձեր պլանշետի օգտագործումը անցած %d օրում:</item>
+    </plurals>
+</resources>

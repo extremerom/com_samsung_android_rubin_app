@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"কাষ্ট'মাইজেশ্বন সেৱাটো ব্যৱহাৰ কৰিবলৈ আপুনি কমেও %d বছৰ বয়সৰ হ'ব লাগিব।"</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"কাষ্ট'মাইজেশ্বন সেৱাটো ব্যৱহাৰ কৰিবলৈ আপুনি কমেও %d বছৰ বয়সৰ হ'ব লাগিব।"</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">কেলেণ্ডাৰত %d প্ৰকাৰৰ ইভেণ্ট আছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">কেলেণ্ডাৰত %d প্ৰকাৰৰ ইভেণ্ট আছে</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ঘৰ আৰু অন্য %d টা সঘনাই দৰ্শন কৰা স্থান চিনাক্ত কৰা হৈছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ঘৰ আৰু অন্য %d টা সঘনাই দৰ্শন কৰা স্থান চিনাক্ত কৰা হৈছে</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d টা সঘনাই দৰ্শন কৰা স্থান চিনাক্ত কৰা হৈছে</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d টা সঘনাই দৰ্শন কৰা স্থান চিনাক্ত কৰা হৈছে</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত শাৰীৰিক অনুশীলনৰ ডাটা, এপ্প্‌ৰ ব্যৱহাৰ আৰু ডিভাইচ সংযোগৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত শাৰীৰিক অনুশীলনৰ ডাটা, এপ্প্‌ৰ ব্যৱহাৰ আৰু ডিভাইচ সংযোগৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া বিদ্যালয়, কৰ্মস্থান বা ঘৰলৈ গৈছিল তাৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া বিদ্যালয়, কৰ্মস্থান বা ঘৰলৈ গৈছিল তাৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">আপুনি যোৱা %d দিনৰ ভিতৰত চেমচাং ইণ্টাৰনেটত ব্যৱহাৰ কৰা এপ্প্‌সমূহ আৰু আপুনি চোৱা ৱেবচাইটসমূহৰ প্ৰকাৰৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">আপুনি যোৱা %d দিনৰ ভিতৰত চেমচাং ইণ্টাৰনেটত ব্যৱহাৰ কৰা এপ্প্‌সমূহ আৰু আপুনি চোৱা ৱেবচাইটসমূহৰ প্ৰকাৰৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত আপুনি প্ৰায়েই সময় অতিবাহিত কৰা স্থানৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত আপুনি প্ৰায়েই সময় অতিবাহিত কৰা স্থানৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত আপুনি আটাইতকৈ বেছি ব্যৱহাৰ কৰা এপ্প্‌সমূহ আৰু ছেটিংছৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত আপুনি আটাইতকৈ বেছি ব্যৱহাৰ কৰা এপ্প্‌সমূহ আৰু ছেটিংছৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া আপোনাৰ ফোনৰ ব্যৱহাৰ আৰম্ভ আৰু বন্ধ কৰে তাৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া আপোনাৰ ফোনৰ ব্যৱহাৰ আৰম্ভ আৰু বন্ধ কৰে তাৰ ভিত্তিত।</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া আপোনাৰ টেবলেটৰ ব্যৱহাৰ আৰম্ভ আৰু বন্ধ কৰে তাৰ ভিত্তিত।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">যোৱা %d দিনৰ ভিতৰত আপুনি যেতিয়া আপোনাৰ টেবলেটৰ ব্যৱহাৰ আৰম্ভ আৰু বন্ধ কৰে তাৰ ভিত্তিত।</item>
+    </plurals>
+</resources>

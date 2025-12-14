@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:background="@color/winset_help_content_area_bg_color" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <include layout="@layout/activity_permission_list" />
+        <LinearLayout android:orientation="vertical" android:id="@id/sensitive_permission_layout" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:id="@id/permission_appear_on_top_text_layout" style="@style/Winset.Help.List.SensitiveTextLayout">
+                <TextView android:id="@id/permission_appear_on_top_textview" android:text="@string/permission_appear_on_top" style="@style/Winset.Help.List.SensitiveTitle" />
+                <TextView android:id="@id/permission_appear_on_top_desc_textview" android:text="@string/permission_appear_on_top_desc" style="@style/Winset.Help.List.SensitiveDescription" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/title_ics"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.preference.PreferenceCategory android:key="key_category_description">
+        <androidx.preference.PreferenceScreen android:persistent="false" android:layout="@layout/pref_main_description" android:title="@string/customization_service_description" android:selectable="false" android:key="key_description" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory>
+        <androidx.preference.Preference android:title="@string/title_samsung_account" android:key="key_samsung_account" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/ics_category_settings" android:key="key_category_supported_apps">
+        <androidx.preference.Preference android:title="@string/title_activities_and_interests" android:key="key_activities_and_interests" />
+        <androidx.preference.Preference android:title="@string/privacy_pref_title" android:key="key_data_management" />
+        <androidx.preference.Preference android:title="@string/title_supported_apps" android:key="key_supported_apps" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="@string/privacy_category_title" android:key="key_category_privacy">
+        <androidx.preference.Preference android:title="@string/title_privacy_notice" android:key="key_privacy_notice" />
+        <androidx.preference.Preference android:title="@string/title_permissions" android:key="key_permissions" />
+        <androidx.preference.Preference android:title="@string/title_download_personal_data" android:key="key_download" />
+        <androidx.preference.Preference android:title="@string/title_erase_personal_data" android:key="key_erase" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:key="key_category_ad">
+        <com.samsung.android.rubin.app.ui.preference.AdSwitchPreference android:title="@string/info_ads" android:key="key_ad_switch" android:summary="" />
+    </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="" />
+</PreferenceScreen>

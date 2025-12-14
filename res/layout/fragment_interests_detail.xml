@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/date_picker" layout="@layout/inference_detail_date_picker" />
+    <LinearLayout android:orientation="vertical" android:background="@drawable/inference_frame_background" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView style="@style/Winset.Inferences.Detail.Interest.TopInterests" />
+        <com.samsung.android.rubin.app.ui.view.NonScrollListView android:id="@id/interests_list_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="16.0dp" />
+    </LinearLayout>
+</LinearLayout>

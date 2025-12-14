@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView android:orientation="vertical" android:padding="@dimen/winset_china_dialog_padding" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:id="@id/china_dialog_body" android:layout_marginBottom="@dimen/winset_china_dialog_text_margin_bottom" style="@style/Winset.ChinaDialog.Text" />
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/winset_china_dialog_paragraph_margin_bottom">
+            <TextView android:layout_marginBottom="@dimen/winset_china_dialog_text_margin_bottom" android:text="@string/chn_required" style="@style/Winset.ChinaDialog.Text" />
+            <TextView android:textColor="@color/winset_china_dialog_required_item_text_color" android:id="@id/china_dialog_location" style="@style/Winset.ChinaDialog.Text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/winset_china_dialog_paragraph_margin_bottom">
+            <TextView android:text="@string/chn_optional" style="@style/Winset.ChinaDialog.Text" />
+            <CheckBox android:id="@id/china_dialog_phone_number" android:text="@string/chn_phone_number" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_url_history" android:text="@string/chn_internet" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_calendar" android:text="@string/chn_calendar" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_read_calendar" android:text="@string/chn_read_calendar" style="@style/Winset.ChinaDialog.CheckBox.Child" />
+            <CheckBox android:id="@id/china_dialog_contacts" android:text="@string/chn_contacts" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_read_contacts" android:text="@string/chn_read_contact" style="@style/Winset.ChinaDialog.CheckBox.Child" />
+            <CheckBox android:id="@id/china_dialog_imei" android:text="@string/chn_imei_info" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_phone" android:text="@string/chn_phone" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_read_call_history" android:text="@string/chn_read_call_history" style="@style/Winset.ChinaDialog.CheckBox.Child" />
+            <CheckBox android:id="@id/china_dialog_sms" android:text="@string/chn_sms" style="@style/Winset.ChinaDialog.CheckBox" />
+            <CheckBox android:id="@id/china_dialog_read_sms_and_mms" android:text="@string/chn_read_sms_and_mms" style="@style/Winset.ChinaDialog.CheckBox.Child" />
+        </LinearLayout>
+        <TextView android:id="@id/china_dialog_background_msg" style="@style/Winset.ChinaDialog.Text" />
+        <TextView android:layout_marginBottom="@dimen/winset_china_dialog_margin_bottom" android:text="@string/chn_dialog_body3" style="@style/Winset.ChinaDialog.Text" />
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-map>
+    <color>
+        <match overlay="secondary_text_color_theme">
+            <original>description_text_color</original>
+            <original>version_info_text_color</original>
+        </match>
+        <match overlay="highlight_text_color_theme">
+            <original>link_text_color</original>
+        </match>
+        <match overlay="sub_app_bar_text_color_theme">
+            <original>sub_app_bar_text_color</original>
+        </match>
+        <match overlay="background_color_theme">
+            <original>sub_app_bar_divider_color</original>
+        </match>
+        <match overlay="button_text_color_theme">
+            <original>update_btn_text_color</original>
+        </match>
+    </color>
+</resource-map>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Gutxienez %d urte izan behar duzu Pertsonalizazio zerbitzua erabiltzeko.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Gutxienez %d urte izan behar dituzu Pertsonalizazio zerbitzua erabiltzeko.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gertaera mota egutegian</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d gertaera mota egutegian</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Etxea eta maiz bisitatutako beste %d toki identifikatu dira</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Etxea eta maiz bisitatutako beste %d toki identifikatu dira</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Maiz bisitatutako %d toki identifikatu da</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Maiz bisitatutako %d toki identifikatu dira</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d eguneko entrenamenduetako datuetan, aplikazio erabileran eta gailuko konexioetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetako entrenamenduetako datuetan, aplikazio erabileran eta gailuko konexioetan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean eskolara, lanera edo etxera egindako bidaien orduetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan eskolara, lanera edo etxera egindako bidaien orduetan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean erabili dituzun aplikazio motetan eta Samsung Internet-en bisitatu dituzun webguneetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan erabili dituzun aplikazio motetan eta Samsung Internet-en bisitatu dituzun webguneetan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean denbora igaro izan duzun tokietan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan denbora igaro izan duzun tokietan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean gehien erabili dituzun aplikazioetan eta ezarpenetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan gehien erabili dituzun aplikazioetan eta ezarpenetan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean telefonoa erabiltzen hasten zaren eta hari erabiltzeari utzi diozun orduetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan telefonoa erabiltzen hasten zaren eta hari erabiltzeari utzi diozun orduetan oinarrituta.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azken %d egunean tableta erabiltzen hasten zaren eta hari erabiltzeari utzi diozun orduetan oinarrituta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azken %d egunetan tableta erabiltzen hasten zaren eta hari erabiltzeari utzi diozun orduetan oinarrituta.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Каб выкарыстоўваць Сэрвіс індывідуалізацыі, вам павінен быць мінімум %d год.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Каб выкарыстоўваць Сэрвіс індывідуалізацыі, вам павінна быць мінімум %d гады.</item>
+        <item quantity="many">Каб выкарыстоўваць Сэрвіс індывідуалізацыі, вам павінна быць мінімум %d гадоў.</item>
+        <item quantity="other">Каб выкарыстоўваць Сэрвіс індывідуалізацыі, вам павінна быць мінімум %d гадоў.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d тып падзеі ў календары</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d тыпы падзеі ў календары</item>
+        <item quantity="many">%d тыпаў падзеі ў календары</item>
+        <item quantity="other">%d тыпаў падзеі ў календары</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлены дом і %d іншае месца, якое часта наведваецца</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены дом і %d іншыя месцы, якія часта наведваюцца</item>
+        <item quantity="many">Выяўлены дом і %d іншыя месцаў, якія часта наведваюцца</item>
+        <item quantity="other">Выяўлены дом і %d іншыя месцаў, якія часта наведваюцца</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Выяўлена %d месца, якое часта наведваецца</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Выяўлены %d месцы, якія часта наведваюцца</item>
+        <item quantity="many">Выяўлена %d месцаў, якія часта наведваюцца</item>
+        <item quantity="other">Выяўлена %d месцаў, якія часта наведваюцца</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на даных трэніровак, выкарыстанні праграм і падлучэннях прылад на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на даных трэніровак, выкарыстанні праграм і падлучэннях прылад на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на даных трэніровак, выкарыстанні праграм і падлучэннях прылад на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на даных трэніровак, выкарыстанні праграм і падлучэннях прылад на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на тым, калі вы дабіраліся ў школу, на працу або дамоў на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на тым, калі вы дабіраліся ў школу, на працу або дамоў на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на тым, калі вы дабіраліся ў школу, на працу або дамоў на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на тым, калі вы дабіраліся ў школу, на працу або дамоў на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на тыпах праграм, якія вы выкарыстоўвалі, і вэб-сайтаў, якія вы наведвалі ў праграме «Інтэрнэт» ад Samsung на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на тыпах праграм, якія вы выкарыстоўвалі, і вэб-сайтаў, якія вы наведвалі ў праграме «Інтэрнэт» ад Samsung на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на тыпах праграм, якія вы выкарыстоўвалі, і вэб-сайтаў, якія вы наведвалі ў праграме «Інтэрнэт» ад Samsung на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на тыпах праграм, якія вы выкарыстоўвалі, і вэб-сайтаў, якія вы наведвалі ў праграме «Інтэрнэт» ад Samsung на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на месцах, дзе вы часта праводзілі час на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на месцах, дзе вы часта праводзілі час на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на месцах, дзе вы часта праводзілі час на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на месцах, дзе вы часта праводзілі час на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на праграмах і наладах, якія вы найбольш актыўна выкарыстоўвалі на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на праграмах і наладах, якія вы найбольш актыўна выкарыстоўвалі на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на праграмах і наладах, якія вы найбольш актыўна выкарыстоўвалі на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на праграмах і наладах, якія вы найбольш актыўна выкарыстоўвалі на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на тым, калі вы пачыналі і спынялі карыстацца тэлефонам на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на тым, калі вы пачыналі і спынялі карыстацца тэлефонам на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на тым, калі вы пачыналі і спынялі карыстацца тэлефонам на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на тым, калі вы пачыналі і спынялі карыстацца тэлефонам на працягу апошніх %d дзён.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Заснавана на тым, калі вы пачыналі і спынялі карыстацца планшэтам на працягу апошняга %d дня.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Заснавана на тым, калі вы пачыналі і спынялі карыстацца планшэтам на працягу апошніх %d дзён.</item>
+        <item quantity="many">Заснавана на тым, калі вы пачыналі і спынялі карыстацца планшэтам на працягу апошніх %d дзён.</item>
+        <item quantity="other">Заснавана на тым, калі вы пачыналі і спынялі карыстацца планшэтам на працягу апошніх %d дзён.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,157 @@
+@prefix cls: <http://www.s-knowledge.net/class/> .
+@prefix pro: <http://www.s-knowledge.net/property/> .
+@prefix rsc: <http://www.s-knowledge.net/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+rsc:assistant pro:relationship_name "assistant" .
+
+rsc:aunt pro:relationship_name "aunt" ,
+    	                       "auntie" ,
+			       "aunty" .
+
+rsc:boss pro:relationship_name  "boss" .
+
+rsc:brother pro:relationship_name "brother" ,
+                                  "bro" .
+
+rsc:brother_in_law pro:relationship_name "brother in law" ,
+                                         "brother-in-law" ,
+                                         "bil".
+
+rsc:child pro:relationship_name "child" ,
+                                "kid" ,
+                                "jr." ,
+                                "junior" .
+
+rsc:close_person pro:relationship_name "close person" .
+
+rsc:close_friend pro:relationship_name "bestie" ,
+                                       "bff" .
+
+rsc:colleague pro:relationship_name "colleague" ,
+                                    "colleagues" ,
+                                    "coworker" ,
+                                    "coworkers" ,
+                                    "co-worker" ,
+                                    "co-workers" .
+
+rsc:cousin pro:relationship_name "cousin" .
+
+rsc:daughter pro:relationship_name "daughter" .
+
+rsc:daughter_in_law pro:relationship_name "daughter in law" ,
+                                          "daughter-in-law" ,
+                                          "dil".
+
+rsc:family pro:relationship_name "family" ,
+                                 "kin" .
+
+rsc:family_in_law pro:relationship_name "family in law" ,
+                                        "family-in-law" ,
+					"in-laws" ,
+					"in laws".
+
+rsc:family_of_father pro:relationship_name "paternal" .
+
+rsc:family_of_mother pro:relationship_name "maternal" .
+
+rsc:father pro:relationship_name "father" ,
+                                 "papa" ,
+                                 "pop" ,
+                                 "dada" ,
+                                 "dadda" ,
+                                 "daddy" ,
+                                 "dad" ,
+                                 "pappa" .
+
+rsc:father_in_law pro:relationship_name "father in law" ,
+                                        "father-in-law" ,
+                                        "fil".
+
+rsc:friend pro:relationship_name "friend" ,
+                                 "friends" ,
+                                 "pal" .
+
+rsc:grandchildren pro:relationship_name "grandchild" .
+
+
+rsc:granddaughter pro:relationship_name "grand-daughter" ,
+                                        "granddaughter" .
+
+rsc:grandfather pro:relationship_name "grandpa" ,
+                                      "gran" ,
+                                      "granddad" ,
+                                      "grandad" ,
+                                      "grandfather" ,
+                                      "granddaddy" ,
+                                      "grandaddy" .
+
+rsc:grandmother pro:relationship_name "grandma" ,
+                                      "granma" ,
+                                      "granny" ,
+                                      "grandmother" .
+
+rsc:grandparents pro:relationship_name "grandparents" .
+
+rsc:grandson pro:relationship_name "grandson" .
+
+rsc:husband pro:relationship_name "husband" ,
+                                  "hubby" .
+
+rsc:manager pro:relationship_name "manager" .
+
+rsc:mother pro:relationship_name "mother" ,
+                                 "ma" ,
+                                 "mum" ,
+                                 "mommy" ,
+                                 "mom" ,
+                                 "mamma" ,
+                                 "mama" ,
+				 "mummy" .
+
+rsc:mother_in_law pro:relationship_name "mother in law" ,
+                                        "mother-in-law" ,
+                                        "mil".
+
+rsc:nephew pro:relationship_name "nephew" .
+
+rsc:niece pro:relationship_name "niece" .
+
+rsc:parents pro:relationship_name "parents" ,
+                                  "parent" .
+
+rsc:partner pro:relationship_name "partner" .
+
+rsc:relative pro:relationship_name "relative",
+				   "kin" .
+
+rsc:sibling pro:relationship_name "sibling" .
+
+rsc:sister pro:relationship_name "sis" ,
+                                 "sister" ,
+                                 "sissie" ,
+				 "sissy" .
+
+rsc:sister_in_law pro:relationship_name "sister in law" ,
+                                        "sister-in-law" ,
+                                        "sil".
+
+rsc:son pro:relationship_name "son" .
+
+rsc:son_in_law pro:relationship_name "son in law" ,
+				     "son-in-law" ,
+				     "sil" .
+
+rsc:spouse pro:relationship_name "spouse" ,
+                                 "s.o." ,
+                                 "better half" .
+
+rsc:wife pro:relationship_name "wife" ,
+                               "wifey" .
+
+rsc:uncle pro:relationship_name "uncle" .
+

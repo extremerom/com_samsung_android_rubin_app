@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ak chcete používať službu prispôsobenia, musíte mať aspoň %d rok.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Ak chcete používať službu prispôsobenia, musíte mať aspoň %d roky.</item>
+        <item quantity="many">Ak chcete používať službu prispôsobenia, musíte mať aspoň %d roka.</item>
+        <item quantity="other">Ak chcete používať službu prispôsobenia, musíte mať aspoň %d rokov.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d typ udalosti v kalendári</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d typy udalostí v kalendári</item>
+        <item quantity="many">%d typu udalostí v kalendári</item>
+        <item quantity="other">%d typov udalostí v kalendári</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bol identifikovaný domov a %d ďalšie často navštevované miesto</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Bol identifikovaný domov a %d ďalšie často navštevované miesta</item>
+        <item quantity="many">Bol identifikovaný domov a %d ďalšieho často navštevovaného miesta</item>
+        <item quantity="other">Bol identifikovaný domov a %d ďalších často navštevovaných miest</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bolo identifikované %d často navštevované miesto</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Boli identifikované %d často navštevované miesta</item>
+        <item quantity="many">Bolo identifikovaného %d často navštevovaného miesta</item>
+        <item quantity="other">Bolo identifikovaných %d často navštevovaných miest</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nové upozornenie</item>
+        <item quantity="few">%d nové upozornenia</item>
+        <item quantity="many">%d new notifications</item>
+        <item quantity="other">%d nových upozornení</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na údajoch o cvičení, používaní aplikácií a pripojeniach zariadení za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na údajoch o cvičení, používaní aplikácií a pripojeniach zariadení za posledné %d dni.</item>
+        <item quantity="many">Založené na údajoch o cvičení, používaní aplikácií a pripojeniach zariadení za posledného %d dňa.</item>
+        <item quantity="other">Založené na údajoch o cvičení, používaní aplikácií a pripojeniach zariadení za posledných %d dní.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na tom, kedy ste za posledný %d deň cestovali do školy, práce alebo domov.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na tom, kedy ste za posledné %d dni cestovali do školy, práce alebo domov.</item>
+        <item quantity="many">Založené na tom, kedy ste za posledného %d dňa cestovali do školy, práce alebo domov.</item>
+        <item quantity="other">Založené na tom, kedy ste za posledných %d dní cestovali do školy, práce alebo domov.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na typoch aplikácií, ktoré ste používali, a webových lokalitách, ktoré ste navštívili v prehliadači Samsung Internet za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na typoch aplikácií, ktoré ste používali, a webových lokalitách, ktoré ste navštívili v prehliadači Samsung Internet za posledné %d dni.</item>
+        <item quantity="many">Založené na typoch aplikácií, ktoré ste používali, a webových lokalitách, ktoré ste navštívili v prehliadači Samsung Internet za posledného %d dňa.</item>
+        <item quantity="other">Založené na typoch aplikácií, ktoré ste používali, a webových lokalitách, ktoré ste navštívili v prehliadači Samsung Internet za posledných %d dní.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na miestach, v ktorých ste často trávili čas za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na miestach, v ktorých ste často trávili čas za posledné %d dni.</item>
+        <item quantity="many">Založené na miestach, v ktorých ste často trávili čas za posledného %d dňa.</item>
+        <item quantity="other">Založené na miestach, v ktorých ste často trávili čas za posledných %d dní.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na aplikáciách a nastaveniach, ktoré ste najviac používali za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na aplikáciách a nastaveniach, ktoré ste najviac používali za posledné %d dni.</item>
+        <item quantity="many">Založené na aplikáciách a nastaveniach, ktoré ste najviac používali za posledného %d dňa.</item>
+        <item quantity="other">Založené na aplikáciách a nastaveniach, ktoré ste najviac používali za posledných %d dní.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na tom, kedy ste začali a prestali používať svoj telefón za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na tom, kedy ste začali a prestali používať svoj telefón za posledné %d dni.</item>
+        <item quantity="many">Založené na tom, kedy ste začali a prestali používať svoj telefón za posledného %d dňa.</item>
+        <item quantity="other">Založené na tom, kedy ste začali a prestali používať svoj telefón za posledných %d dní.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Založené na tom, kedy ste začali a prestali používať svoj tablet za posledný %d deň.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Založené na tom, kedy ste začali a prestali používať svoj tablet za posledné %d dni.</item>
+        <item quantity="many">Založené na tom, kedy ste začali a prestali používať svoj tablet za posledného %d dňa.</item>
+        <item quantity="other">Založené na tom, kedy ste začali a prestali používať svoj tablet za posledných %d dní.</item>
+    </plurals>
+</resources>

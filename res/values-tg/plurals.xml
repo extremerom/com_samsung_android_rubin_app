@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Барои Хидмати фармоишдиҳиро истифода бурдан, шумо бояд ақаллан %d сол дошта бошед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Барои Хидмати фармоишдиҳиро истифода бурдан, шумо бояд ақаллан %d сол дошта бошед.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d навъи рӯйдод дар тақвим</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d навъи рӯйдод дар тақвим</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Хона ва %d дигар ҷои мунтазам мерафтаатон муайян шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Хона ва %d дигар ҷои мунтазам мерафтаатон муайян шуд</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ҷои мунтазам мерафтаатон муайян шуд</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ҷои мунтазам мерафтаатон муайян шуд</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси иттилооти тамринҳо, истифодаи барномаҳо ва дастгоҳҳои дар %d рӯзи охир пайвастшуда.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси иттилооти тамринҳо, истифодаи барномаҳо ва дастгоҳҳои дар %d рӯзи охир пайвастшуда.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси вақти сафаратон ба мактаб, кор ё хона дар давоми %d рӯзи гузашта.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси вақти сафаратон ба мактаб, кор ё хона дар давоми %d рӯзи гузашта.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси навъҳои барномаҳои %d рӯзи охир истифода бурдаатон ва вебсайтҳои дар Samsung Internet кушодаатон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси навъҳои барномаҳои %d рӯзи охир истифода бурдаатон ва вебсайтҳои дар Samsung Internet кушодаатон.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси ҷойҳое, ки давоми %d рӯзи гузашта вақти бештар гузаронда будед.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси ҷойҳое, ки давоми %d рӯзи гузашта вақти бештар гузаронда будед.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси барномаҳо ва танзимоти дар давоми %d рӯзи гузашта аз ҳама бештар истифода бурдаатон.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси барномаҳо ва танзимоти дар давоми %d рӯзи гузашта аз ҳама бештар истифода бурдаатон.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси вақти оғоз ва анҷоми истифодаи телефон дар %d рӯзи охир.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси вақти оғоз ва анҷоми истифодаи телефон дар %d рӯзи охир.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дар асоси вақти оғоз ва анҷоми истифодаи планшет дар %d рӯзи охир.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Дар асоси вақти оғоз ва анҷоми истифодаи планшет дар %d рӯзи охир.</item>
+    </plurals>
+</resources>

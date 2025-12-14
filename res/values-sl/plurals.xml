@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Če želite uporabljati storitev prilagajanja, morate biti stari vsaj %d leto.</item>
+        <item quantity="two">Če želite uporabljati storitev prilagajanja, morate biti stari vsaj %d leti.</item>
+        <item quantity="few">Če želite uporabljati storitev prilagajanja, morate biti stari vsaj %d leta.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Če želite uporabljati storitev prilagajanja, morate biti stari vsaj %d let.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d vrsta dogodkov v koledarju</item>
+        <item quantity="two">%d vrsti dogodkov v koledarju</item>
+        <item quantity="few">%d vrste dogodkov v koledarju</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d vrst dogodkov v koledarju</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prepoznana sta dom in še %d drug pogosto obiskan kraj</item>
+        <item quantity="two">Prepoznani so dom in še %d druga pogosto obiskana kraja</item>
+        <item quantity="few">Prepoznani so dom in še %d drugi pogosto obiskani kraji</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prepoznani so dom in še %d drugih pogosto obiskanih krajev</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Prepoznan je %d pogosto obiskan kraj</item>
+        <item quantity="two">Prepoznana sta %d pogosto obiskana kraja</item>
+        <item quantity="few">Prepoznani so %d pogosto obiskani kraji</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Prepoznanih je %d pogosto obiskanih krajev</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="two">%d novi obvestili</item>
+        <item quantity="few">%d nova obvestila</item>
+        <item quantity="other">%d novih obvestil</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi podatkov o vadbi, uporabi aplikacij in povezav z napravami v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi podatkov o vadbi, uporabi aplikacij in povezav z napravami v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi podatkov o vadbi, uporabi aplikacij in povezav z napravami v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi podatkov o vadbi, uporabi aplikacij in povezav z napravami v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi tega, kdaj ste potovali v šolo, službo ali domov v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi tega, kdaj ste potovali v šolo, službo ali domov v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi tega, kdaj ste potovali v šolo, službo ali domov v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi tega, kdaj ste potovali v šolo, službo ali domov v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi vrst aplikacij, ki ste jih uporabljali, in spletnih mest, ki ste jih obiskovali v aplikaciji Samsung Internet v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi vrst aplikacij, ki ste jih uporabljali, in spletnih mest, ki ste jih obiskovali v aplikaciji Samsung Internet v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi vrst aplikacij, ki ste jih uporabljali, in spletnih mest, ki ste jih obiskovali v aplikaciji Samsung Internet v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi vrst aplikacij, ki ste jih uporabljali, in spletnih mest, ki ste jih obiskovali v aplikaciji Samsung Internet v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi krajev, kjer ste najpogosteje preživljali čas v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi krajev, kjer ste najpogosteje preživljali čas v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi krajev, kjer ste najpogosteje preživljali čas v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi krajev, kjer ste najpogosteje preživljali čas v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi aplikacij in nastavitev, ki ste jih največ uporabljali v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi aplikacij in nastavitev, ki ste jih največ uporabljali v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi aplikacij in nastavitev, ki ste jih največ uporabljali v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi aplikacij in nastavitev, ki ste jih največ uporabljali v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi tega, kdaj ste začeli in nehali uporabljati telefon v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi tega, kdaj ste začeli in nehali uporabljati telefon v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi tega, kdaj ste začeli in nehali uporabljati telefon v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi tega, kdaj ste začeli in nehali uporabljati telefon v zadnjih %d dneh.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Na podlagi tega, kdaj ste začeli in nehali uporabljati tablični računalnik v zadnjem %d dnevu.</item>
+        <item quantity="two">Na podlagi tega, kdaj ste začeli in nehali uporabljati tablični računalnik v zadnjih %d dneh.</item>
+        <item quantity="few">Na podlagi tega, kdaj ste začeli in nehali uporabljati tablični računalnik v zadnjih %d dneh.</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Na podlagi tega, kdaj ste začeli in nehali uporabljati tablični računalnik v zadnjih %d dneh.</item>
+    </plurals>
+</resources>

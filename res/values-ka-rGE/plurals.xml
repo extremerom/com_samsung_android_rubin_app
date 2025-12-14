@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">მინიმუმ %d წლის უნდა იყოთ, რომ გამოიყენოთ მორგების სერვისი.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">მინიმუმ %d წლის უნდა იყოთ, რომ გამოიყენოთ მორგების სერვისი.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">კალენდარში აღნიშნული %d ტიპის ღონისძიება</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">კალენდარში აღნიშნული %d ტიპის ღონისძიება</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ამოცნობილია სახლი და %d სხვა ადგილი, სადაც ხშირად იყავით</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ამოცნობილია სახლი და %d სხვა ადგილი, სადაც ხშირად იყავით</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ადგილი, სადაც ხშირად იყავით</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ადგილი, სადაც ხშირად იყავით</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება ბოლო %d დღის ვარჯიშის მონაცემებით, აპლიკაციების გამოყენებისა და მოწყობილობებთან დაკავშირების მიხედვით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება ბოლო %d დღის ვარჯიშის მონაცემებით, აპლიკაციების გამოყენებისა და მოწყობილობებთან დაკავშირების მიხედვით.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება იმის მიხედვით, თუ როდის იმოგზაურეთ სკოლაში, სამსახურში ან სახლში ბოლო %d დღის განმავლობაში.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება იმის მიხედვით, თუ როდის იმოგზაურეთ სკოლაში, სამსახურში ან სახლში ბოლო %d დღის განმავლობაში.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება ბოლო %d დღის განმავლობაში თქვენ მიერ გამოყენებული აპლიკაციებისა და „Samsung-ის ინტერნეტით“ ნანახი ვებსაიტების მიხედვით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება ბოლო %d დღის განმავლობაში თქვენ მიერ გამოყენებული აპლიკაციებისა და „Samsung-ის ინტერნეტით“ ნანახი ვებსაიტების მიხედვით.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება იმ ადგილებით, სადაც ბოლო %d დღის განმავლობაში ხშირად გაატარეთ დრო.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება იმ ადგილებით, სადაც ბოლო %d დღის განმავლობაში ხშირად გაატარეთ დრო.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება ბოლო %d დღის განმავლობაში ყველაზე ხშირად გამოყენებული აპლიკაციებისა და პარამეტრების მიხედვით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება ბოლო %d დღის განმავლობაში ყველაზე ხშირად გამოყენებული აპლიკაციებისა და პარამეტრების მიხედვით.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება ბოლო %d დღის განმავლობაში ტელეფონის გამოყენების დაწყებისა და შეწყვეტის დროებით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება ბოლო %d დღის განმავლობაში ტელეფონის გამოყენების დაწყებისა და შეწყვეტის დროებით.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">განისაზღვრება ბოლო %d დღის განმავლობაში პლანშეტის გამოყენების დაწყებისა და შეწყვეტის დროებით.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">განისაზღვრება ბოლო %d დღის განმავლობაში პლანშეტის გამოყენების დაწყებისა და შეწყვეტის დროებით.</item>
+    </plurals>
+</resources>

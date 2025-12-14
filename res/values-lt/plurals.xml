@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kad galėtumėte naudotis pritaikymo paslauga, jums turi būti bent %d m.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Kad galėtumėte naudotis pritaikymo paslauga, jums turi būti bent %d m.</item>
+        <item quantity="many">Kad galėtumėte naudotis pritaikymo paslauga, jums turi būti bent %d m.</item>
+        <item quantity="other">Kad galėtumėte naudotis pritaikymo paslauga, jums turi būti bent %d m.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tipo įvykis kalendoriuje</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d tipų įvykiai kalendoriuje</item>
+        <item quantity="many">%d tipų įvykių kalendoriuje</item>
+        <item quantity="other">%d tipų įvykių kalendoriuje</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikti namai ir dar %d dažnai lankoma vieta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptikti namai ir dar %d dažnai lankomos vietos</item>
+        <item quantity="many">Aptikti namai ir dar %d dažnai lankomų vietų</item>
+        <item quantity="other">Aptikti namai ir dar %d dažnai lankomų vietų</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aptikta %d dažnai lankoma vieta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aptiktos %d dažnai lankomos vietos</item>
+        <item quantity="many">Aptikta %d dažnai lankomų vietų</item>
+        <item quantity="other">Aptikta %d dažnai lankomų vietų</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d naujas pranešimas</item>
+        <item quantity="few">%d nauji pranešimai</item>
+        <item quantity="many">%d naujo pranešimo</item>
+        <item quantity="other">%d naujų pranešimų</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal treniruočių duomenis, programų naudojimą ir įrenginio ryšius per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal treniruočių duomenis, programų naudojimą ir įrenginio ryšius per pastarąsias %d d.</item>
+        <item quantity="many">Pagal treniruočių duomenis, programų naudojimą ir įrenginio ryšius per pastarąsias %d d.</item>
+        <item quantity="other">Pagal treniruočių duomenis, programų naudojimą ir įrenginio ryšius per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal laiką, kada vykote į mokyklą, darbą ar namus, per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal laiką, kada vykote į mokyklą, darbą ar namus, per pastarąsias %d d.</item>
+        <item quantity="many">Pagal laiką, kada vykote į mokyklą, darbą ar namus, per pastarąsias %d d.</item>
+        <item quantity="other">Pagal laiką, kada vykote į mokyklą, darbą ar namus, per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal jūsų naudotų programų tipą ir „Samsung Internet“ aplankytas svetaines per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal jūsų naudotų programų tipą ir „Samsung Internet“ aplankytas svetaines per pastarąsias %d d.</item>
+        <item quantity="many">Pagal jūsų naudotų programų tipą ir „Samsung Internet“ aplankytas svetaines per pastarąsias %d d.</item>
+        <item quantity="other">Pagal jūsų naudotų programų tipą ir „Samsung Internet“ aplankytas svetaines per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal vietas, kuriose dažnai buvote, per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal vietas, kuriose dažnai buvote, per pastarąsias %d d.</item>
+        <item quantity="many">Pagal vietas, kuriose dažnai buvote, per pastarąsias %d d.</item>
+        <item quantity="other">Pagal vietas, kuriose dažnai buvote, per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal dažniausiai naudotas programas ir nustatymus per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal dažniausiai naudotas programas ir nustatymus per pastarąsias %d d.</item>
+        <item quantity="many">Pagal dažniausiai naudotas programas ir nustatymus per pastarąsias %d d.</item>
+        <item quantity="other">Pagal dažniausiai naudotas programas ir nustatymus per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal laiką, kada pradėjote ir baigėte naudotis telefonu, per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal laiką, kada pradėjote ir baigėte naudotis telefonu, per pastarąsias %d d.</item>
+        <item quantity="many">Pagal laiką, kada pradėjote ir baigėte naudotis telefonu, per pastarąsias %d d.</item>
+        <item quantity="other">Pagal laiką, kada pradėjote ir baigėte naudotis telefonu, per pastarąsias %d d.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Pagal laiką, kada pradėjote ir baigėte naudotis planšetiniu kompiuteriu, per pastarąją %d d.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Pagal laiką, kada pradėjote ir baigėte naudotis planšetiniu kompiuteriu, per pastarąsias %d d.</item>
+        <item quantity="many">Pagal laiką, kada pradėjote ir baigėte naudotis planšetiniu kompiuteriu, per pastarąsias %d d.</item>
+        <item quantity="other">Pagal laiką, kada pradėjote ir baigėte naudotis planšetiniu kompiuteriu, per pastarąsias %d d.</item>
+    </plurals>
+</resources>

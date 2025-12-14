@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/about_title" android:text="@string/title_ics_body" style="@style/Winset.AboutPageAppNameStyle" />
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/about_app_version" style="@style/Winset.AboutPageAppVersionStyle" />
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/about_update_info" android:visibility="gone" style="@style/Winset.AboutPageAppVersionConfigTextStyle" />
+    <FrameLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <ProgressBar android:layout_gravity="center_horizontal" android:id="@id/about_progress" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:id="@id/about_update_button" android:visibility="gone" android:text="@string/str_update" style="@style/Winset.AboutPageUpdateButtonStyle" />
+        </LinearLayout>
+    </FrameLayout>
+</merge>

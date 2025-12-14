@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">தனிப்பயனாக்குதல் சேவையைப் பயன்படுத்த, நீங்கள் குறைந்தது %d வயதுடையவராக இருக்க வேண்டும்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">தனிப்பயனாக்குதல் சேவையைப் பயன்படுத்த, நீங்கள் குறைந்தது %d வயதுடையவராக இருக்க வேண்டும்.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">நாட்காட்டியில் %d வகையான நிகழ்வு</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">நாட்காட்டியில் %d வகையான நிகழ்வுகள்</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">வீடு மற்றும் அடிக்கடி செல்லும் %d இடம் கண்டறியப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">வீடு மற்றும் அடிக்கடி செல்லும் %d இடங்கள் கண்டறியப்பட்டன</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">அடிக்கடி செல்லும் %d இடம் கண்டறியப்பட்டது</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">அடிக்கடி செல்லும் %d இடங்கள் கண்டறியப்பட்டன</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளில் உடற்பயிற்சி தரவு, பயன்பாட்டு உபயோகம், மற்றும் சாதன இணைப்புகளின் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களில் உடற்பயிற்சி தரவு, பயன்பாட்டு உபயோகம், மற்றும் சாதன இணைப்புகளின் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளில் நீங்கள் எப்போது பள்ளி, வேலை, அல்லது வீட்டிற்குச் சென்றீர்கள் என்பதன் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களில் நீங்கள் எப்போது பள்ளி, வேலை, அல்லது வீட்டிற்குச் சென்றீர்கள் என்பதன் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளில், நீங்கள் உபயோகித்துள்ள பயன்பாடுகளின் வகைகள் மற்றும் சாம்சங் இணையத்தின் மூலம் நீங்கள் பார்வையிட்டுள்ள வலைத்தளங்களின் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களில், நீங்கள் உபயோகித்துள்ள பயன்பாடுகளின் வகைகள் மற்றும் சாம்சங் இணையத்தின் மூலம் நீங்கள் பார்வையிட்டுள்ள வலைத்தளங்களின் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளில் நீங்கள் அடிக்கடி சென்ற இடங்களின் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களில் நீங்கள் அடிக்கடி சென்ற இடங்களின் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளில் நீங்கள் அதிகம் உபயோகித்த பயன்பாடுகள் மற்றும் அமைவுகளின் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களில் நீங்கள் அதிகம் உபயோகித்த பயன்பாடுகள் மற்றும் அமைவுகளின் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளாக உங்கள் ஃபோனைப் பயன்படுத்தத் தொடங்கி பிறகு நிறுத்தியதன் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களாக உங்கள் ஃபோனைப் பயன்படுத்தத் தொடங்கி பிறகு நிறுத்தியதன் அடிப்படையில்.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">கடந்த %d நாளாக உங்கள் டேப்லெட்டைப் பயன்படுத்தத் தொடங்கி பிறகு நிறுத்தியதன் அடிப்படையில்.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">கடந்த %d நாட்களாக உங்கள் டேப்லெட்டைப் பயன்படுத்தத் தொடங்கி பிறகு நிறுத்தியதன் அடிப்படையில்.</item>
+    </plurals>
+</resources>

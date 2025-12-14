@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kailangang %d taong gulang ka man lang para magamit ang Customization Service.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kailangang %d taong gulang ka man lang para magamit ang Customization Service.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d uri ng kaganapan sa kalendaryo</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d uri ng kaganapan sa kalendaryo</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Tahanan at %d iba pang madalas na binibisitang mga lugar na natukoy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Tahanan at %d iba pang madalas na binibisitang mga lugar na natukoy</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Natukoy ang %d na madalas na binibisitang mga lugar</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Natukoy ang %d na madalas na binibisitang mga lugar</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d bagong notification</item>
+        <item quantity="other">%d na bagong notification</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa data ng workout, paggamit sa app at mga koneksyon ng device sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa data ng workout, paggamit sa app at mga koneksyon ng device sa nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa kung kailan ka bumiyahe papuntang paaralan, trabaho o tahanan sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa kung kailan ka bumiyahe papuntang paaralan, trabaho o tahanan sa nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa mga uri ng app na nagamit mo at sa mga website na binisita mo sa Samsung Internet sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa mga uri ng app na nagamit mo at sa mga website na binisita mo sa Samsung Internet sa nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa mga lugar na madalas mong ginugugulan ng oras na nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa mga lugar na madalas mong ginugugulan ng oras na nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa mga app at setting na pinakamadalas mong ginamit sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa mga app at setting na pinakamadalas mong ginamit sa nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa kung kailan mo sinimulan at inihinto ang paggamit sa telepono mo sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa kung kailan mo sinimulan at inihinto ang paggamit sa telepono mo sa nakalipas na %d araw.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Batay sa kung kailan mo sinimulan at inihinto ang paggamit sa tablet mo sa nakalipas na %d araw.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Batay sa kung kailan mo sinimulan at inihinto ang paggamit sa tablet mo sa nakalipas na %d araw.</item>
+    </plurals>
+</resources>

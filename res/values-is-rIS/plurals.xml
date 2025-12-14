@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Þú verður að vera a.m.k. %d árs til að nota sérsniðna þjónustu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Þú verður að vera a.m.k. %d ára til að nota sérsniðna þjónustu.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tegund viðburðar í dagatali</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d tegundir viðburða í dagatali</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Heimilið og %d algengur áfangastaður í viðbót auðkennd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Heimilið og %d algengir áfangastaðir í viðbót auðkennd</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d algengur áfangastaður auðkenndur</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d algengir áfangastaðir auðkenndir</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á æfingagögnum, forritanotkun og tengingum tækja síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á æfingagögnum, forritanotkun og tengingum tækja síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á því hvenær þú fórst í skólann, vinnuna eða heim síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á því hvenær þú fórst í skólann, vinnuna eða heim síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á þeim gerðum forrita sem þú hefur notað og vefsvæðunum sem þú hefur opnað í internetforriti Samsung síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á þeim gerðum forrita sem þú hefur notað og vefsvæðunum sem þú hefur opnað í internetforriti Samsung síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á stöðunum þar sem þú hefur oft verið síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á stöðunum þar sem þú hefur oft verið síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á forritunum og stillingunum sem þú hefur notað mest síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á forritunum og stillingunum sem þú hefur notað mest síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á því hvenær þú byrjaðir og hættir að nota símann þinn síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á því hvenær þú byrjaðir og hættir að nota símann þinn síðastliðna %d daga.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Byggt á því hvenær þú byrjaðir og hættir að nota spjaldtölvuna þína síðastliðinn %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Byggt á því hvenær þú byrjaðir og hættir að nota spjaldtölvuna þína síðastliðna %d daga.</item>
+    </plurals>
+</resources>

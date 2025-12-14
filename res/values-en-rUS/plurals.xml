@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">You need to be at least %d years old to use the Customization Service.</item>
+        <item quantity="one">You need to be at least %d year old to use the Customization Service.</item>
+        <item quantity="two">You need to be at least %d years old to use the Customization Service.</item>
+        <item quantity="few">You need to be at least %d years old to use the Customization Service.</item>
+        <item quantity="many">You need to be at least %d years old to use the Customization Service.</item>
+        <item quantity="other">You need to be at least %d years old to use the Customization Service.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">%d types of events on calendar</item>
+        <item quantity="one">%d type of event on calendar</item>
+        <item quantity="two">%d types of events on calendar</item>
+        <item quantity="few">%d types of events on calendar</item>
+        <item quantity="many">%d types of events on calendar</item>
+        <item quantity="other">%d types of events on calendar</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">Home and %d other frequently visited places identified</item>
+        <item quantity="one">Home and %d other frequently visited place identified</item>
+        <item quantity="two">Home and %d other frequently visited places identified</item>
+        <item quantity="few">Home and %d other frequently visited places identified</item>
+        <item quantity="many">Home and %d other frequently visited places identified</item>
+        <item quantity="other">Home and %d other frequently visited places identified</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">%d frequently visited places identified</item>
+        <item quantity="one">%d frequently visited place identified</item>
+        <item quantity="two">%d frequently visited places identified</item>
+        <item quantity="few">%d frequently visited places identified</item>
+        <item quantity="many">%d frequently visited places identified</item>
+        <item quantity="other">%d frequently visited places identified</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">Based on workout data, app use, and device connections over the past %d days.</item>
+        <item quantity="one">Based on workout data, app use, and device connections over the past %d day.</item>
+        <item quantity="two">Based on workout data, app use, and device connections over the past %d days.</item>
+        <item quantity="few">Based on workout data, app use, and device connections over the past %d days.</item>
+        <item quantity="many">Based on workout data, app use, and device connections over the past %d days.</item>
+        <item quantity="other">Based on workout data, app use, and device connections over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">"Based on when you've traveled to school, work, or home over the past %d days."</item>
+        <item quantity="one">"Based on when you've traveled to school, work, or home over the past %d day."</item>
+        <item quantity="two">"Based on when you've traveled to school, work, or home over the past %d days."</item>
+        <item quantity="few">"Based on when you've traveled to school, work, or home over the past %d days."</item>
+        <item quantity="many">"Based on when you've traveled to school, work, or home over the past %d days."</item>
+        <item quantity="other">"Based on when you've traveled to school, work, or home over the past %d days."</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d days."</item>
+        <item quantity="one">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d day."</item>
+        <item quantity="two">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d days."</item>
+        <item quantity="few">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d days."</item>
+        <item quantity="many">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d days."</item>
+        <item quantity="other">"Based on the types of apps you've used and the websites you've visited in Samsung Internet over the past %d days."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">"Based on the places you've spent time in often over the last %d days."</item>
+        <item quantity="one">"Based on the places you've spent time in often over the last %d day."</item>
+        <item quantity="two">"Based on the places you've spent time in often over the last %d days."</item>
+        <item quantity="few">"Based on the places you've spent time in often over the last %d days."</item>
+        <item quantity="many">"Based on the places you've spent time in often over the last %d days."</item>
+        <item quantity="other">"Based on the places you've spent time in often over the last %d days."</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">"Based on the apps and settings you've used the most in the last %d days."</item>
+        <item quantity="one">"Based on the apps and settings you've used the most in the last %d day."</item>
+        <item quantity="two">"Based on the apps and settings you've used the most in the last %d days."</item>
+        <item quantity="few">"Based on the apps and settings you've used the most in the last %d days."</item>
+        <item quantity="many">"Based on the apps and settings you've used the most in the last %d days."</item>
+        <item quantity="other">"Based on the apps and settings you've used the most in the last %d days."</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">Based on when you started and stopped using your phone over the past %d days.</item>
+        <item quantity="one">Based on when you started and stopped using your phone over the past %d day.</item>
+        <item quantity="two">Based on when you started and stopped using your phone over the past %d days.</item>
+        <item quantity="few">Based on when you started and stopped using your phone over the past %d days.</item>
+        <item quantity="many">Based on when you started and stopped using your phone over the past %d days.</item>
+        <item quantity="other">Based on when you started and stopped using your phone over the past %d days.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">Based on when you started and stopped using your tablet in the past %d days.</item>
+        <item quantity="one">Based on when you started and stopped using your tablet in the past %d day.</item>
+        <item quantity="two">Based on when you started and stopped using your tablet in the past %d days.</item>
+        <item quantity="few">Based on when you started and stopped using your tablet in the past %d days.</item>
+        <item quantity="many">Based on when you started and stopped using your tablet in the past %d days.</item>
+        <item quantity="other">Based on when you started and stopped using your tablet in the past %d days.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Du musst mindestens %d Jahr alt sein, um den personalisierten Dienst zu verwenden.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Du musst mindestens %d Jahre alt sein, um den personalisierten Dienst zu verwenden.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d Ereignistyp im Kalender</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d Ereignistypen im Kalender</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zuhause und %d anderer häufig besuchter Ort identifiziert</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Zuhause und %d andere häufig besuchte Orte identifiziert</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d häufig besuchter Ort identifiziert</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d häufig besuchte Orte identifiziert</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d neue Benachrichtigung</item>
+        <item quantity="other">%d neue Benachrichtigungen</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der Workout-Daten, der App-Nutzung und der Geräteverbindungen über den letzten %d Tag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Workout-Daten, der App-Nutzung und der Geräteverbindungen über die letzten %d Tage.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage des Zeitpunkts, an dem du über den letzten %d Tag zur Schule, zur Arbeit oder nach Hause unterwegs warst.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Zeitpunkte, an denen du über die letzten %d Tage zur Schule, zur Arbeit oder nach Hause unterwegs warst.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der App-Typen, die du über den letzten %d Tag verwendet hast und der Webseiten, die du in Samsung Internet besucht hast.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der App-Typen, die du über die letzten %d Tage verwendet hast und der Webseiten, die du in Samsung Internet besucht hast.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der Orte, an denen du am letzten %d Tag häufig Zeit verbracht hast.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Orte, an denen du in den letzten %d Tagen häufig Zeit verbracht hast.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der Apps und Einstellungen, die du am letzten %d Tag verwendet hast.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Apps und Einstellungen, die du in den letzten %d Tagen verwendet hast.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der Zeitpunkte, an denen du über den letzten %d Tag deine Telefonnutzung begonnen und beendet hast.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Zeitpunkte, an denen du über die letzten %d Tage deine Telefonnutzung begonnen und beendet hast.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Auf Grundlage der Zeitpunkte, an denen du am letzten %d Tag deine Tablet-Nutzung begonnen und beendet hast.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Auf Grundlage der Zeitpunkte, an denen du in den letzten %d Tagen deine Tablet-Nutzung begonnen und beendet hast.</item>
+    </plurals>
+</resources>

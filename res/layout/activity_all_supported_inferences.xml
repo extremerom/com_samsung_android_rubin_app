@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView android:background="@color/round_and_bgcolor" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/main_description" android:text="@string/supported_inference_main_description" style="@style/all_supported_inferences_main_desc" />
+        <FrameLayout android:id="@id/all_supported_inferences_fragment_view" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/winset_frame_layout_margin_start_end" android:layout_marginEnd="@dimen/winset_frame_layout_margin_start_end" />
+    </LinearLayout>
+</com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView>

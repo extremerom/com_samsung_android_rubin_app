@@ -1,0 +1,894 @@
+@prefix cls: <http://www.s-knowledge.net/class/> .
+@prefix pro: <http://www.s-knowledge.net/property/> .
+@prefix rsc: <http://www.s-knowledge.net/resource/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+rsc:assistant pro:relationship_name "조수" ,
+                                   "보조원" ,
+                                   "비서" ,
+                                   "조교" ,
+                                   "어시스턴트" ,
+                                   "어시" ,
+                                   "보조" .
+
+rsc:boss pro:relationship_name "상사" ,
+                               "상관" ,
+                               "보스" .
+
+rsc:brother pro:relationship_name "형제" ,
+                                  "부라더" ,
+                                  "브로" ,
+                                  "브라더" ,
+                                  "brother" ,
+                                  "bro" .
+
+rsc:brother_of_mother pro:relationship_name "외삼촌" ,
+                                            "큰외삼촌",
+                                            "작은외삼촌",
+                                            "막내외삼촌",
+                                            "첫째외삼촌",
+                                            "둘째외삼촌",
+                                            "셋째외삼촌",
+                                            "큰 외삼촌",
+                                            "작은 외삼촌",
+                                            "막내 외삼촌",
+                                            "첫째 외삼촌",
+                                            "둘째 외삼촌",
+                                            "셋째 외삼촌",
+                                            "외숙부" ,
+                                            "외숙" .
+
+rsc:child pro:relationship_name "자녀" ,
+                                "내새끼" ,
+                                "자식" ,
+                                "아들딸" .
+
+rsc:close_person  pro:relationship_name "가까운 사람" .
+
+rsc:close_friend pro:relationship_name "친한 친구" ,
+                                       "절친" ,
+                                       "짱친" ,
+                                       "베프" ,
+                                       "찐친" ,
+                                       "베스트 프렌드" ,
+                                       "죽마고우" ,
+                                       "불알친구" .
+
+rsc:colleague pro:relationship_name "동료" ,
+                                    "직장 동료" ,
+                                    "동기" ,
+                                    "선배" ,
+                                    "후배" ,
+                                    "선임" ,
+                                    "후임" .
+
+rsc:cousin pro:relationship_name "사촌" ,
+                                 "사촌형제" ,
+                                 "종형제" ,
+                                 "고종사촌" ,
+                                 "이종사촌" ,
+                                 "외사촌" .
+
+rsc:daughter pro:relationship_name "딸" ,
+                                   "딸래미" ,
+                                   "우리딸" ,
+                                   "딸랑구",
+                                   "딸램" ,
+                                   "따님" ,
+                                   "공주" ,
+                                   "공주님" .
+
+rsc:daughter_in_law pro:relationship_name "며느리" ,
+                                          "새아가" ,
+                                          "새아기" ,
+                                          "며느라기" ,
+                                          "며늘아가" ,
+                                          "며늘아기" .
+
+rsc:domestic_partner pro:relationship_name "동거인" ,
+                                           "룸메" ,
+                                           "하메" ,
+                                           "룸메이트" ,
+                                           "하우스메이트" .
+
+rsc:elder_brother_me_female pro:relationship_name "오빠" ,
+                                                  "오라버니" ,
+                                                  "오라방" ,
+                                                  "오빠야" ,
+                                                  "옵하" ,
+                                                  "옵빠" ,
+                                                  "큰오빠" ,
+                                                  "작은오빠" ,
+                                                  "막내오빠" ,
+                                                  "첫째오빠" ,
+                                                  "둘째오빠" ,
+                                                  "셋째오빠" ,
+                                                  "큰 오빠" ,
+                                                  "작은 오빠" ,
+                                                  "막내 오빠" ,
+                                                  "첫째 오빠",
+                                                  "둘째 오빠" ,
+                                                  "셋째 오빠" .
+
+rsc:elder_brother_me_male pro:relationship_name "형" ,
+                                                "형님" ,
+                                                "행님" ,
+                                                "햄" ,
+                                                "형아" ,
+                                                "횽" ,
+                                                "큰형",
+                                                "작은형",
+                                                "막내형",
+                                                "첫째형",
+                                                "둘째형",
+                                                "셋째형",
+                                                "큰 형",
+                                                "작은 형",
+                                                "막내 형",
+                                                "첫째 형",
+                                                "둘째 형",
+                                                "셋째 형",
+                                                "큰형님",
+                                                "작은형님",
+                                                "막내형님",
+                                                "첫째형님",
+                                                "둘째형님",
+                                                "셋째형님",
+                                                "큰 형님",
+                                                "작은 형님",
+                                                "막내 형님",
+                                                "첫째 형님",
+                                                "둘째 형님",
+                                                "셋째 형님",
+                                                "횽아" ,
+                                                "엉아" .
+
+rsc:elder_brother_of_father pro:relationship_name "큰아버지" ,
+                                                  "백부님" ,
+                                                  "큰아버님" ,
+                                                  "백부" ,
+                                                  "큰아부지" ,
+                                                  "큰아빠" .
+
+rsc:elder_brother_of_husband pro:relationship_name "시숙" ,
+                                                   "아주버님" ,
+                                                   "아주버니" ,
+                                                   "시아주버니" ,
+                                                   "시아주버님" .
+
+rsc:elder_brother_of_wife pro:relationship_name "형님",
+                                                "큰형님",
+                                                "작은형님",
+                                                "막내형님",
+                                                "첫째형님",
+                                                "둘째형님",
+                                                "셋째형님",
+                                                "큰 형님",
+                                                "작은 형님",
+                                                "막내 형님",
+                                                "첫째 형님",
+                                                "둘째 형님",
+                                                "셋째 형님".
+
+rsc:elder_sister_me_female pro:relationship_name "언니" ,
+                                                 "언냐" ,
+                                                 "큰언니" ,
+                                                 "작은언니" ,
+                                                 "막내언니" ,
+                                                 "첫째언니" ,
+                                                 "둘째언니" ,
+                                                 "셋째언니" ,
+                                                 "큰 언니" ,
+                                                 "작은 언니" ,
+                                                 "막내 언니" ,
+                                                 "첫째 언니" ,
+                                                 "둘째 언니" ,
+                                                 "셋째 언니" ,
+                                                 "온니" .
+
+rsc:elder_sister_me_male pro:relationship_name "누나" ,
+                                               "누님" ,
+                                               "누이" ,
+                                               "큰누나" ,
+                                                "작은누나" ,
+                                                "막내누나" ,
+                                                "첫째누나" ,
+                                                "둘째누나" ,
+                                                "셋째누나" ,
+                                                "큰 누나" ,
+                                                "작은 누나" ,
+                                                "막내 누나" ,
+                                                "첫째 누나" ,
+                                                "둘째 누나" ,
+                                                "셋째 누나" .
+
+rsc:elder_sister_of_husband pro:relationship_name "시누이" ,
+                                                  "시누" ,
+                                                  "큰시누" ,
+                                                  "맏시누" ,
+                                                  "작은시누" ,
+                                                  "막내시누",
+                                                  "첫째시누",
+                                                  "둘째시누",
+                                                  "셋째시누",
+                                                  "큰 시누" ,
+                                                  "맏 시누" ,
+                                                  "작은 시누" ,
+                                                  "막내 시누",
+                                                  "첫째 시누",
+                                                  "둘째 시누",
+                                                  "셋째 시누",
+                                                  "형님" ,
+                                                  "큰형님" ,
+                                                  "작은형님" ,
+                                                  "막내형님" ,
+                                                  "첫째형님" ,
+                                                  "둘째형님" ,
+                                                  "셋째형님" ,
+                                                  "큰 형님" ,
+                                                  "작은 형님" ,
+                                                  "막내 형님" ,
+                                                  "첫째 형님" ,
+                                                  "둘째 형님" ,
+                                                  "셋째 형님" .
+
+rsc:elder_sister_of_wife pro:relationship_name "처형",
+                                             "큰처형",
+                                             "작은처형",
+                                             "막내처형",
+                                             "첫째처형",
+                                             "둘째처형",
+                                             "셋째처형",
+                                             "큰 처형",
+                                             "작은 처형",
+                                             "막내 처형",
+                                             "첫째 처형",
+                                             "둘째 처형",
+                                             "셋째 처형".
+
+
+rsc:family pro:relationship_name "가족" ,
+                                 "패밀리" .
+
+rsc:family_in_law pro:relationship_name "인척" ,
+                                        "연척" ,
+                                        "사돈" .
+
+rsc:family_of_husband pro:relationship_name "시가" ,
+                                            "시댁" ,
+                                            "시월드" ,
+                                            "시가족" ,
+                                            "시집" .
+
+rsc:family_of_wife pro:relationship_name  "처가" ,
+                                          "처가댁" ,
+                                          "처가집" ,
+                                          "처갓집" ,
+                                          "처월드" .
+
+rsc:family_of_father pro:relationship_name "친가" .
+
+rsc:family_of_mother pro:relationship_name "외가" ,
+                                           "외갓집" ,
+                                           "외가댁" .
+
+rsc:father pro:relationship_name "아버지" ,
+                                 "아부지" ,
+                                 "아빠" ,
+                                 "파더" ,
+                                 "아바마마" ,
+                                 "파파" ,
+                                 "대디",
+                                 "압빠",
+                                 "압쥐" ,
+                                 "Daddy" ,
+                                 "Dad" ,
+                                 "부친" .
+
+rsc:father_in_law_me_female pro:relationship_name "시아버지" ,
+                                                  "시아버님" ,
+                                                  "시부" ,
+                                                  "시아빠" ,
+                                                  "샵쥐" ,
+                                                  "시아부지" .
+
+rsc:father_in_law_me_male pro:relationship_name "장인어른" ,
+                                                "장인어르신" ,
+                                                "장인" .
+
+rsc:friend pro:relationship_name "친구" ,
+                                 "칭구",
+                                 "프렌" ,
+                                 "벗" ,
+                                 "프렌드" ,
+                                 "틴구" .
+
+rsc:grandchildren pro:relationship_name "손주" .
+
+rsc:granddaughter pro:relationship_name "손녀" ,
+                                        "손녀딸" ,
+                                        "손녀딸래미" ,
+                                        "여손" .
+
+rsc:grandfather pro:relationship_name "할아버지" ,
+                                      "할버지" ,
+                                      "할부지" ,
+                                      "조부" ,
+                                      "할아버님" ,
+                                      "조부님" ,
+                                      "그랜파" ,
+                                      "할배" .
+
+rsc:grandmother pro:relationship_name "할머니" ,
+                                      "할무이" ,
+                                      "할모니" ,
+                                      "할머님",
+                                      "할매" ,
+                                      "조모" ,
+                                      "조모님" ,
+                                      "그랜마" .
+
+rsc:grandparents pro:relationship_name "조부모님" ,
+                                       "조부모" ,
+                                       "대부모" ,
+                                       "왕부모" .
+
+rsc:grandson pro:relationship_name "손자" ,
+                                   "남손" .
+
+rsc:husband pro:relationship_name "남편" ,
+                                  "낭군" ,
+                                  "바깥양반" ,
+                                  "서방" ,
+                                  "서방님" ,
+                                  "신랑" ,
+                                  "남의편" ,
+                                  "남푠" ,
+                                  "허즈번" .
+
+rsc:husband_of_elder_sister_me_female pro:relationship_name "형부" ,
+                                                         "큰형부" ,
+                                                         "작은형부" ,
+                                                         "막내형부" ,
+                                                         "첫째형부" ,
+                                                         "둘째형부" ,
+                                                         "셋째형부" ,
+                                                         "큰 형부" ,
+                                                         "작은 형부" ,
+                                                         "막내 형부" ,
+                                                         "첫째 형부" ,
+                                                         "둘째 형부" ,
+                                                         "셋째 형부" .
+
+rsc:husband_of_elder_sister_me_male pro:relationship_name "매형" ,
+                                                        "큰매형" ,
+                                                        "작은매형" ,
+                                                        "막내매형" ,
+                                                        "첫째매형" ,
+                                                        "둘째매형" ,
+                                                        "셋째매형" ,
+                                                        "큰 매형" ,
+                                                        "작은 매형" ,
+                                                        "막내 매형" ,
+                                                        "첫째 매형" ,
+                                                        "둘째 매형" ,
+                                                        "셋째 매형" ,
+                                                        "자형" .
+
+rsc:husband_of_elder_sister_of_husband pro:relationship_name "시매부" ,
+                                                             "아주버니" ,
+                                                             "아주버님" ,
+                                                             "큰아주버님",
+                                                             "작은아주버님",
+                                                             "첫째아주버님",
+                                                             "둘째아주버님",
+                                                             "셋째아주버님",
+                                                             "큰 아주버님",
+                                                             "작은 아주버님",
+                                                             "첫째 아주버님",
+                                                             "둘째 아주버님",
+                                                             "셋째 아주버님".
+
+rsc:husband_of_elder_sister_of_wife pro:relationship_name "형님" ,
+                                                          "큰형님" ,
+                                                          "작은형님" ,
+                                                          "막내형님" ,
+                                                          "첫째형님" ,
+                                                          "둘째형님" ,
+                                                          "셋째형님" ,
+                                                          "큰 형님" ,
+                                                          "작은 형님" ,
+                                                          "막내 형님" ,
+                                                          "첫째 형님" ,
+                                                          "둘째 형님" ,
+                                                          "셋째 형님" .
+
+rsc:husband_of_sister_of_father pro:relationship_name "고모부" ,
+                                                      "큰고모부" ,
+                                                      "작은고모부" ,
+                                                      "막내고모부" ,
+                                                      "첫째고모부" ,
+                                                      "둘째고모부" ,
+                                                      "셋째고모부" ,
+                                                      "큰 고모부" ,
+                                                      "작은 고모부" ,
+                                                      "막내 고모부" ,
+                                                      "첫째 고모부" ,
+                                                      "둘째 고모부" ,
+                                                      "셋째 고모부" ,
+                                                      "고모부님" ,
+                                                      "고숙" .
+
+rsc:husband_of_sister_of_mother pro:relationship_name "이모부" ,
+                                                      "큰이모부" ,
+                                                      "작은이모부" ,
+                                                      "막내이모부" ,
+                                                      "첫째이모부" ,
+                                                      "둘째이모부" ,
+                                                      "셋째이모부" ,
+                                                      "큰 이모부" ,
+                                                      "작은 이모부" ,
+                                                      "막내 이모부" ,
+                                                      "첫째 이모부" ,
+                                                      "둘째 이모부" ,
+                                                      "셋째 이모부" ,
+                                                      "이모부님" ,
+                                                      "이숙" .
+
+rsc:husband_of_younger_sister_me_female pro:relationship_name "제부",
+                                                         "큰제부",
+                                                         "작은제부",
+                                                         "막내제부",
+                                                         "첫째제부",
+                                                         "둘째제부",
+                                                         "셋째제부",
+                                                         "큰 제부",
+                                                         "작은 제부",
+                                                         "막내 제부",
+                                                         "첫째 제부",
+                                                         "둘째 제부",
+                                                         "셋째 제부".
+
+rsc:husband_of_younger_sister_me_male pro:relationship_name "매제" ,
+                                                            "큰매제" ,
+                                                            "작은매제" ,
+                                                            "막내매제" ,
+                                                            "첫째매제" ,
+                                                            "둘째매제" ,
+                                                            "셋째매제" ,
+                                                            "큰 매제" ,
+                                                            "작은 매제" ,
+                                                            "막내 매제" ,
+                                                            "첫째 매제" ,
+                                                            "둘째 매제" ,
+                                                            "셋째 매제" ,
+                                                            "계매" .
+
+rsc:husband_of_younger_sister_of_husband pro:relationship_name "서방님" ,
+                                                               "시매부" ,
+                                                               "시매부님" .
+
+rsc:husband_of_younger_sister_of_wife pro:relationship_name "동서",
+                                                             "큰동서",
+                                                             "작은동서",
+                                                             "막내동서",
+                                                             "첫째동서",
+                                                             "둘째동서",
+                                                             "셋째동서",
+                                                             "큰 동서",
+                                                             "작은 동서",
+                                                             "막내 동서",
+                                                             "첫째 동서",
+                                                             "둘째 동서",
+                                                             "셋째 동서".
+
+rsc:manager pro:relationship_name "관리자" ,
+                                  "매니저" ,
+                                  "관리인" .
+
+rsc:maternal_granddaughter pro:relationship_name "외손녀" ,
+                                                 "외손녀딸" .
+
+rsc:maternal_grandfather pro:relationship_name "외조부" ,
+                                               "외할아버지" ,
+                                               "외할아버님" ,
+                                               "외조부님" ,
+                                               "외할부지",
+                                               "외할배" .
+
+rsc:maternal_grandmother pro:relationship_name "외조모" ,
+                                               "외할머니" ,
+                                               "외할머님" ,
+                                               "외조모님" ,
+                                               "외할무니" ,
+                                               "외할매" .
+
+rsc:maternal_grandson pro:relationship_name "외손자" .
+
+rsc:mother pro:relationship_name "어머니" ,
+                                 "어무니" ,
+                                 "엄마" ,
+                                 "Mommy" ,
+                                 "Mom" ,
+                                 "마미" ,
+                                 "모친" ,
+                                 "맘" ,
+                                 "어무이" ,
+                                 "어마마마" ,
+                                 "엄니" ,
+                                 "오마니" ,
+                                 "마덜" .
+
+
+rsc:mother_in_law_me_female pro:relationship_name "시어머니" ,
+                                                  "시모" ,
+                                                  "시어머님" ,
+                                                  "시엄니" ,
+                                                  "셤니" ,
+                                                  "시엄마" ,
+                                                  "시어무이" .
+
+rsc:mother_in_law_me_male pro:relationship_name "장모님" ,
+                                                "장모" ,
+                                                "처모" .
+
+rsc:nephew pro:relationship_name "조카" ,
+                                 "조카둥이" ,
+                                 "조카님" .
+
+rsc:niece pro:relationship_name "조카딸" ,
+                                "조카 딸" ,
+                                "질녀".
+
+rsc:parents pro:relationship_name "부모님" ,
+                                  "부모" ,
+                                  "엄빠" ,
+                                  "양친" ,
+                                  "엄마빠" .
+
+rsc:partner pro:relationship_name "파트너" ,
+                                  "동업자" .
+
+rsc:paternal_granddaughter pro:relationship_name "친손녀" ,
+                                                 "친손녀딸" .
+
+rsc:paternal_grandfather pro:relationship_name "조부" ,
+                                               "친할아버지" ,
+                                               "친할아버님" ,
+                                               "친조부" ,
+                                               "조부님" .
+
+rsc:paternal_grandmother pro:relationship_name "조모" ,
+                                               "친할머니" ,
+                                               "친할머님" ,
+                                               "친조모" ,
+                                               "조모님" .
+
+rsc:paternal_grandson pro:relationship_name "친손자" .
+
+rsc:reference pro:relationship_name "추천인" .
+
+rsc:relative pro:relationship_name "친지" ,
+                                   "친척" .
+
+rsc:sibling pro:relationship_name "형제자매" ,
+                                  "남매" ,
+                                  "오누이" .
+
+rsc:sister pro:relationship_name "자매" ,
+                                 "누이" ,
+                                 "씨스터" ,
+                                 "여형제" .
+
+rsc:sister_of_father pro:relationship_name "고모" ,
+                                           "큰고모" ,
+                                           "작은고모" ,
+                                           "고모님" .
+
+rsc:sister_of_mother pro:relationship_name "이모" ,
+                                           "큰이모" ,
+                                           "작은이모" ,
+                                           "막내이모" ,
+                                           "첫째이모" ,
+                                           "둘째이모" ,
+                                           "셋째이모" ,
+                                           "큰 이모" ,
+                                           "작은 이모" ,
+                                           "막내 이모" ,
+                                           "첫째 이모" ,
+                                           "둘째 이모" ,
+                                           "셋째 이모" ,
+                                           "큰이모님" ,
+                                           "작은이모님" ,
+                                           "막내이모님" ,
+                                           "첫째이모님" ,
+                                           "둘째이모님" ,
+                                           "셋째이모님" ,
+                                           "큰 이모님" ,
+                                           "작은 이모님" ,
+                                           "막내 이모님" ,
+                                           "첫째 이모님" ,
+                                           "둘째 이모님" ,
+                                           "셋째 이모님" .
+
+rsc:son pro:relationship_name "아들" ,
+                            "큰아들" ,
+                            "작은아들",
+                            "막내아들",
+                            "첫째아들",
+                            "둘째아들" ,
+                            "셋째아들" ,
+                            "큰 아들" ,
+                            "작은 아들",
+                            "막내 아들",
+                            "첫째 아들",
+                            "둘째 아들" ,
+                            "셋째 아들" ,
+                            "우리아들" ,
+                            "아들래미" ,
+                            "Son" ,
+                            "아들램" ,
+                            "아드님" ,
+                            "아들놈" ,
+                            "왕자님" ,
+                            "왕자" .
+
+rsc:son_in_law pro:relationship_name "사위" ,
+                                     "큰사위" ,
+                                     "작은사위" ,
+                                     "막내사위" ,
+                                     "첫째사위" ,
+                                     "둘째사위" ,
+                                     "셋째사위" ,
+                                     "큰 사위" ,
+                                     "작은 사위" ,
+                                     "막내 사위" ,
+                                     "첫째 사위" ,
+                                     "둘째 사위" ,
+                                     "셋째 사위" .
+
+rsc:spouse pro:relationship_name "배우자" ,
+                                 "자기" ,
+                                 "여보" ,
+                                 "여봉" ,
+                                 "반려자" ,
+                                 "배필" .
+
+rsc:wife pro:relationship_name "아내" ,
+                               "마눌" ,
+                               "부인" ,
+                               "색시" ,
+                               "신부" ,
+                               "마누라" ,
+                               "안사람" ,
+                               "집사람" ,
+                               "와이프" .
+
+rsc:wife_of_brother_of_mother pro:relationship_name "외숙모" ,
+                                                    "큰외숙모" ,
+                                                    "작은외숙모" ,
+                                                    "막내외숙모" ,
+                                                    "첫째외숙모" ,
+                                                    "둘째외숙모" ,
+                                                    "셋째외숙모" ,
+                                                    "큰 외숙모" ,
+                                                    "작은 외숙모" ,
+                                                    "막내 외숙모" ,
+                                                    "첫째 외숙모" ,
+                                                    "둘째 외숙모" ,
+                                                    "셋째 외숙모" ,
+                                                    "외숙모님" .
+
+rsc:wife_of_elder_brother_me_female pro:relationship_name "새언니" ,
+                                                          "올케언니" ,
+                                                          "올케",
+                                                          "큰올케",
+                                                          "작은올케",
+                                                          "막내올케",
+                                                          "첫째올케",
+                                                          "둘째올케",
+                                                          "셋째올케",
+                                                          "큰 올케",
+                                                          "작은 올케",
+                                                          "막내 올케",
+                                                          "첫째 올케",
+                                                          "둘째 올케",
+                                                          "셋째 올케" .
+
+rsc:wife_of_elder_brother_me_male pro:relationship_name "형수님" ,
+                                                        "아주머님" ,
+                                                        "형수" ,
+                                                        "큰형수" ,
+                                                        "작은형수" ,
+                                                        "막내형수" ,
+                                                        "첫째형수" ,
+                                                        "둘째형수" ,
+                                                        "셋째형수" ,
+                                                        "큰 형수" ,
+                                                        "작은 형수" ,
+                                                        "막내 형수" ,
+                                                        "첫째 형수" ,
+                                                        "둘째 형수" ,
+                                                        "셋째 형수" ,
+                                                        "큰형수님" ,
+                                                        "작은형수님" ,
+                                                        "막내형수님" ,
+                                                        "첫째형수님" ,
+                                                        "둘째형수님" ,
+                                                        "셋째형수님" ,
+                                                        "큰 형수님" ,
+                                                        "작은 형수님" ,
+                                                        "막내 형수님" ,
+                                                        "첫째 형수님" ,
+                                                        "둘째 형수님" ,
+                                                        "셋째 형수님" ,
+                                                        "아주머니" .
+
+rsc:wife_of_elder_brother_of_father pro:relationship_name "백모" ,
+                                                          "백모님" ,
+                                                          "큰어머니" ,
+                                                          "큰어머님" ,
+                                                          "큰엄마" .
+
+rsc:wife_of_elder_brother_of_husband pro:relationship_name "동서" ,
+                                                           "형님" ,
+                                                           "큰형님" ,
+                                                           "작은형님" ,
+                                                           "막내형님" ,
+                                                           "첫째형님" ,
+                                                           "둘째형님" ,
+                                                           "셋째형님" ,
+                                                           "큰 형님" ,
+                                                           "작은 형님" ,
+                                                           "막내 형님" ,
+                                                           "첫째 형님" ,
+                                                           "둘째 형님" ,
+                                                           "셋째 형님" .
+
+
+rsc:wife_of_elder_brother_of_wife pro:relationship_name "아주머니" ,
+                                                        "아주머님" .
+
+rsc:wife_of_younger_brother_me_female pro:relationship_name "올케" ,
+                                                           "큰올케",
+                                                           "작은올케",
+                                                           "막내올케",
+                                                           "첫째올케",
+                                                           "둘째올케",
+                                                           "셋째올케",
+                                                           "큰 올케",
+                                                           "작은 올케",
+                                                           "막내 올케",
+                                                           "첫째 올케",
+                                                           "둘째 올케",
+                                                           "셋째 올케".
+
+rsc:wife_of_younger_brother_me_male pro:relationship_name "계수" ,
+                                                          "계수씨" ,
+                                                          "제수" ,
+                                                          "제수씨" ,
+                                                          "제부" .
+
+rsc:wife_of_younger_brother_of_father pro:relationship_name "숙모" ,
+                                                            "숙모님" ,
+                                                            "작은어머니" ,
+                                                            "작은어머님" ,
+                                                            "작은엄마" .
+
+rsc:wife_of_younger_brother_of_husband pro:relationship_name "동서" ,
+                                                             "큰동서",
+                                                             "작은동서",
+                                                             "막내동서",
+                                                             "첫째동서",
+                                                             "둘째동서",
+                                                             "셋째동서",
+                                                             "큰 동서",
+                                                             "작은 동서",
+                                                             "막내 동서",
+                                                             "첫째 동서",
+                                                             "둘째 동서",
+                                                             "셋째 동서".
+
+rsc:wife_of_younger_brother_of_wife pro:relationship_name "처남댁",
+                                                        "큰처남댁",
+                                                        "작은처남댁",
+                                                        "막내처남댁",
+                                                        "첫째처남댁",
+                                                        "둘째처남댁",
+                                                        "셋째처남댁",
+                                                        "큰 처남댁",
+                                                        "작은 처남댁",
+                                                        "막내 처남댁",
+                                                        "첫째 처남댁",
+                                                        "둘째 처남댁",
+                                                        "셋째 처남댁".
+
+rsc:younger_brother pro:relationship_name "남동생" ,
+                                          "남동상" ,
+                                          "동생놈" .
+
+rsc:younger_brother_of_father pro:relationship_name "숙부" ,
+                                                    "숙부님" ,
+                                                    "작은아버님" ,
+                                                    "작은아버지" ,
+                                                    "작은아빠" ,
+                                                    "작은삼촌",
+                                                    "작은 삼촌",
+                                                    "삼촌" ,
+                                                    "삼춘" .
+
+rsc:younger_brother_of_husband pro:relationship_name "도련님" ,
+                                                     "서방님" ,
+                                                     "시숙" ,
+                                                     "시동생" .
+
+rsc:younger_brother_of_wife pro:relationship_name "처남",
+                                                "큰처남",
+                                                "작은처남",
+                                                "막내처남",
+                                                "첫째처남",
+                                                "둘째처남",
+                                                "셋째처남",
+                                                "큰 처남",
+                                                "작은 처남",
+                                                "막내 처남",
+                                                "첫째 처남",
+                                                "둘째 처남",
+                                                "셋째 처남".
+
+rsc:younger_sibling pro:relationship_name "동생",
+                                        "큰동생",
+                                        "작은동생",
+                                        "막내동생",
+                                        "첫째동생",
+                                        "둘째동생",
+                                        "셋째동생",
+                                        "큰 동생",
+                                        "작은 동생",
+                                        "막내 동생",
+                                        "첫째 동생",
+                                        "둘째 동생",
+                                        "셋째 동생".
+
+rsc:younger_sister pro:relationship_name "여동생" ,
+                                         "여동상" ,
+                                         "누이동생" .
+
+rsc:younger_sister_of_husband pro:relationship_name "시누" ,
+                                                    "시누이" ,
+                                                    "큰시누" ,
+                                                    "맏시누" ,
+                                                    "작은시누" ,
+                                                    "막내시누",
+                                                    "첫째시누",
+                                                    "둘째시누",
+                                                    "셋째시누",
+                                                    "큰 시누" ,
+                                                    "맏 시누" ,
+                                                    "작은 시누" ,
+                                                    "막내 시누",
+                                                    "첫째 시누",
+                                                    "둘째 시누",
+                                                    "셋째 시누",
+                                                    "아가씨" ,
+                                                    "아기씨" ,
+                                                    "애기씨" .
+
+rsc:younger_sister_of_wife pro:relationship_name "처제",
+                                                "큰처제",
+                                                "작은처제",
+                                                "막내처제",
+                                                "첫째처제",
+                                                "둘째처제",
+                                                "셋째처제",
+                                                "큰 처제",
+                                                "작은 처제",
+                                                "막내 처제",
+                                                "첫째 처제",
+                                                "둘째 처제",
+                                                "셋째 처제" .
+

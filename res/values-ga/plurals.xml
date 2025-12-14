@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Ní foláir duit a bheith %d bhliain d'aois ar a laghad leis an tSeirbhís Saincheaptha a úsáid."</item>
+        <item quantity="two">"Ní foláir duit a bheith %d bhliain d'aois ar a laghad leis an tSeirbhís Saincheaptha a úsáid."</item>
+        <item quantity="few">"Ní foláir duit a bheith %d bliana d'aois ar a laghad leis an tSeirbhís Saincheaptha a úsáid."</item>
+        <item quantity="many">"Ní foláir duit a bheith %d mbliana d'aois ar a laghad leis an tSeirbhís Saincheaptha a úsáid."</item>
+        <item quantity="other">"Ní foláir duit a bheith %d bliain d'aois ar a laghad leis an tSeirbhís Saincheaptha a úsáid."</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d chineál imeachta ar fhéilire</item>
+        <item quantity="two">%d chineál imeachta ar fhéilire</item>
+        <item quantity="few">%d chineál imeachta ar fhéilire</item>
+        <item quantity="many">%d gcineál imeachta ar fhéilire</item>
+        <item quantity="other">%d cineál imeachta ar fhéilire</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Baile agus %d áit eile a dtugtar cuairt uirthi go minic aitheanta</item>
+        <item quantity="two">Baile agus %d áit eile a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="few">Baile agus %d áit eile a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="many">Baile agus %d n-áit eile a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="other">Baile agus %d áit eile a dtugtar cuairt orthu go minic aitheanta</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d áit a dtugtar cuairt uirthi go minic aitheanta</item>
+        <item quantity="two">%d áit a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="few">%d áit a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="many">%d n-áit a dtugtar cuairt orthu go minic aitheanta</item>
+        <item quantity="other">%d áit a dtugtar cuairt orthu go minic aitheanta</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bunaithe ar shonraí babhta traenála, úsáid feidhmchlár, agus naisc ghléis le %d lá anuas.</item>
+        <item quantity="two">Bunaithe ar shonraí babhta traenála, úsáid feidhmchlár, agus naisc ghléis le %d lá anuas.</item>
+        <item quantity="few">Bunaithe ar shonraí babhta traenála, úsáid feidhmchlár, agus naisc ghléis le %d lá anuas.</item>
+        <item quantity="many">Bunaithe ar shonraí babhta traenála, úsáid feidhmchlár, agus naisc ghléis le %d lá anuas.</item>
+        <item quantity="other">Bunaithe ar shonraí babhta traenála, úsáid feidhmchlár, agus naisc ghléis le %d lá anuas.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bunaithe ar an uair a thaistil tú ar scoil, chun na hoibre, nó abhaile le %d lá anuas.</item>
+        <item quantity="two">Bunaithe ar an uair a thaistil tú ar scoil, chun na hoibre, nó abhaile le %d lá anuas.</item>
+        <item quantity="few">Bunaithe ar an uair a thaistil tú ar scoil, chun na hoibre, nó abhaile le %d lá anuas.</item>
+        <item quantity="many">Bunaithe ar an uair a thaistil tú ar scoil, chun na hoibre, nó abhaile le %d lá anuas.</item>
+        <item quantity="other">Bunaithe ar an uair a thaistil tú ar scoil, chun na hoibre, nó abhaile le %d lá anuas.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Bunaithe ar na cineálacha feidhmchlár a d'úsáid tú agus ar na láithreáin gréasáin ar ghabh tú chucu in Idirlíon Samsung le %d lá anuas."</item>
+        <item quantity="two">"Bunaithe ar na cineálacha feidhmchlár a d'úsáid tú agus ar na láithreáin gréasáin ar ghabh tú chucu in Idirlíon Samsung le %d lá anuas."</item>
+        <item quantity="few">"Bunaithe ar na cineálacha feidhmchlár a d'úsáid tú agus ar na láithreáin gréasáin ar ghabh tú chucu in Idirlíon Samsung le %d lá anuas."</item>
+        <item quantity="many">"Bunaithe ar na cineálacha feidhmchlár a d'úsáid tú agus ar na láithreáin gréasáin ar ghabh tú chucu in Idirlíon Samsung le %d lá anuas."</item>
+        <item quantity="other">"Bunaithe ar na cineálacha feidhmchlár a d'úsáid tú agus ar na láithreáin gréasáin ar ghabh tú chucu in Idirlíon Samsung le %d lá anuas."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bunaithe ar na háiteanna inar chaith tú am go minic le %d lá anuas.</item>
+        <item quantity="two">Bunaithe ar na háiteanna inar chaith tú am go minic le %d lá anuas.</item>
+        <item quantity="few">Bunaithe ar na háiteanna inar chaith tú am go minic le %d lá anuas.</item>
+        <item quantity="many">Bunaithe ar na háiteanna inar chaith tú am go minic le %d lá anuas.</item>
+        <item quantity="other">Bunaithe ar na háiteanna inar chaith tú am go minic le %d lá anuas.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Bunaithe ar na feidhmchláir agus na socruithe is mó úsáid agat le %d lá anuas.</item>
+        <item quantity="two">Bunaithe ar na feidhmchláir agus na socruithe is mó úsáid agat le %d lá anuas.</item>
+        <item quantity="few">Bunaithe ar na feidhmchláir agus na socruithe is mó úsáid agat le %d lá anuas.</item>
+        <item quantity="many">Bunaithe ar na feidhmchláir agus na socruithe is mó úsáid agat le %d lá anuas.</item>
+        <item quantity="other">Bunaithe ar na feidhmchláir agus na socruithe is mó úsáid agat le %d lá anuas.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as d'fhón a úsáid le %d lá anuas."</item>
+        <item quantity="two">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as d'fhón a úsáid le %d lá anuas."</item>
+        <item quantity="few">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as d'fhón a úsáid le %d lá anuas."</item>
+        <item quantity="many">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as d'fhón a úsáid le %d lá anuas."</item>
+        <item quantity="other">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as d'fhón a úsáid le %d lá anuas."</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as do tháibléad a úsáid le %d lá anuas."</item>
+        <item quantity="two">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as do tháibléad a úsáid le %d lá anuas."</item>
+        <item quantity="few">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as do tháibléad a úsáid le %d lá anuas."</item>
+        <item quantity="many">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as do tháibléad a úsáid le %d lá anuas."</item>
+        <item quantity="other">"Bunaithe ar an uair a thosaigh tú agus a d'éirigh tú as do tháibléad a úsáid le %d lá anuas."</item>
+    </plurals>
+</resources>

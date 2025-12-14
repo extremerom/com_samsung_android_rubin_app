@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">O nílò láti jẹ́ ó kéré tán ọmọ ọdún %d láti lo Àkànṣe Ipèsè.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Oríṣìíríṣìí àwọn ìṣẹ̀lẹ̀ %d lórí kàlẹ́ńdà</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ilé ati àwọn ibi miran %d tí a ṣàwárí tí a sì máa ń sábà ṣèbẹ̀wò sí lọ́pọ̀ ìgbà</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">A ti sàwárí àwọn ibi %d tí a máa ń sábà ṣèbẹ̀wò sí</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí data eré ìdárayá, áàpù lílo, àti àwọn ìsopọ̀ ẹ̀rọ ní ọjọ́ %d tó kọjá.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí ìgbà tí o ti rìnrìn àjò lọ sí iléèwé, ibi iṣẹ́, tàbí ilé ní ọjọ́ %d tó kọjá.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí irú àwọn áàpù tí o ti lò àti àwọn ibùdó ìtàkùn ayélujára tí o ti ṣèbẹ̀wò sí lórí íńtánẹ́ẹ̀tì Samsung ní ọjọ́ %d tí ó kọjá.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí àwọn ibi tí o ti lo àkókò rẹ ní ọ̀pọ̀lọpọ̀ ìgbà ní àwọn ọjọ́ %d ṣẹ́yìn.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí àwọn áàpù àti àwọn ààtò tí o ti lò jùlọ ní ọjọ́ %d sẹ́yìn.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí ìgbà tí o bẹ̀rẹ̀ àti ìgbà tí o dáwọ́ lílo fóònù rẹ dúró ní ọjọ́ %d tó kọjá.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">N/A</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ó dá lórí ìgbà tí o bẹ̀rẹ̀ àti ìgbà tí o dáwọ́ lílo tábúlẹ́ẹ̀tì rẹ dúró ní ọjọ́ %d tó kọjá.</item>
+    </plurals>
+</resources>

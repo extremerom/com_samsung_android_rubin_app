@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.rubin.app.ui.view.RoundedCornerLinearLayout android:id="@id/used_inference_layout" style="@style/Winset.UsedInference.List.Layout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.AppCompatImageView android:id="@id/used_inference_icon" style="@style/Winset.UsedInference.List.Icon" />
+    <LinearLayout android:orientation="vertical" style="@style/Winset.UsedInference.List.TextBox">
+        <TextView android:id="@id/used_inference_title" style="@style/Winset.UsedInference.List.Title" />
+        <TextView android:id="@id/used_inference_summary" style="@style/Winset.UsedInference.List.Summary" />
+    </LinearLayout>
+</com.samsung.android.rubin.app.ui.view.RoundedCornerLinearLayout>

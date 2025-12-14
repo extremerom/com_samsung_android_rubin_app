@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Je moet ten minste %d jaar zijn om de Aangepaste service te gebruiken.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Je moet ten minste %d jaar zijn om de Aangepaste service te gebruiken.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gebeurtenistype in de agenda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d gebeurtenistypen in de agenda</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Thuis en %d andere veelbezochte plaats geïdentificeerd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Thuis en %d andere veelbezochte plaatsen geïdentificeerd</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d veelbezochte plaats geïdentificeerd</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d veelbezochte plaatsen geïdentificeerd</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d nieuwe melding</item>
+        <item quantity="other">%d nieuwe meldingen</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van trainingsgegevens, app-gebruik en apparaatverbindingen gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van trainingsgegevens, app-gebruik en apparaatverbindingen gedurende de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van wanneer je naar school, werk of thuis bent gereisd gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van wanneer je naar school, werk of thuis bent gereisd gedurende de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van de soorten apps die je hebt gebruikt en de websites die je op Samsung Internet hebt bezocht gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van de soorten apps die je hebt gebruikt en de websites die je op Samsung Internet hebt bezocht gedurende de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van de plaatsen waar je veel tijd hebt besteed gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van de plaatsen waar je veel tijd hebt besteed gedurende de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van de apps en instellingen die je het meeste hebt gebruikt in de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van de apps en instellingen die je het meeste hebt gebruikt in de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van wanneer je bent begonnen en gestopt met het gebruiken van je telefoon gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van wanneer je bent begonnen en gestopt met het gebruiken van je telefoon gedurende de afgelopen %d dagen.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Op basis van wanneer je bent begonnen en gestopt met het gebruiken van je tablet gedurende de afgelopen %d dag.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Op basis van wanneer je bent begonnen en gestopt met het gebruiken van je tablet gedurende de afgelopen %d dagen.</item>
+    </plurals>
+</resources>

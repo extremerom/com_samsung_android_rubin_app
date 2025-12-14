@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Unahitaji kuwa na angalau umri wa miaka %d ili utumie Huduma ya Kuweka Mapendeleo.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Unahitaji kuwa na angalau umri wa miaka %d ili kutumia Huduma ya Ubinafsishaji.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aina %d ya tukio kwenye kalenda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Aina %d za matukio kwenye kalenda</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nyumbani na eneo lingine %d linalotembelewa mara kwa mara imetambuliwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Nyumbani na maeneo mengine %d yanayotembelewa mara kwa mara yametambuliwa</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Eneo %d linalotembelewa mara kwa mara limetambuliwa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Maeneo %d yanayotembelewa mara kwa mara yametambuliwa</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">Arifa %d mpya</item>
+        <item quantity="other">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na data ya mazoezi, matumizi ya programu, na miunganisho ya kifaa katika siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na data ya mazoezi, matumizi ya programu, na miunganisho ya kifaa katika siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na wakati uliposafiri kwenda shuleni, kazini, au nyumbani katika siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na wakati uliposafiri kwenda shuleni, kazini, au nyumbani katika siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na aina za programu ulizotumia na tovuti ambazo umetembelea katika Samsung Internet kwa siku %d zilizopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na aina za programu ulizotumia na tovuti ambazo umetembelea katika Samsung Internet kwa siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na maeneo uliyokaa mara kwa mara kwa siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na maeneo uliyokaa mara kwa mara kwa siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na programu na mipangilio ambayo umetumia zaidi katika siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na programu na mipangilio ambayo umetumia zaidi katika siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na wakati ulipoanza na kuacha kutumia simu yako katika siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na wakati ulipoanza na kuacha kutumia simu yako katika siku %d zilizopita.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kulingana na wakati ulipoanza na kuacha kutumia tableti yako katika siku %d iliyopita.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kulingana na wakati ulipoanza na kuacha kutumia kishikwambi chako katika siku %d zilizopita.</item>
+    </plurals>
+</resources>

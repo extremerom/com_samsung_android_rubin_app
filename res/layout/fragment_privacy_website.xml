@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView android:background="@color/round_and_bgcolor" android:layout_width="match_parent" android:layout_height="match_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/tv_description" style="@style/Winset.Description" />
+        <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="1.0" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:id="@id/button_privacy_website" android:text="@string/str_samsung_privacy_website" style="@style/Winset.Button.Privacy.Website" />
+    </LinearLayout>
+</com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView>

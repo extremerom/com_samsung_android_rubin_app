@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Laýyklama hyzmatyny ulanmak üçin, siz azyndan %d ýaşan bolmaly.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Laýyklama hyzmatyny ulanmak üçin, siz azyndan %d ýaşan bolmaly.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Senenamada %d çäre görnüşi</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Senenamada %d çäre görnüşi</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Öý we %d başga ýygy barylan ýer anyklanyldy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Öý we %d başga ýygy barylan ýer anyklanyldy</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ýygy barylan ýer anyklanyldy</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d ýygy barylan ýer anyklanyldy</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamyndaky türgenleşik maglumatyna, programma ulanylyşyna we enjam birikmelerine esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamyndaky türgenleşik maglumatyna, programma ulanylyşyna we enjam birikmelerine esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda mekdebe, işe ýa-da öýe giden wagtyňyza esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda mekdebe, işe ýa-da öýe giden wagtyňyza esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda Samsung Internet-de ulanan programma görnüşleriňize we giren websaýtlaryňyza esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda Samsung Internet-de ulanan programma görnüşleriňize we giren websaýtlaryňyza esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda köp wagt sarp eden ýerleriňize esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda köp wagt sarp eden ýerleriňize esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda iň köp ulanan programmalaryňyza we sazlamalaryňyza esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda iň köp ulanan programmalaryňyza we sazlamalaryňyza esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda telefonyňyzy ulanmaga başlan we ony bes eden wagtyňyza esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda telefonyňyzy ulanmaga başlan we ony bes eden wagtyňyza esaslanýar.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Geçen %d günüň dowamynda planşetiňizi ulanmaga başlan we ony bes eden wagtyňyza esaslanýar.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Geçen %d günüň dowamynda planşetiňizi ulanmaga başlan we ony bes eden wagtyňyza esaslanýar.</item>
+    </plurals>
+</resources>

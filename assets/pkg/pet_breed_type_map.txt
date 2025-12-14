@@ -1,0 +1,38 @@
+goldfish,fish
+horses,animals
+cows,animals
+rabbits,animals
+parrots,birds
+abyssinian cats,cats
+bombay cats,cats
+maine coon cats,cats
+manx cats,cats
+persian cats,cats
+ragdoll cats,cats
+sphynx cats,cats
+thai cats,cats
+tortoiseshell cats,cats
+alaskan malamutes and huskies,dogs
+basset hounds,dogs
+beagles,dogs
+border collies,dogs
+boston terriers,dogs
+boxers,dogs
+bull terriers,dogs
+bulldogs,dogs
+chihuahuas,dogs
+chows,dogs
+dachshunds,dogs
+dalmatians,dogs
+german shepherds,dogs
+golden retrievers,dogs
+great Danes,dogs
+hounds,dogs
+labradors,dogs
+newfoundland dogs,dogs
+poodles,dogs
+pugs,dogs
+rhodesian ridgebacks,dogs
+rottweilers,dogs
+saint bernards,dogs
+staffordshire bull terriers,dogs

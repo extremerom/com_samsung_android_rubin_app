@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Θα πρέπει να είστε τουλάχιστον %d έτους για να χρησιμοποιήσετε την Υπηρεσία προσαρμογής.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Θα πρέπει να είστε τουλάχιστον %d ετών για να χρησιμοποιήσετε την Υπηρεσία προσαρμογής.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d τύπος συμβάντος στο ημερολόγιο</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d τύποι συμβάντων στο ημερολόγιο</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Αναγνωρίστηκε η οικία και %d ακόμα μέρος που επισκέπτεστε συχνά</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Αναγνωρίστηκε η οικία και %d ακόμα μέρη που επισκέπτεστε συχνά</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Αναγνωρίστηκε %d μέρος που επισκέπτεστε συχνά</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Αναγνωρίστηκαν %d μέρη που επισκέπτεστε συχνά</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d νέα ειδοποίηση</item>
+        <item quantity="other">%d νέες ειδοποιήσεις</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση τα δεδομένα άσκησης, τη χρήση εφαρμογών και τις συνδέσεις συσκευών κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση τα δεδομένα άσκησης, τη χρήση εφαρμογών και τις συνδέσεις συσκευών κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση το πότε κάνατε τη διαδρομή προς το σχολείο, την εργασία ή το σπίτι σας κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση το πότε κάνατε τη διαδρομή προς το σχολείο, την εργασία ή το σπίτι σας κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση τους τύπους των εφαρμογών που χρησιμοποιήσατε και τις τοποθεσίες web που επισκεφτήκατε στο Samsung Internet κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση τους τύπους των εφαρμογών που χρησιμοποιήσατε και τις τοποθεσίες web που επισκεφτήκατε στο Samsung Internet κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση τα μέρη που επισκεπτόσασταν συχνά κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση τα μέρη που επισκεπτόσασταν συχνά κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση τις εφαρμογές και τις ρυθμίσεις που χρησιμοποιήσατε περισσότερο την προηγούμενη %d ημέρα.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση τις εφαρμογές και τις ρυθμίσεις που χρησιμοποιήσατε περισσότερο τις προηγούμενες %d ημέρες.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση το πότε αρχίσατε και πότε σταματήσατε να χρησιμοποιείτε το τηλέφωνό σας κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση το πότε αρχίσατε και πότε σταματήσατε να χρησιμοποιείτε το τηλέφωνό σας κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Με βάση το πότε αρχίσατε και πότε σταματήσατε να χρησιμοποιείτε το tablet σας κατά τη διάρκεια της προηγούμενης %d ημέρας.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Με βάση το πότε αρχίσατε και πότε σταματήσατε να χρησιμοποιείτε το tablet σας κατά τη διάρκεια των προηγούμενων %d ημερών.</item>
+    </plurals>
+</resources>

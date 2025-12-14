@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">A Testreszabási szolgáltatás használatához legalább %d évesnek kell lennie.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">A Testreszabási szolgáltatás használatához legalább %d évesnek kell lennie.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d eseménytípus a naptárban</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d eseménytípus a naptárban</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Otthona és %d másik, gyakran felkeresett hely azonosítva</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Otthona és %d másik, gyakran felkeresett hely azonosítva</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d gyakran felkeresett hely azonosítva</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d gyakran felkeresett hely azonosítva</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d új értesítés</item>
+        <item quantity="other">%d új értesítés</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az elmúlt %d napi edzésadatok, alkalmazáshasználat és eszközkapcsolatok alapján.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az elmúlt %d napi edzésadatok, alkalmazáshasználat és eszközkapcsolatok alapján.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az alapján, hogy az elmúlt %d napban mikor utazott iskolába, munkába vagy haza.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az alapján, hogy az elmúlt %d napban mikor utazott iskolába, munkába vagy haza.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az Ön által az elmúlt %d napban használt alkalmazástípusok és a Samsung Interneten meglátogatott weboldalak alapján.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az Ön által az elmúlt %d napban használt alkalmazástípusok és a Samsung Interneten meglátogatott weboldalak alapján.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Azon helyek alapján, ahol az elmúlt %d napban gyakran tartózkodott.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Azon helyek alapján, ahol az elmúlt %d napban gyakran tartózkodott.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az elmúlt %d napban leggyakrabban használt alkalmazások és beállítások alapján.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az elmúlt %d napban leggyakrabban használt alkalmazások és beállítások alapján.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az alapján, hogy az elmúlt %d napban mikor kezdte el és mikor hagyta abba a telefon használatát.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az alapján, hogy az elmúlt %d napban mikor kezdte el és mikor hagyta abba a telefon használatát.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Az alapján, hogy az elmúlt %d napban mikor kezdte el és mikor hagyta abba a táblagép használatát.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Az alapján, hogy az elmúlt %d napban mikor kezdte el és mikor hagyta abba a táblagép használatát.</item>
+    </plurals>
+</resources>

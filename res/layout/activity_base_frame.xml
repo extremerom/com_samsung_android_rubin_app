@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/base_frame_layout" android:background="@color/round_and_bgcolor" android:fitsSystemWindows="true" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <androidx.appcompat.widget.Toolbar android:id="@id/tool_bar" style="@style/Winset.Toolbar" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_below="@id/tool_bar">
+        <LinearLayout android:orientation="horizontal" android:id="@id/white_space_left" android:background="@color/round_and_bgcolor" android:layout_width="wrap_content" android:layout_height="match_parent" />
+        <FrameLayout android:id="@id/fragment_frame" android:layout_width="match_parent" android:layout_height="match_parent" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/white_space_right" android:background="@color/round_and_bgcolor" android:layout_width="wrap_content" android:layout_height="match_parent" />
+    </LinearLayout>
+</RelativeLayout>

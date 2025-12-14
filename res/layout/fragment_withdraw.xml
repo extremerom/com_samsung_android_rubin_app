@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView android:background="@color/round_and_bgcolor" android:layout_width="match_parent" android:layout_height="match_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:text="@string/account_description" style="@style/Winset.Description" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeButton android:layout_gravity="center_horizontal" android:id="@id/button_withdraw" android:layout_marginTop="@dimen/winset_contained_button_body_margin_top" android:text="@string/cs_switch_text" style="@style/Winset.Button" />
+    </LinearLayout>
+</com.samsung.android.rubin.app.ui.view.RoundedCornerNestedScrollView>

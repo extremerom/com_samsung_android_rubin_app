@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kişiselleştirme Servisini kullanabilmek için en az %d yaşında olmanız gerekir.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Kişiselleştirme Servisini kullanabilmek için en az %d yaşında olmanız gerekir.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Takvimde %d tür etkinlik</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Takvimde %d tür etkinlik</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Ev ve diğer %d sık ziyaret edilen yer tanımlandı</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Ev ve diğer %d sık ziyaret edilen yer tanımlandı</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d sık ziyaret edilen yer tanımlandı</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d sık ziyaret edilen yer tanımlandı</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d yeni bildirim</item>
+        <item quantity="other">%d yeni bildirim</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d gündeki antrenman verilerine, uygulama kullanımına ve cihaz bağlantılarına dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d gündeki antrenman verilerine, uygulama kullanımına ve cihaz bağlantılarına dayanır.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d günde ne zaman okula, işe veya eve gittiğinize dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d günde ne zaman okula, işe veya eve gittiğinize dayanır.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">"Son %d günde kullandığınız uygulama ve Samsung Internet'te ziyaret ettiğiniz web sitesi türlerine dayanır."</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">"Son %d günde kullandığınız uygulama ve Samsung Internet'te ziyaret ettiğiniz web sitesi türlerine dayanır."</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d günde en sık vakit geçirdiğiniz yerlere dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d günde en sık vakit geçirdiğiniz yerlere dayanır.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d günde en çok kullandığınız uygulamalara ve ayarlara dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d günde en çok kullandığınız uygulamalara ve ayarlara dayanır.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d günde telefonunuzu ne zaman kullanmaya başladığınıza ve kullanmayı bıraktığınıza dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d günde telefonunuzu ne zaman kullanmaya başladığınıza ve kullanmayı bıraktığınıza dayanır.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Son %d günde tabletinizi ne zaman kullanmaya başladığınıza ve kullanmayı bıraktığınıza dayanır.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Son %d günde tabletinizi ne zaman kullanmaya başladığınıza ve kullanmayı bıraktığınıza dayanır.</item>
+    </plurals>
+</resources>

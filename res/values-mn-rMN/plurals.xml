@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Тохируулгын үйлчилгээг ашиглахад та дор хаяж %d настай байх хэрэгтэй.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Тохируулгын үйлчилгээг ашиглахад та дор хаяж %d настай байх хэрэгтэй.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d төрлийн арга хэмжээ хуанли дээр байна</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d төрлийн арга хэмжээ хуанли дээр байна</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Гэр болон %d бусад байнга зочилдог газрыг илрүүллээ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Гэр болон %d бусад байнга зочилдог газрыг илрүүллээ</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d байнга зочилдог газрыг илрүүллээ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d байнга зочилдог газрыг илрүүллээ</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Сүүлийн %d өдрийн дасгалын өгөгдөл, хэрэглүүрийн хэрэглээ болон төхөөрөмжийн холболтод үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Сүүлийн %d өдрийн дасгалын өгөгдөл, хэрэглүүрийн хэрэглээ болон төхөөрөмжийн холболтод үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны сүүлийн %d хоногийн турш хэзээ сургууль, ажил, гэр лүүгээ аялсан зэрэгт үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны сүүлийн %d хоногийн турш хэзээ сургууль, ажил, гэр лүүгээ аялсан зэрэгт үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Сүүлийн %d өдрийн турш Samsung Интернэтээр таны ашигласан хэрэглүүрүүд болон таны зочилсон вэбсайтууд дээр үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Сүүлийн %d өдрийн турш Samsung Интернэтээр таны ашигласан хэрэглүүрүүд болон таны зочилсон вэбсайтууд дээр үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны сүүлийн %d өдрийн турш ихэвчлэн цагийг өнгөрөөсөн газруудад үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны сүүлийн %d өдрийн турш ихэвчлэн цагийг өнгөрөөсөн газруудад үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны сүүлийн %d өдрийн турш хамгийн их ашигласан хэрэглүүрүүд болон тохиргоон дээр үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны сүүлийн %d өдрийн турш хамгийн их ашигласан хэрэглүүрүүд болон тохиргоон дээр үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны сүүлийн %d өдрийн турш утсаа хэзээ ашиглаж эхэлсэн, хэзээ больсон дээр үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны сүүлийн %d өдрийн турш утсаа хэзээ ашиглаж эхэлсэн, хэзээ больсон дээр үндэслэв.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны сүүлийн %d өдрийн турш таблетаа хэзээ ашиглаж эхэлсэн, хэзээ больсон дээр үндэслэв.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Таны сүүлийн %d өдрийн турш таблетаа хэзээ ашиглаж эхэлсэн, хэзээ больсон дээр үндэслэв.</item>
+    </plurals>
+</resources>

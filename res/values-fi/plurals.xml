@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sinun on oltava vähintään %d-vuotias, jotta voit käyttää Mukautuspalvelua.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sinun on oltava vähintään %d-vuotias, jotta voit käyttää Mukautuspalvelua.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d tyypin tapahtuma kalenterissa</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d erityyppistä tapahtumaa kalenterissa</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Koti ja %d muu paikka, jossa käydään usein, tunnistettu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Koti ja %d muuta paikkaa, joissa käydään usein, tunnistettu</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d paikka, jossa käydään usein, tunnistettu</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d paikkaa, joissa käydään usein, tunnistettu</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d uusi ilmoitus</item>
+        <item quantity="other">%d uutta ilmoitusta</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Viimeisen %d päivän harjoitustietojen, sovellusten käytön ja laiteyhteyksien mukaan.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Viimeisten %d päivän harjoitustietojen, sovellusten käytön ja laiteyhteyksien mukaan.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, milloin matkustit kouluun, töihin tai kotiin viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, milloin matkustit kouluun, töihin tai kotiin viimeisten %d päivän aikana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, minkä tyyppisiä sovelluksia olet käyttänyt ja minkä tyyppisissä sivustoissa olet käynyt Samsung Internetillä viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, minkä tyyppisiä sovelluksia olet käyttänyt ja minkä tyyppisissä sivustoissa olet käynyt Samsung Internetillä viimeisten %d päivän aikana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, missä olet viettänyt paljon aikaa viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, missä olet viettänyt paljon aikaa viimeisten %d päivän aikana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, mitä sovelluksia ja asetuksia olet käyttänyt eniten viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, mitä sovelluksia ja asetuksia olet käyttänyt eniten viimeisten %d päivän aikana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, milloin aloitit ja lopetit puhelimesi käytön viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, milloin aloitit ja lopetit puhelimesi käytön viimeisten %d päivän aikana.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Sen mukaan, milloin aloitit ja lopetit tablet-laitteesi käytön viimeisen %d päivän aikana.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">Sen mukaan, milloin aloitit ja lopetit tablet-laitteesi käytön viimeisten %d päivän aikana.</item>
+    </plurals>
+</resources>

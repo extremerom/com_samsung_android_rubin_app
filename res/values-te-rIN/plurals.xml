@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">అనుకూలీకరణ సేవని ఉపయోగించడానికి మీరు కనీసం %d సంవత్సరం వయస్సుని కలిగి ఉండాలి.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">అనుకూలీకరణ సేవని ఉపయోగించడానికి మీరు కనీసం %d సంవత్సరాల వయస్సుని కలిగి ఉండాలి.</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">క్యాలెండర్‌లో %d రకం ఈవెంట్</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">క్యాలెండర్‌లో %d రకాల ఈవెంట్‌లు</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ఇల్లు మరియు మరో %d తరచుగా సందర్శించిన ప్రదేశం గుర్తించబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ఇల్లు మరియు మరో %d తరచుగా సందర్శించిన ప్రదేశాలు గుర్తించబడ్డాయి</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d తరచుగా సందర్శించిన ప్రదేశం గుర్తించబడింది</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d తరచుగా సందర్శించిన ప్రదేశాలు గుర్తించబడ్డాయి</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో వ్యాయామం డేటా, అప్లికేషన్ ఉపయోగం మరియు పరికరం కనెక్షన్‌ల ఆధాంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో వ్యాయామం డేటా, అప్లికేషన్ ఉపయోగం మరియు పరికరం కనెక్షన్‌ల ఆధాంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో మీరు పాఠశాల, కార్యాలయం లేదా ఇంటికి ఎప్పుడు ప్రయాణించారనే దాని ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో మీరు పాఠశాల, కార్యాలయం లేదా ఇంటికి ఎప్పుడు ప్రయాణించారనే దాని ఆధారంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో స్యామ్‌సంగ్ ఇంటర్నెట్‌లో మీరు ఉపయోగించిన అప్లికేషన్ రకాలు మరియు మీరు సందర్శించిన వెబ్‌సైట్‌ల ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో స్యామ్‌సంగ్ ఇంటర్నెట్‌లో మీరు ఉపయోగించిన అప్లికేషన్ రకాలు మరియు మీరు సందర్శించిన వెబ్‌సైట్‌ల ఆధారంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో మీరు తరచుగా సమయాన్ని వెచ్చించిన ప్రదేశాల ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో మీరు తరచుగా సమయాన్ని వెచ్చించిన ప్రదేశాల ఆధారంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో మీరు ఎక్కువగా ఉపయోగించిన అప్లికేషన్‌లు మరియు సెట్టింగ్‌ల ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో మీరు ఎక్కువగా ఉపయోగించిన అప్లికేషన్‌లు మరియు సెట్టింగ్‌ల ఆధారంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో మీరు మీ ఫోన్‌ని ఉపయోగించడాన్ని ఎప్పుడు ప్రారంభించారు మరియు ఆపివేసారు అనే దాని ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో మీరు మీ ఫోన్‌ని ఉపయోగించడాన్ని ఎప్పుడు ప్రారంభించారు మరియు ఆపివేసారు అనే దాని ఆధారంగా.</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">గత %d రోజులో మీరు మీ టాబ్లెట్‌ని ఉపయోగించడాన్ని ఎప్పుడు ప్రారంభించారు మరియు ఆపివేసారు అనే దాని ఆధారంగా.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">గత %d రోజులలో మీరు మీ టాబ్లెట్‌ని ఉపయోగించడాన్ని ఎప్పుడు ప్రారంభించారు మరియు ఆపివేసారు అనే దాని ఆధారంగా.</item>
+    </plurals>
+</resources>

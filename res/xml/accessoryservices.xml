@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <application name="Runestone">
+        <serviceProfile id="/runestone/gear" name="runestone" role="consumer" serviceImpl="com.samsung.android.rubin.gearsync.tizen.ConsumerService" serviceLimit="ANY" serviceTimeout="10" version="1.0">
+            <supportedTransports>
+                <transport type="TRANSPORT_BT" />
+            </supportedTransports>
+            <serviceChannel dataRate="low" id="104" priority="low" reliability="enable" />
+        </serviceProfile>
+    </application>
+</resources>

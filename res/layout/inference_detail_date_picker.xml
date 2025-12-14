@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/date_prev_button" style="@style/Winset.Inferences.Detail.DatePicker.Prev" />
+    <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="1.0" />
+    <TextView android:id="@id/date_text" style="@style/Winset.Inferences.Detail.DateText" />
+    <View android:layout_width="0.0dp" android:layout_height="0.0dp" android:layout_weight="1.0" />
+    <ImageView android:id="@id/date_next_button" android:scaleX="-1.0" style="@style/Winset.Inferences.Detail.DatePicker.Next" />
+</LinearLayout>

@@ -1,0 +1,124 @@
+.class public final LHc/i0;
+.super LHc/y0;
+.source "SourceFile"
+
+
+# instance fields
+.field public h:LHc/i0;
+
+
+# virtual methods
+.method public final P(LHc/h0;)V
+    .locals 1
+
+    instance-of v0, p1, LHc/i0;
+
+    if-eqz v0, :cond_0
+
+    check-cast p1, LHc/i0;
+
+    iput-object p1, p0, LHc/i0;->h:LHc/i0;
+
+    return-void
+
+    :cond_0
+    new-instance p0, Ljava/lang/UnsupportedOperationException;
+
+    const-string p1, "Not allowed to set a parent on a QueryRoot object"
+
+    invoke-direct {p0, p1}, Ljava/lang/UnsupportedOperationException;-><init>(Ljava/lang/String;)V
+
+    throw p0
+.end method
+
+.method public final V(LVc/a;)V
+    .locals 0
+
+    invoke-virtual {p1, p0}, LVc/a;->meet(LHc/i0;)V
+
+    return-void
+.end method
+
+.method public final c()LHc/x0;
+    .locals 0
+
+    invoke-super {p0}, LHc/y0;->i()LHc/y0;
+
+    move-result-object p0
+
+    check-cast p0, LHc/i0;
+
+    return-object p0
+.end method
+
+.method public final clone()Ljava/lang/Object;
+    .locals 0
+
+    invoke-super {p0}, LHc/y0;->i()LHc/y0;
+
+    move-result-object p0
+
+    check-cast p0, LHc/i0;
+
+    return-object p0
+.end method
+
+.method public final equals(Ljava/lang/Object;)Z
+    .locals 1
+
+    instance-of v0, p1, LHc/i0;
+
+    if-eqz v0, :cond_0
+
+    invoke-super {p0, p1}, LHc/y0;->equals(Ljava/lang/Object;)Z
+
+    move-result p0
+
+    if-eqz p0, :cond_0
+
+    const/4 p0, 0x1
+
+    goto :goto_0
+
+    :cond_0
+    const/4 p0, 0x0
+
+    :goto_0
+    return p0
+.end method
+
+.method public final hashCode()I
+    .locals 1
+
+    iget-object p0, p0, LHc/y0;->g:LHc/x0;
+
+    invoke-virtual {p0}, Ljava/lang/Object;->hashCode()I
+
+    move-result p0
+
+    const v0, 0xbbe89aa
+
+    xor-int/2addr p0, v0
+
+    return p0
+.end method
+
+.method public final i()LHc/y0;
+    .locals 0
+
+    invoke-super {p0}, LHc/y0;->i()LHc/y0;
+
+    move-result-object p0
+
+    check-cast p0, LHc/i0;
+
+    return-object p0
+.end method
+
+.method public final i0()LHc/h0;
+    .locals 0
+
+    iget-object p0, p0, LHc/i0;->h:LHc/i0;
+
+    return-object p0
+.end method

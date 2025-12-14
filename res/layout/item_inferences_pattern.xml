@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/pattern_type" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Winset.Inferences.Detail.Pattern.Type" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Winset.Inferences.Detail.Pattern.IconDurationBox">
+        <ImageView android:id="@id/pattern_icon" app:tint="@color/winset_inferences_detail_icon" style="@style/Winset.Inferences.Detail.Pattern.Icon" />
+        <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/pattern_duration" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Winset.Inferences.Detail.Pattern.Duration" />
+    </LinearLayout>
+    <com.samsung.android.rubin.app.ui.widget.UpToLargeTextView android:id="@id/pattern_range" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/Winset.Inferences.Detail.Pattern.Range" />
+</LinearLayout>

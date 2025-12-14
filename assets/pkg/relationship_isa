@@ -1,0 +1,100 @@
+rsc:acquaintance
+rsc:assistant
+rsc:aunt	rsc:relative
+rsc:brother	rsc:sibling
+rsc:brother_in_law	rsc:family_in_law
+rsc:brother_of_mother	rsc:family_of_mother	rsc:uncle
+rsc:child	rsc:family
+rsc:close_friend	rsc:friend
+rsc:close_person
+rsc:colleague
+rsc:boss    rsc:colleague
+rsc:cousin	rsc:relative
+rsc:daughter	rsc:child
+rsc:daughter_in_law	rsc:family_in_law
+rsc:domestic_partner
+rsc:elder_brother_me_female	rsc:brother
+rsc:elder_brother_me_male	rsc:brother
+rsc:elder_brother_of_father	rsc:family_of_father	rsc:uncle
+rsc:elder_brother_of_husband	rsc:family_of_husband	rsc:brother_in_law
+rsc:elder_brother_of_wife	rsc:family_of_wife	rsc:brother_in_law
+rsc:elder_sister_me_female	rsc:sister
+rsc:elder_sister_me_male	rsc:sister
+rsc:elder_sister_of_husband	rsc:family_of_husband	rsc:sister_in_law
+rsc:elder_sister_of_wife	rsc:family_of_wife	rsc:sister_in_law
+rsc:family
+rsc:family_in_law	rsc:relative
+rsc:family_of_husband	rsc:family_in_law
+rsc:family_of_wife	rsc:family_in_law
+rsc:family_of_father	rsc:relative
+rsc:family_of_mother	rsc:relative
+rsc:father	rsc:parents
+rsc:father_in_law	rsc:family_in_law
+rsc:father_in_law_me_female	rsc:family_of_husband	rsc:father_in_law
+rsc:father_in_law_me_male	rsc:family_of_wife	rsc:father_in_law
+rsc:friend
+rsc:grandchildren	rsc:relative
+rsc:granddaughter	rsc:grandchildren
+rsc:grandfather	rsc:grandparents
+rsc:grandmother	rsc:grandparents
+rsc:grandparents	rsc:relative
+rsc:grandson	rsc:grandchildren
+rsc:husband	rsc:spouse
+rsc:husband_of_elder_sister_me_female	rsc:family_in_law	rsc:brother_in_law
+rsc:husband_of_elder_sister_me_male	rsc:family_in_law	rsc:brother_in_law
+rsc:husband_of_elder_sister_of_husband	rsc:family_of_husband
+rsc:husband_of_elder_sister_of_wife	rsc:family_of_wife
+rsc:husband_of_sister_of_father	rsc:uncle	rsc:family_of_father
+rsc:husband_of_sister_of_mother	rsc:uncle	rsc:family_of_mother
+rsc:husband_of_younger_sister_me_female	rsc:family_in_law	rsc:brother_in_law
+rsc:husband_of_younger_sister_me_male	rsc:family_in_law	rsc:brother_in_law
+rsc:husband_of_younger_sister_of_husband	rsc:family_of_husband
+rsc:husband_of_younger_sister_of_wife	rsc:family_of_wife
+rsc:manager
+rsc:maternal_granddaughter	rsc:grandchildren
+rsc:maternal_grandfather	rsc:grandfather	rsc:family_of_mother
+rsc:maternal_grandmother	rsc:grandmother	rsc:family_of_mother
+rsc:maternal_grandson	rsc:grandchildren
+rsc:mother	rsc:parents
+rsc:mother_in_law	rsc:family_in_law
+rsc:mother_in_law_me_female	rsc:family_of_husband	rsc:mother_in_law
+rsc:mother_in_law_me_male	rsc:family_of_wife	rsc:mother_in_law
+rsc:nephew	rsc:relative
+rsc:niece	rsc:relative
+rsc:parents	rsc:family
+rsc:partner
+rsc:paternal_granddaughter	rsc:grandchildren
+rsc:paternal_grandfather	rsc:grandfather	rsc:family_of_father
+rsc:paternal_grandmother	rsc:grandmother	rsc:family_of_father
+rsc:paternal_grandson	rsc:grandchildren
+rsc:reference
+rsc:relative
+rsc:sibling	rsc:family
+rsc:sister	rsc:sibling
+rsc:sister_in_law	rsc:family_in_law
+rsc:sister_of_father	rsc:family_of_father	rsc:aunt
+rsc:sister_of_mother	rsc:family_of_mother	rsc:aunt
+rsc:son	rsc:child
+rsc:son_in_law	rsc:family_in_law
+rsc:spouse	rsc:family
+rsc:uncle	rsc:relative
+rsc:wife	rsc:spouse
+rsc:wife_of_brother_of_mother	rsc:aunt	rsc:family_of_mother
+rsc:wife_of_elder_brother_me_female	rsc:family_in_law	rsc:sister_in_law
+rsc:wife_of_elder_brother_me_male	rsc:family_in_law	rsc:sister_in_law
+rsc:wife_of_elder_brother_of_father	rsc:aunt	rsc:family_of_father
+rsc:wife_of_elder_brother_of_husband	rsc:family_of_husband
+rsc:wife_of_elder_brother_of_wife	rsc:family_of_wife
+rsc:wife_of_younger_brother_me_female	rsc:family_in_law	rsc:sister_in_law
+rsc:wife_of_younger_brother_me_male	rsc:family_in_law	rsc:sister_in_law
+rsc:wife_of_younger_brother_of_father	rsc:aunt	rsc:family_of_father
+rsc:wife_of_younger_brother_of_husband	rsc:family_of_husband
+rsc:wife_of_younger_brother_of_wife	rsc:family_of_wife
+rsc:younger_brother	rsc:brother	rsc:younger_sibling
+rsc:younger_brother_of_father	rsc:family_of_father	rsc:uncle
+rsc:younger_brother_of_husband	rsc:family_of_husband	rsc:brother_in_law
+rsc:younger_brother_of_wife	rsc:family_of_wife	rsc:brother_in_law
+rsc:younger_sibling	rsc:sibling
+rsc:younger_sister	rsc:sister	rsc:younger_sibling
+rsc:younger_sister_of_husband	rsc:family_of_husband	rsc:sister_in_law
+rsc:younger_sister_of_wife	rsc:family_of_wife	rsc:sister_in_law

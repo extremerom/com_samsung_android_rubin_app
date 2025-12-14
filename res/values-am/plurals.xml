@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="child_protection_toast_with_age">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ማስተካከያ የማድረግ አገልግሎት ለመጠቀም ቢያንስ %d ዓመት መሆን ያስፈልግዎታል።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የማስተካከያ አገልግሎትን ለመጠቀም ቢያንስ %d አመት መሆን አለብዎት።</item>
+    </plurals>
+    <plurals name="inference_calendar_events_description">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">የቀን መቁጠሪያ መተግበሪያ ላይ %d የዝግጅት ዓይነት</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">የቀን መቁጠሪያ መተግበሪያ ላይ %d የዝግጅት ዓይነቶች</item>
+    </plurals>
+    <plurals name="inference_place_home_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ቤት እና %d ሌሎች በተደጋጋሚ የተጎበኘ ቦታ ተለይቷል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ቤት እና %d ሌሎች በተደጋጋሚ የተጎበኙ ቦታዎች ተለይተዋል</item>
+    </plurals>
+    <plurals name="inference_place_only_fvp">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d በተደጋጋሚ የተጎበኘ ቦታ ተለይቷል</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">%d በተደጋጋሚ የተጎበኙ ቦታዎች ተለይተዋል</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="one">%d አዲስ ማሳወቂያዎች</item>
+        <item quantity="other">%d አዲስ ማሳወቂያዎች</item>
+    </plurals>
+    <plurals name="supported_inference_description_activities">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">በለፈው %d ቀን የአካል ብቃት እንቅስቃሴ ውሂብ፣ የመተግበሪያ አጠቃቀም እና የመሣሪያ ግንኙነቶች ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">በአለፉት %d ቀናት የአካል ብቃት እንቅስቃሴ ውሂብ፣ የመተግበሪያ አጠቃቀም እና የመሣሪያ ግንኙነቶች ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_commute">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን ወደ ትምህርት ቤት፣ ስራ ወይም ቤት በተጓዙበት ጊዜ ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ወደ ትምህርት ቤት፣ ስራ ወይም ቤት በተጓዙበት ጊዜ ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_interests">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን ውስጥ በተጠቀሟቸው የመተግበሪያዎች አይነቶች እና በ Samsung በይነ-መረብ ላይ በጎበኟቸው ድር ጣቢያዎች ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ውስጥ በተጠቀሟቸው የመተግበሪያዎች አይነቶች እና በSamsung በይነ-መረብ ላይ በጎበኟቸው ድር ጣቢያዎች ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_places">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን በብዛት ቦታ ባሳለፉባቸው ቦታዎች ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ውስጥ ብዙ ጊዜ ባሳለፍካቸው ቦታዎች ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_preferences">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን በብዛት በተጠቀሙባቸው መተግበሪያዎች እና ቅንብሮች ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ውስጥ በብዛት በተጠቀሙባቸው መተግበሪያዎች እና ቅንብሮች ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_phone">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን ውስጥ ስልክዎን መጠቀም መቼ እንደጀመሩ እና እንዳቆሙ ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ውስጥ ስልክዎን መጠቀም መቼ እንደጀመሩ እና እንዳቆሙ ላይ በመመስረት።</item>
+    </plurals>
+    <plurals name="supported_inference_description_sleep_for_tablet">
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ባለፈው %d ቀን ውስጥ ታብሌትዎን መጠቀም መቼ እንደጀመሩ እና እንዳቆሙ ላይ በመመስረት።</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+        <item quantity="other">ባለፉት %d ቀናት ውስጥ ታብሌትዎን መጠቀም መቼ እንደጀመሩ እና እንዳቆሙ ላይ በመመስረት።</item>
+    </plurals>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/round_and_bgcolor" android:paddingTop="6.0dp" android:paddingBottom="2.0dp" android:layout_width="match_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@android:id/title" android:paddingBottom="2.0dp" style="@style/Winset.Lists.SupportedApps.Permission.Title" />
+    <TextView android:id="@android:id/summary" android:paddingBottom="0.0dp" style="@style/Winset.Lists.SupportedApps.Permission.Description" />
+</LinearLayout>
