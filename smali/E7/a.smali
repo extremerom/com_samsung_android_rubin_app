@@ -418,15 +418,15 @@
 
     const-string v1, "Error checking Samsung account"
 
-    filled-new-array {v1}, [Ljava/lang/Object;
+    new-array v0, v0, [Ljava/lang/Object;
 
-    move-result-object v1
-
-    invoke-static {v1}, Lz8/e;->e([Ljava/lang/Object;)V
+    invoke-static {v1, v0}, Lz8/e;->e(Ljava/lang/String;[Ljava/lang/Object;)V
 
     invoke-virtual {p0}, Ljava/lang/Throwable;->printStackTrace()V
 
-    return v0
+    const/4 p0, 0x0
+
+    return p0
 .end method
 
 .method public static declared-synchronized h(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)V
