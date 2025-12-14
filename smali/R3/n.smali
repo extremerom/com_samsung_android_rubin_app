@@ -123,7 +123,7 @@
 .end method
 
 .method public final U(Landroid/view/View;Landroid/os/Bundle;)V
-    .locals 2
+    .locals 3
 
     invoke-super {p0, p1, p2}, LR3/h;->U(Landroid/view/View;Landroid/os/Bundle;)V
 
