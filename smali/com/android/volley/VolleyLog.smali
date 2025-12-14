@@ -14,7 +14,7 @@
 # static fields
 .field private static final CLASS_NAME:Ljava/lang/String;
 
-.field public static DEBUG:Z = false
+.field public static DEBUG:Z = true
 
 .field public static TAG:Ljava/lang/String; = "Volley"
 
@@ -23,13 +23,8 @@
 .method static constructor <clinit>()V
     .locals 2
 
-    const-string v0, "Volley"
-
-    const/4 v1, 0x2
-
-    invoke-static {v0, v1}, Landroid/util/Log;->isLoggable(Ljava/lang/String;I)Z
-
-    move-result v0
+    # Force DEBUG to true
+    const/4 v0, 0x1
 
     sput-boolean v0, Lcom/android/volley/VolleyLog;->DEBUG:Z
 
