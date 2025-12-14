@@ -920,13 +920,9 @@
 
     if-eqz p1, :cond_b
 
-    new-instance p1, Landroid/widget/Toast;
-
     invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
 
-    move-result-object v0
-
-    invoke-direct {p1, v0}, Landroid/widget/Toast;-><init>(Landroid/content/Context;)V
+    move-result-object p1
 
     const-string v0, "Debug Menu Unlocked!"
 
@@ -951,13 +947,9 @@
 
     if-eqz p1, :cond_c
 
-    new-instance p1, Landroid/widget/Toast;
-
     invoke-virtual {p0}, Landroidx/fragment/app/x;->v()Landroid/content/Context;
 
-    move-result-object v0
-
-    invoke-direct {p1, v0}, Landroid/widget/Toast;-><init>(Landroid/content/Context;)V
+    move-result-object p1
 
     const-string v0, "QA Provider Access Enabled!"
 

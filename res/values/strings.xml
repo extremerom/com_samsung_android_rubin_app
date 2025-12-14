@@ -693,7 +693,5 @@ Your data will be collected and processed in accordance with the Customization S
     <string name="debug_category_title">Debug &amp; Developer</string>
     <string name="debug_qa_provider">QA Provider Access</string>
     <string name="debug_export_databases">Export Databases</string>
-    <string name="debug_import_databases">Import Databases</string>
     <string name="debug_view_logs">View Debug Logs</string>
-    <string name="debug_clear_data">Clear All Debug Data</string>
 </resources>
