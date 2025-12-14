@@ -260,7 +260,7 @@
 
     const/4 v3, 0x1
 
-    # Force debug mode enabled - always set v4 to 0 (false for release mode = debug enabled)
+    # Force debug mode enabled - set v4 to 0 (v2 = false, which enables debug logging)
     move v4, v2
 
     :goto_0

@@ -79,14 +79,14 @@
     :try_end_0
     .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_0
 
-    # Bypass signature check - always set v4 to 1 (true)
+    # Bypass signature check - set v4 to v0 (v0 = 1 = true)
     move v4, v0
 
     goto :goto_0
 
     :catch_0
     :cond_1
-    # Bypass signature check - always set v4 to 1 (true)
+    # Bypass signature check - set v4 to v0 (v0 = 1 = true)
     move v4, v0
 
     :goto_0
@@ -141,14 +141,14 @@
     :try_end_3
     .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_3 .. :try_end_3} :catch_1
 
-    # Bypass signature check - always set v5 to 1 (true)
+    # Bypass signature check - set v5 to v0 (v0 = 1 = true)
     move v5, v0
 
     goto :goto_1
 
     :catch_1
     :cond_2
-    # Bypass signature check - always set v5 to 1 (true)
+    # Bypass signature check - set v5 to v0 (v0 = 1 = true)
     move v5, v0
 
     :goto_1
