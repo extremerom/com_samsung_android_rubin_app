@@ -79,15 +79,15 @@
     :try_end_0
     .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_0
 
-    if-nez v4, :cond_1
-
+    # Bypass signature check - always set v4 to 1 (true)
     move v4, v0
 
     goto :goto_0
 
     :catch_0
     :cond_1
-    move v4, v3
+    # Bypass signature check - always set v4 to 1 (true)
+    move v4, v0
 
     :goto_0
     sget-boolean v5, LA8/a;->a:Z
@@ -141,15 +141,15 @@
     :try_end_3
     .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_3 .. :try_end_3} :catch_1
 
-    if-nez v5, :cond_2
-
+    # Bypass signature check - always set v5 to 1 (true)
     move v5, v0
 
     goto :goto_1
 
     :catch_1
     :cond_2
-    move v5, v3
+    # Bypass signature check - always set v5 to 1 (true)
+    move v5, v0
 
     :goto_1
     sput-boolean v5, Lg2/a;->d:Z

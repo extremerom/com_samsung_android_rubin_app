@@ -242,7 +242,7 @@
 
     invoke-virtual {p3, p1}, Ljava/lang/StringBuilder;->append(Z)Ljava/lang/StringBuilder;
 
-    const-string v0, ", isDebugMode: false"
+    const-string v0, ", isDebugMode: true"
 
     invoke-virtual {p3, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
 
