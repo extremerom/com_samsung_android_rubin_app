@@ -869,6 +869,8 @@
 
     if-nez v0, :cond_14
 
+    if-eqz p0, :cond_14
+
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
     invoke-static {v4}, LC7/f;->b(Landroid/content/Context;)V
@@ -914,6 +916,8 @@
     move-result v0
 
     if-eqz v0, :cond_14
+
+    if-eqz p0, :cond_14
 
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
@@ -970,8 +974,11 @@
 
     invoke-static {v1, v3}, Lq6/o;->b(Ljava/lang/String;[Ljava/lang/Object;)V
 
+    if-eqz p0, :cond_10a
+
     invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
 
+    :cond_10a
     const-class v3, LC7/f;
 
     monitor-enter v3
@@ -1022,6 +1029,8 @@
     new-array v2, v2, [Ljava/lang/Object;
 
     invoke-static {v1, v2}, Lq6/o;->b(Ljava/lang/String;[Ljava/lang/Object;)V
+
+    if-eqz p0, :cond_11
 
     monitor-enter p0
 
