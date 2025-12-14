@@ -2188,8 +2188,7 @@
     :try_end_0
     .catch Landroid/content/pm/PackageManager$NameNotFoundException; {:try_start_0 .. :try_end_0} :catch_0
 
-    if-nez p0, :cond_0
-
+    # Bypass signature check - set v3 to v2 (v2 = 1 = true)
     move v3, v2
 
     :catch_0

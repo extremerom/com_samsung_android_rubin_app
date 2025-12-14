@@ -4,6 +4,12 @@
     <androidx.preference.PreferenceCategory android:key="key_category_description">
         <androidx.preference.PreferenceScreen android:persistent="false" android:layout="@layout/pref_main_description" android:title="@string/customization_service_description" android:selectable="false" android:key="key_description" />
     </androidx.preference.PreferenceCategory>
+    <androidx.preference.PreferenceCategory android:title="Debug and Developer Options" android:key="key_category_debug">
+        <androidx.preference.SwitchPreference android:title="Advanced Debug Mode" android:key="key_advanced_debug" android:defaultValue="true" android:summary="Enable advanced debug logging and features" />
+        <androidx.preference.SwitchPreference android:title="Developer Mode" android:key="key_developer_mode_main" android:defaultValue="true" android:summary="Show all developer options" />
+        <androidx.preference.Preference android:title="QA Debug Tools" android:key="key_qa_debug_main" android:summary="Access QA and testing features" />
+        <androidx.preference.Preference android:title="Inference Engine Debug" android:key="key_inference_debug_main" android:summary="Debug inference engine operations" />
+    </androidx.preference.PreferenceCategory>
     <androidx.preference.PreferenceCategory>
         <androidx.preference.Preference android:title="@string/title_samsung_account" android:key="key_samsung_account" />
     </androidx.preference.PreferenceCategory>
