@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:sharedUserId="android.uid.intelligenceservice" android:versionCode="370102000" android:versionName="3.7.01.2" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.android.rubin.app" platformBuildVersionCode="36" platformBuildVersionName="16"
+<manifest android:versionCode="370102000" android:versionName="3.7.01.2" android:compileSdkVersion="36" android:compileSdkVersionCodename="16" package="com.samsung.android.rubin.app" platformBuildVersionCode="36" platformBuildVersionName="16"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <uses-sdk android:minSdkVersion="36" android:targetSdkVersion="36" />
     <uses-permission android:name="com.samsung.systemui.POPUP_UI_PERMISSION" />
